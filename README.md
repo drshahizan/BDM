@@ -25,32 +25,32 @@ This course provides a basic fundamental of big data architecture and management
 ## Weekly Schedule
 
 | Week     | Topic                                                   |
-|----------|---------------------------------------------------------|
-| Week 1   | **Introduction to Big Data and Big Data Analytics** <br>- Fundamentals and concepts of big data |
-| Week 2   | **Big Data Processing and Technology** <br>- Batch, real-time, and streaming processing. <br>- Scalability, storage, sourcing challenges. |
-| Week 3-4 |  - ACID, BASE, and CAP theorem <br>- Distributed File Processing & Map Reduce Processing |
-| Week 5   | - Lambda Architecture |
-| Week 6-7 | Assignment 2                                           |
+|----------:|---------------------------------------------------------|
+| 1   | **Introduction to Big Data and Big Data Analytics** <br>- Fundamentals and concepts of big data |
+| 2   | **Big Data Processing and Technology** <br>- Batch, real-time, and streaming processing. <br>- Scalability, storage, sourcing challenges. |
+| 3-4 |  - ACID, BASE, and CAP theorem <br>- Distributed File Processing & Map Reduce Processing |
+| 5   | - Lambda Architecture |
+| 6-7 | Assignment 2                                           |
 |           | - Relational Database (RDBMS)                           |
 |           | - Relational Data Modelling                             |
 |           | - Database design phases                                |
-| Week 8   | Lab assignment 1                                       |
+| 8   | Lab assignment 1                                       |
 |           | - Relational Database (RDBMS)                           |
 |           | - SQL programming (DDL, DML, CRUD Operation)            |
-| Week 9   | Lab assignment 2                                       |
+| 9   | Lab assignment 2                                       |
 |           | - Relational Database (RDBMS)                           |
 |           | - SQL programming (Subqueries, Join Tables, Aggregate)  |
-| Week 10  | No SQL Database                                        |
+| 10  | No SQL Database                                        |
 |           | - Introduction to No SQL database                       |
 |           | - Semi-structured data Modelling (Key Value, Column Family, Document, and Graph) |
-| Week 11-12| Lab assignment 3 & 4                                   |
+| 11-12| Lab assignment 3 & 4                                   |
 |           | - No SQL database (Document-based Database)             |
 |           | - Document-based data modelling                         |
 |           | - MongoDB query language                               |
-| Week 13-14| Cloud Technology                                       |
+| 13-14| Cloud Technology                                       |
 |           | - Introduction to Cloud                                |
 |           | - AWS Cloud (via AWS Learning Management System)        |
-| Week 15  | Project Presentation                                   |
+| 15  | Project Presentation                                   |
 
 
 ## Project
