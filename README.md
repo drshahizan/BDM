@@ -30,17 +30,12 @@ This course provides a basic fundamental of big data architecture and management
 | 2   | **Big Data Processing and Technology** <br>- Batch, real-time, and streaming processing. <br>- Scalability, storage, sourcing challenges. |
 | 3-4 |  - ACID, BASE, and CAP theorem <br>- Distributed File Processing & Map Reduce Processing |
 | 5   | - Lambda Architecture |
-| 6-7 | Assignment 2                                           |
-|           | - Relational Database (RDBMS)                           |
-|           | - Relational Data Modelling                             |
-|           | - Database design phases                                |
-| 8   | Lab assignment 1                                       |
-|           | - Relational Database (RDBMS)                           |
-|           | - SQL programming (DDL, DML, CRUD Operation)            |
+| 6-7 | **Relational Database (RDBMS)** <br>- Relational Data Modelling <br>- Database design phases                                |
+| 8   | **Relational Database (RDBMS)** <br>- SQL programming (DDL, DML, CRUD Operation)            |
 | 9   | **Relational Database (RDBMS)** <br> - SQL programming (Subqueries, Join Tables, Aggregate)  |
 | 10  | **No SQL Database** <br>- Introduction to No SQL database <br>- Semi-structured data Modelling (Key Value, Column Family, Document, and Graph) |
 | 11-12| **No SQL database (Document-based Database)** <br>- Document-based data modelling <br>- MongoDB query language |
-| 13-14| Cloud Technology <br>- Introduction to Cloud <br>- AWS Cloud (via AWS Learning Management System) |
+| 13-14| **Cloud Technology** <br>- Introduction to Cloud <br>- AWS Cloud (via AWS Learning Management System) |
 | 15  | Project Presentation |
 
 
