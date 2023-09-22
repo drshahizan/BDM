@@ -26,17 +26,10 @@ This course provides a basic fundamental of big data architecture and management
 
 | Week     | Topic                                                   |
 |----------|---------------------------------------------------------|
-| Week 1   | Introduction to Big Data and Big Data Analytics        |
-|           | - Fundamentals and concepts of big data                 |
-| Week 2   | Big Data Processing and Technology                      |
-|           | - Batch, real-time, and streaming processing             |
-|           | - Scalability, storage, sourcing challenges             |
-| Week 3-4 | Assignment 1                                           |
-|           | - ACID, BASE, and CAP theorem                            |
-|           | - Distributed File Processing & Map Reduce Processing    |
-| Week 5   | Big Data Processing and Technology                      |
-|           | - Lambda Architecture                                   |
-|           | Semester Break: 21-29 April 2023                        |
+| Week 1   | **Introduction to Big Data and Big Data Analytics** <br>- Fundamentals and concepts of big data |
+| Week 2   | **Big Data Processing and Technology** <br>- Batch, real-time, and streaming processing. <br>- Scalability, storage, sourcing challenges. |
+| Week 3-4 |  - ACID, BASE, and CAP theorem <br>- Distributed File Processing & Map Reduce Processing |
+| Week 5   | - Lambda Architecture |
 | Week 6-7 | Assignment 2                                           |
 |           | - Relational Database (RDBMS)                           |
 |           | - Relational Data Modelling                             |
