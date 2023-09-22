@@ -25,7 +25,7 @@ This course provides a basic fundamental of big data architecture and management
 ## Weekly Schedule
 
 | Week     | Topic                                                   |
-|----------:|---------------------------------------------------------|
+|:----------:|---------------------------------------------------------|
 | 1   | **Introduction to Big Data and Big Data Analytics** <br>- Fundamentals and concepts of big data |
 | 2   | **Big Data Processing and Technology** <br>- Batch, real-time, and streaming processing. <br>- Scalability, storage, sourcing challenges. |
 | 3-4 |  - ACID, BASE, and CAP theorem <br>- Distributed File Processing & Map Reduce Processing |
@@ -37,20 +37,11 @@ This course provides a basic fundamental of big data architecture and management
 | 8   | Lab assignment 1                                       |
 |           | - Relational Database (RDBMS)                           |
 |           | - SQL programming (DDL, DML, CRUD Operation)            |
-| 9   | Lab assignment 2                                       |
-|           | - Relational Database (RDBMS)                           |
-|           | - SQL programming (Subqueries, Join Tables, Aggregate)  |
-| 10  | No SQL Database                                        |
-|           | - Introduction to No SQL database                       |
-|           | - Semi-structured data Modelling (Key Value, Column Family, Document, and Graph) |
-| 11-12| Lab assignment 3 & 4                                   |
-|           | - No SQL database (Document-based Database)             |
-|           | - Document-based data modelling                         |
-|           | - MongoDB query language                               |
-| 13-14| Cloud Technology                                       |
-|           | - Introduction to Cloud                                |
-|           | - AWS Cloud (via AWS Learning Management System)        |
-| 15  | Project Presentation                                   |
+| 9   | **Relational Database (RDBMS)** <br> - SQL programming (Subqueries, Join Tables, Aggregate)  |
+| 10  | **No SQL Database** <br>- Introduction to No SQL database <br>- Semi-structured data Modelling (Key Value, Column Family, Document, and Graph) |
+| 11-12| **No SQL database (Document-based Database)** <br>- Document-based data modelling <br>- MongoDB query language |
+| 13-14| Cloud Technology <br>- Introduction to Cloud <br>- AWS Cloud (via AWS Learning Management System) |
+| 15  | Project Presentation |
 
 
 ## Project
