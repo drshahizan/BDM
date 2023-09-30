@@ -21,7 +21,8 @@ This course provides a basic fundamental of big data architecture and management
 
 ## 🔥 Important things
 1. [AWS Academy Cloud Foundations](https://awsacademy.instructure.com/courses/60317)
-2. [AWS Academy Machine Learning for Natural Language Processing](https://awsacademy.instructure.com/courses/60323)
+2. [AWS Academy Cloud Architecting](https://awsacademy.instructure.com/courses/60318)
+3. [AWS Academy Machine Learning for Natural Language Processing](https://awsacademy.instructure.com/courses/60323)
 
 
 ## Weekly Schedule
