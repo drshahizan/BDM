@@ -9,13 +9,8 @@
 
 ## Student Information
 
-| No. | Name                                     | ID          | Github                         | Linked in |
-|-----:|------------------------------------------|-------------|:--------------------------------:| :--------------------------------:|
-| 0   | Mohd Shahizan Othman          | drshahizan            | [:octocat:](https://github.com/drshahizan) | <a href="https://www.linkedin.com/in/drshahizan" ><img src="./images/linkedin.png" width="24px" height="24px" ></a> |
-
-
 | No. | Name                                    | ID         | Github                                 | Linked in                                                                       |
-|-----|-----------------------------------------|------------|---------------------------------------|---------------------------------------------------------------------------------|
+|-----|-----------------------------------------|------------|:---------------------------------------:|:---------------------------------------------------------------------------------:|
 | 0   | BAKUNGA BRONSON                         | bronson    | [:octocat:](https://github.com/BakungaBronson)   | <a href="https://www.linkedin.com/in/bronson-bakunga-682a581ba"><img src="./images/linkedin.png" width="24px" height="24px"></a>              |
 | 1   | HAZEM TAHER OMRAN FENNEER               | hfenneer   | [:octocat:](https://github.com/HazemFenneer)     | <a href="https://www.linkedin.com/in/hazem-fenneer-7aa8b3219"><img src="./images/linkedin.png" width="24px" height="24px"></a>                |
 | 2   | LEE SEOW MING THERESA                   | Theresa20191 | [:octocat:](https://github.com/Theresa20191)     | <a href="https://www.linkedin.com/in/theresa-lee-667162149"><img src="./images/linkedin.png" width="24px" height="24px"></a>              |
