@@ -9,52 +9,30 @@
 
 ## Student Information
 
-| No. | Name                                     | ID          | Github                         | Linked in |
-|-----:|------------------------------------------|-------------|:--------------------------------:| :--------------------------------:|
-| 0   | Mohd Shahizan Othman          | drshahizan            | [:octocat:](https://github.com/drshahizan) | <a href="https://www.linkedin.com/in/drshahizan" ><img src="./images/linkedin.png" width="24px" height="24px" ></a> |
-| 1   | Abdul Muhaimin Bin Abdul Razak          |Muhaimin005             | [:octocat:](https://github.com/Muhaimin005) |
-| 2   | Alieya Zawanie Binti A Zaini            |AlieyaZawanie             | [:octocat:](https://github.com/AlieyaZawanie) |
-| 3   | Aliya Zarena Binti Zainulanuar          |al1yaz       | [:octocat:](https://github.com/al1yaz) |
-| 4   | Alya Balqiss Binti Azahar               |aly4blqss     | [:octocat:](https://github.com/aly4blqss) |
-| 5   | Alya Damia Binti Huzaimy                |alydmia      | [:octocat:](https://github.com/alydmia) |
-| 6   | Ang Yi Qin                              |  yiqin0209           | [:octocat:](https://github.com/yiqin0209) |
-| 7   | Fauzan Aqil Bin Azman                   |FauzanAqil26           | [:octocat:](https://github.com/FauzanAqil26) |
-| 8   | Fong Khah Kheh                          |khahkhehhh             | [:octocat:](https://github.com/khahkhehhh) |
-| 9   | Hafizulshah Bin Sharom                  |Hafizulshah  | [:octocat:](https://github.com/Hafizulshah) |
-| 10  | Ikmal Bin Khairulezuan                  |Ikkha02      | [:octocat:](https://github.com/Ikkha02) |
-| 11  | Izzat Haqeemi Bin Hairudin              |IzzatHaqeemi| [:octocat:](https://github.com/IzzatHaqeemi) |
-| 12  | Kee Shin Pearl                          |shinpearll   | [:octocat:](https://github.com/shinpearll) |
-| 13  | Lau Yee Chi                             |faustinalyc             | [:octocat:](https://github.com/faustinalyc) |
-| 14  | Liew Yvonne                             |Yvonneee24   | [:octocat:](https://github.com/Yvonneee24) |
-| 15  | Ling Wan Yin                            |WanYin0704   | [:octocat:](https://github.com/WanYin0704) |
-| 16  | Loo Zhi Yuan                            |lzy0007      | [:octocat:](https://github.com/lzy0007) |
-| 17  | Mohamad Azri Hadif Bin Mohammad Rizal  |azkatsuragi| [:octocat:](https://github.com/azkatsuragi) |
-| 18  | Muhammad Adam Fahmi Bin Mohd Taufiq     |adamochie    | [:octocat:](https://github.com/adamochie) |
-| 19  | Muhammad Amir Jamil Bin Jamlus          | AmirJamilJamlus            | [:octocat:](https://github.com/your_id) |
-| 20  | Muhammad Ashraaf Bin Saleh              |AshraafSaleh| [:octocat:](https://github.com/AshraafSaleh) |
-| 21  | Muhammad Farhan Bin Ibrahim             |farhanibrhim             | [:octocat:](https://github.com/farhanibrhim) |
-| 22  | Muhammad Fikri Bin Sharunazim           |fkrshrnzm             | [:octocat:](https://github.com/fkrshrnzm) |
-| 23  | Muhammad Harith Hakim Bin Othman        |harithothman             | [:octocat:](https://github.com/harithothman) |
-| 24  | Muhammad Hasan Bin Che Abdullah         |Hasan-Che    | [:octocat:](https://github.com/Hasan-Che) |
-| 25  | Muhammad Hazim Bin Salman               |hazimSalman             | [:octocat:](https://github.com/your_id) |
-| 26  | Muhammad Iqmal Bin Sis                  |Miqmal             | [:octocat:](https://github.com/your_id) |
-| 27  | Muhammad Izzuddin Bin Shabrin           |izzuddin125             | [:octocat:](https://github.com/izzuddin125) |
-| 28  | Muhammad Naquib Bin Zakaria             |nqbzkr01     | [:octocat:](https://github.com/nqbzkr01) |
-| 29  | Nadia Syafiqah Binti Zulkipli           |nadiamel     | [:octocat:](https://github.com/nadiamel) |
-| 30  | Ng Suang Joo                            |SuangJoo             | [:octocat:](https://github.com/SuangJoo) |
-| 31  | Ng Zi Xing                              |ngzxing      | [:octocat:](https://github.com/ngzxing) |
-| 32  | Nik Amirul Ariff Bin Amran              |NickimiyO    | [:octocat:](https://github.com/NickimiyO) |
-| 33  | Nur Khuzairie Zakwan Bin Mohd Zamri     |nurkhuzairiezakwan             | [:octocat:](https://github.com/nurkhuzairiezakwan) |
-| 34  | Nur Shuhada Safiah Binti Ayob           |ShuhadaSafiah            | [:octocat:](https://github.com/ShuhadaSafiah) |
-| 35  | Nurunnajwa Binti Zulkifli               |Nurunnajwa12             | [:octocat:](https://github.com/Nurunnajwa12) |
-| 36  | Sam Chia Yun                            |ChiayunSam   | [:octocat:](https://github.com/ChiayunSam) |
-| 37  | Sarah Wardina Binti Rafidin             |sarahwardina| [:octocat:](https://github.com/sarahwardina) |
-| 38  | Soo Wan Ying                            |wying1       | [:octocat:](https://github.com/wying1) |
-| 39  | Umar Haziq Bin Muhamad Norhisham        |  umarhaziq           | [:octocat:](https://github.com/your_id) |
-| 40  | Wan Amirul Hafiq Bin Wan Huzaini        |Hafiq02             | [:octocat:](https://github.com/Hafiq02) |
-| 41  | Yasmeen Natasha Binti Hafiz Shahrel     |yasmeennatasha| [:octocat:](https://github.com/yasmeennatasha) |
-| 42  | Yew Rui Xiang                           |yruixiang   | [:octocat:](https://github.com/yruixiang) |
-| 43  | Mikhail Bin Yassin                       |mikhaiIy    | [:octocat:](https://github.com/mikhaiIy) |
+| No. | Name                                    | ID         | Github                                 | Linked in                                                                       |
+|-----|-----------------------------------------|------------|:---------------------------------------:|:---------------------------------------------------------------------------------:|
+| 0   | BAKUNGA BRONSON                         | BakungaBronson    | [:octocat:](https://github.com/BakungaBronson)   | <a href="https://www.linkedin.com/in/bronson-bakunga-682a581ba"><img src="./images/linkedin.png" width="24px" height="24px"></a>              |
+| 1   | HAZEM TAHER OMRAN FENNEER               | HazemFenneer   | [:octocat:](https://github.com/HazemFenneer)     | <a href="https://www.linkedin.com/in/hazem-fenneer-7aa8b3219"><img src="./images/linkedin.png" width="24px" height="24px"></a>                |
+| 2   | LEE SEOW MING THERESA                   | Theresa20191 | [:octocat:](https://github.com/Theresa20191)     | <a href="https://www.linkedin.com/in/theresa-lee-667162149"><img src="./images/linkedin.png" width="24px" height="24px"></a>              |
+| 3   | LWANGA AKSAM                            | aksamlwanga | [:octocat:](https://github.com/aksamlwanga)      | <a href="https://www.linkedin.com/in/aksam-lwanga-a5935618b"><img src="./images/linkedin.png" width="24px" height="24px"></a>            |
+| 4   | LYE KAH HOOI                             | LyeKahHooi    | [:octocat:](https://github.com/LyeKahHooi)       | <a href="https://www.linkedin.com/in/hooi-lye-094a8b295"><img src="./images/linkedin.png" width="24px" height="24px"></a>              |
+| 5   | MOHAMMED RAZA ASFAK CHIDIMAR            | DSRaza403   | [:octocat:](https://github.com/DSRaza403)        | <a href="https://www.linkedin.com/in/mohammed-raza-chidimar-8016831a9"><img src="./images/linkedin.png" width="24px" height="24px"></a>  |
+| 6   | MOHD NOR BIN MOHD SALLEH                | manots1029 | [:octocat:](https://github.com/manots1029)      | <a href="https://www.linkedin.com/in/mohd-nor-mohidin-866599163"><img src="./images/linkedin.png" width="24px" height="24px"></a>    |
+| 7   | MUHAMMAD ABUBAKAR SADIQ                 | amsadeeq | [:octocat:](https://github.com/amsadeeq)         | <a href="https://www.linkedin.com/in/abubakar-sadiq-muhammad-34b0391b1"><img src="./images/linkedin.png" width="24px" height="24px"></a> |
+| 8   | NABILA HUSNA BINTI ROSLI                | rnabilahusna  | [:octocat:](https://github.com/rnabilahusna)     | <a href="https://www.linkedin.com/in/rnabila-husna"><img src="./images/linkedin.png" width="24px" height="24px"></a>                    |
+| 9   | NIAN CONG                                | ninclever   | [:octocat:](https://github.com/ninclever)        | <a href="https://www.linkedin.com/in/cong-nian-0b8980293"><img src="./images/linkedin.png" width="24px" height="24px"></a>             |
+| 10  | NITISH SAKTHIVELL SATHIS                 |            |                                          |                                                                                 |
+| 11  | NUR AZIMAH BINTI MOHD SALLEH            | Azieyy | [:octocat:](https://github.com/Azieyy)        | <a href="http://www.linkedin.com/in/nurazimahmohdsalleh"><img src="./images/linkedin.png" width="24px" height="24px"></a>               |
+| 12  | NUR SHAHIRAH BINTI JAILANI              | Shahirah00 | [:octocat:](https://github.com/Shahirah00)      | <a href="https://www.linkedin.com/in/nur-shahirah-binti-jailani-109548249"><img src="./images/linkedin.png" width="24px" height="24px"></a>|
+| 13  | PANG CHERN HONG                         | PangyourQA | [:octocat:](https://github.com/PangyourQA)   | <a href="https://www.linkedin.com/in/pang-chern-hong-a18827184"><img src="./images/linkedin.png" width="24px" height="24px"></a>    |
+| 14  | RANJEET A/L THIAGARAJAN                 | RanjeetThiaga | [:octocat:](https://github.com/RanjeetThiaga)    | <a href="https://www.linkedin.com/in/ranjeet-thiagarajan-ba5a56234"><img src="./images/linkedin.png" width="24px" height="24px"></a> |
+| 15  | SHIVANESH A/L SIVAKUMAR                 | shivanesh31 | [:octocat:](https://github.com/shivanesh31)     | <a href="https://www.linkedin.com/in/shivanesh-sivakumar"><img src="./images/linkedin.png" width="24px" height="24px"></a>             |
+| 16  | SITI NORAFIZAH BINTI AB AZIZ            | sitinorafizah | [:octocat:](https://github.com/sitinorafizah)   | <a href="https://www.linkedin.com/in/sitinorafizah"><img src="./images/linkedin.png" width="24px" height="24px"></a>                   |
+| 17  | THANEATHARRAN A/L SANTHARASEKARAN       | Thaneatharran | [:octocat:](https://github.com/Thaneatharran) | <a href="https://www.linkedin.com/in/thaneatharran-santharasekaran"><img src="./images/linkedin.png" width="24px" height="24px"></a>  |
+| 18  | THONG YEE MOON                          | yeemoonthong | [:octocat:](https://github.com/yeemoonthong) | <a href="https://www.linkedin.com/in/thong-yee-moon-7ba20a165"><img src="./images/linkedin.png" width="24px" height="24px"></a>       |
+| 19  | WU JIAMING                              | BUMBLEBEEWU   | [:octocat:](https://github.com/BUMBLEBEEWU)     | <a href="https://www.linkedin.com/in/%E5%98%89%E9%93%AD-%E5%90%B4-b186aa295"><img src="./images/linkedin.png" width="24px" height="24px"></a>|
+| 20  | ZUHAYR ARIF BIN ZAKARIA                | zuhayraz     | [:octocat:](https://github.com/zuhayraz)        | <a href="https://www.linkedin.com/in/zuhayraz"><img src="./images/linkedin.png" width="24px" height="24px"></a>                          |
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
