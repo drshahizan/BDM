@@ -33,9 +33,7 @@
 | 14  | RANJEET A/L THIAGARAJAN                 | ranjeetthiaga | [:octocat:](https://github.com/RanjeetThiaga)    | <a href="https://www.linkedin.com/in/ranjeet-thiagarajan-ba5a56234"><img src="./images/linkedin.png" width="24px" height="24px"></a> |
 | 15  | SHIVANESH A/L SIVAKUMAR                 | shivanesh31 | [:octocat:](https://github.com/shivanesh31)     | <a href="https://www.linkedin.com/in/shivanesh-sivakumar"><img src="./images/linkedin.png" width="24px" height="24px"></a>             |
 | 16  | SITI NORAFIZAH BINTI AB AZIZ            | sitinorafizah | [:octocat:](https://github.com/sitinorafizah)   | <a href="https://www.linkedin.com/in/sitinorafizah"><img src="./images/linkedin.png" width="24px" height="24px"></a>                   |
-| 17  | THANEATHARRAN A/L SANTHARASEKARAN       | thanea27sekaran | [:octocat:](https://github.com/Thaneatharran) | <a href="https://www.linkedin.com/in/thane
-
-atharran-santharasekaran"><img src="./images/linkedin.png" width="24px" height="24px"></a>  |
+| 17  | THANEATHARRAN A/L SANTHARASEKARAN       | thanea27sekaran | [:octocat:](https://github.com/Thaneatharran) | <a href="https://www.linkedin.com/in/thaneatharran-santharasekaran"><img src="./images/linkedin.png" width="24px" height="24px"></a>  |
 | 18  | THONG YEE MOON                          | yvonnethong1997 | [:octocat:](https://github.com/yeemoonthong) | <a href="https://www.linkedin.com/in/thong-yee-moon-7ba20a165"><img src="./images/linkedin.png" width="24px" height="24px"></a>       |
 | 19  | WU JIAMING                              | David_24   | [:octocat:](https://github.com/BUMBLEBEEWU)     | <a href="https://www.linkedin.com/in/%E5%98%89%E9%93%AD-%E5%90%B4-b186aa295"><img src="./images/linkedin.png" width="24px" height="24px"></a>|
 | 20  | ZUHAYR ARIF BIN ZAKARIA                | zarif4     | [:octocat:](https://github.com/zuhayraz)        | <a href="https://www.linkedin.com/in/zuhayraz"><img src="./images/linkedin.png" width="24px" height="24px"></a>                          |
