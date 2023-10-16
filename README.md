@@ -40,10 +40,11 @@ This course provides a basic fundamental of big data architecture and management
 3. Discuss current technology that support for sustainability of the big data platform ecosystem.
 
 ## 🔥 Important things
-1. [AWS Academy Cloud Foundations](https://awsacademy.instructure.com/courses/60317)
-2. [AWS Academy Cloud Architecting](https://awsacademy.instructure.com/courses/60318)
-3. [AWS Academy Data Engineering](https://awsacademy.instructure.com/courses/60401)
-4. [AWS Academy Machine Learning for Natural Language Processing](https://awsacademy.instructure.com/courses/60323)
+1. [Students Information](student.md)
+2. [AWS Academy Cloud Foundations](https://awsacademy.instructure.com/courses/60317)
+3. [AWS Academy Cloud Architecting](https://awsacademy.instructure.com/courses/60318)
+4. [AWS Academy Data Engineering](https://awsacademy.instructure.com/courses/60401)
+5. [AWS Academy Machine Learning for Natural Language Processing](https://awsacademy.instructure.com/courses/60323)
 
 ## Weekly Schedule
 
