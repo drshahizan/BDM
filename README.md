@@ -41,7 +41,7 @@ This course provides a basic fundamental of big data architecture and management
 
 ## 🔥 Important things
 1. [Student Information](student.md)
-2. [Course Information](L1_BigDataManagement.pdf)
+2. [Course Information](./images/L1_BigDataManagement.pdf)
 3. [AWS Academy Cloud Foundations](https://awsacademy.instructure.com/courses/60317)
 4. [AWS Academy Cloud Architecting](https://awsacademy.instructure.com/courses/60318)
 5. [AWS Academy Data Engineering](https://awsacademy.instructure.com/courses/60401)
