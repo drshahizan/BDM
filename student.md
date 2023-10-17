@@ -10,7 +10,7 @@
 ## Student Information
 
 | No. | Name | ID | Github | Linkedin | Profile |
-|-----|-----------------------------------------|------------|:-----------------:|:-----------------------:| :-----------------------:|
+|-----:|-----------------------------------------|------------|:-----------------:|:-----------------------:| :-----------------------:|
 | 0   | BAKUNGA BRONSON                         | BakungaBronson    | [:octocat:](https://github.com/BakungaBronson)   | <a href="https://www.linkedin.com/in/bronson-bakunga-682a581ba"><img src="./images/linkedin.png" width="24px" height="24px"></a> |<a href="./portfolio/"><img src="./images/portfolio.png" width="24px" height="24px"></a>|
 | 1   | HAZEM TAHER OMRAN FENNEER               | HazemFenneer   | [:octocat:](https://github.com/HazemFenneer)     | <a href="https://www.linkedin.com/in/hazem-fenneer-7aa8b3219"><img src="./images/linkedin.png" width="24px" height="24px"></a>                |
 | 2   | LEE SEOW MING THERESA                   | Theresa20191 | [:octocat:](https://github.com/Theresa20191)     | <a href="https://www.linkedin.com/in/theresa-lee-667162149"><img src="./images/linkedin.png" width="24px" height="24px"></a>              |
