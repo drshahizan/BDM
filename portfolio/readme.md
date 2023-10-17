@@ -5,14 +5,17 @@
 <a href="https://github.com/drshahizan/BDM/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/BDM?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Task 1: Portfolio
+# Task 1: Portfolio Creation 📂
 
-You are required to produce your portfolio. A portfolio is a compilation of materials that exemplifies your beliefs, skills, qualifications, education, training, and experiences. It provides insight into your personality and work ethic. A portfolio website is generally a static website featuring work samples and other details as explained above. It is closely related to [Online Resume](https://en.wikipedia.org/wiki/Career_portfolio) or [C.V.](https://en.wikipedia.org/wiki/Curriculum_vitae). You can see a [sample portfolio here](https://github.com/abhisheknaiidu/awesome-github-profile-readme).
+**Objective**: Develop Your Professional Portfolio 🌟
 
-## Folder Structure
-You must place your portfolio in the Portfolio folder. Within the [`portfolio`](./portfolio) folder, create a folder called your `github_id`. Name the default file as `readme.md`. You can add any file related to your portfolio. Suggested folder structure for this project:
+## Overview 📝
 
-A folder structure for portfolio as below:
+You are tasked with creating a comprehensive portfolio that showcases your beliefs, skills, qualifications, education, training, and experiences. A portfolio is a curated collection that offers a glimpse into your personality and work ethic. It's comparable to an [Online Resume](https://en.wikipedia.org/wiki/Career_portfolio) or [C.V.](https://en.wikipedia.org/wiki/Curriculum_vitae). For a clearer understanding, refer to a [sample portfolio here](https://github.com/abhisheknaiidu/awesome-github-profile-readme).
+
+## Folder Structure 🗂️
+
+Ensure proper organization by placing your portfolio within the designated 'Portfolio' folder. Within the [`portfolio`](./portfolio) directory, create a folder using your `github_id` as the folder name. The primary file within this folder should be named `readme.md`. You're encouraged to include any relevant files for your portfolio. The suggested folder structure is as follows:
 
 ```
 📁 portfolio
@@ -28,8 +31,10 @@ A folder structure for portfolio as below:
     └── 📄image.png
 ```
 
-## Dateline
-This task needs to be completed by October 23, 2023 at the latest.
+## Deadline ⏰
+
+- Submit your completed portfolio by **October 23, 2023**, to the 'portfolio' folder.
+- Feel free to reach out if you have any questions or need further clarification. Best of luck with crafting your professional portfolio! 🌟
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
