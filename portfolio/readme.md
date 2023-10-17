@@ -12,9 +12,9 @@ A portfolio is a compilation of materials that exemplifies your beliefs, skills,
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 ## Folder Structure
-You must place your file in the submission folder. Within the [`submission`](./submission) folder, create a folder called your `group_id`. Name the default file as `index.php`. Suggested folder structure for this project:
+You must place your portfolio in the Portfolio folder. Within the [`portfolio`](./portfolio) folder, create a folder called your `github_id`. Name the default file as `readme.md`. You can add any file related to your portfolio. Suggested folder structure for this project:
 
-A folder structure for a Malaysian culture system with CSS, JS, HTML, database, PHP, and reporting:
+A folder structure for portfolio as below:
 
 ```
 📁 portfolio
