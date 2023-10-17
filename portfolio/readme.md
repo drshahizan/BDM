@@ -31,8 +31,29 @@ Ensure proper organization by placing your portfolio within the designated 'Port
     └── 📄image.png
 ```
 
-## Update file student.md
+## Updating Portfolio Information 🔄
 
+To update your portfolio information, follow these steps:
+
+1. Open the file [`student.md`](https://github.com/drshahizan/BDM/blob/main/student.md) on GitHub.
+
+2. Click on the pencil ✏️ icon to edit the file. Navigate to your information section.
+
+3. Add the following code snippet to incorporate a link to your portfolio in the form of an icon:
+   ```html
+   <a href="./portfolio/BakungaBronson"><img src="./images/portfolio.png" width="24px" height="24px"></a>
+   ```
+   Make sure to replace `BakungaBronson` with your own `github_id`.
+
+## Deadline ⏰
+
+Submit your completed portfolio by October 23, 2023, to the 'Portfolio' folder.
+
+## Language Requirement 🗣️
+
+All submissions should be in the English language.
+
+Feel free to reach out if you have any questions or need further clarification. Best of luck with crafting your professional portfolio! 🌟
 
 ## Deadline ⏰
 
