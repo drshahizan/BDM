@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="(https://media.licdn.com/dms/image/D4D03AQHXU0e1-RIv5g/profile-displayphoto-shrink_400_400/0/1695093565456?e=1703116800&v=beta&t=geDpXSlOvE9oTf3rKu5zLZyouGVGSdIBYsspIehAw18)" alt="Your Profile Picture">
+  <div align="center">
+  <div style="width: 50px; height: 50px; overflow: hidden; border-radius: 50%; margin: 10px;">
+    <img src="https://media.licdn.com/dms/image/D4D03AQHXU0e1-RIv5g/profile-displayphoto-shrink_400_400/0/1695093565456?e=1703116800&v=beta&t=geDpXSlOvE9oTf3rKu5zLZyouGVGSdIBYsspIehAw18" alt="Your Profile Picture" style="width: 100%; border-radius: 50%;">
+  </div>
+</div>
+
 </p>
 
 <h1 align="center">Hazem Fenneer</h1>
