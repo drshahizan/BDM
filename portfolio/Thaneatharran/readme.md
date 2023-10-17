@@ -1,59 +1,42 @@
-<a href="https://github.com/drshahizan/BDM/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/BDM" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/BDM/network/members"><img src="https://img.shields.io/github/forks/drshahizan/BDM" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/BDM/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/BDM" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/BDM"><img src="https://img.shields.io/github/issues/drshahizan/BDM" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/BDM/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/BDM?color=2b9348"></a>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+# <h1 align="center">Thaneatharran Santharasekaran</h1>
+<h3 align="center"> Civil Engineer</h3>
 
-# Task 1: Portfolio Creation 📂
+## ABOUT ME🌟
 
-**Objective**: Develop Your Professional Portfolio 🌟
+I am a Civil Engineer Graduate from Swinburne University of Technology, Sarawak Campus. I have completed my internship at JKR Kuching. Once I completed my course I got an offer from a consultant company as a Civil & Structural Engineer. Currently pursuing a Master In Engineering Mathematics 
 
-## Overview 📝
+## EDUCATION HISTORY
 
-You are tasked with creating a comprehensive portfolio that showcases your beliefs, skills, qualifications, education, training, and experiences. A portfolio is a curated collection that offers a glimpse into your personality and work ethic. It's comparable to an [Online Resume](https://en.wikipedia.org/wiki/Career_portfolio) or [C.V.](https://en.wikipedia.org/wiki/Curriculum_vitae). For a clearer understanding, refer to a [sample portfolio here](https://github.com/abhisheknaiidu/awesome-github-profile-readme).
+- Bachelor of Engineering ( Civil) (Honours)
+  Swinburne University Of Technology, Sarawak, Malaysia
 
-## Folder Structure 🗂️
+Completed with a CGPA of 3.22 and 1 Dean's List. FYRP in significant barriers to a Green Supply Chain in Housing Delivery: Sarawak Builder's Experience and using
+SPSS as analytic software.
 
-Ensure proper organization by placing your portfolio within the designated 'Portfolio' folder. Within the [`portfolio`](./portfolio) directory, create a folder using your `github_id` as the folder name. The primary file within this folder should be named `readme.md`. You're encouraged to include any relevant files for your portfolio. The suggested folder structure is as follows:
+- Foundation in Engineering/Science
+Swinburne University Of Technology, Sarawak, Malaysia
 
-```
-📁 portfolio
-├── 📁BakungaBronson
-│   ├── 📄readme.md
-│   └── 📄image.png
-├── 📁HazemFenneer
-│   ├── 📄readme.md
-│   └── 📄image1.png
-...
-└── 📁zuhayraz
-    ├── 📄readme.md
-    └── 📄image.png
-```
+Graduated with a CGPA of 3.12
 
-## Updating Portfolio Information 🔄
+## WORK EXPERIENCE
 
-To update your portfolio information, follow these steps:
+**- INTERNSHIP - LAB ASSISTANT**
 
-1. Open the file [`student.md`](https://github.com/drshahizan/BDM/blob/main/student.md) on GitHub.
+Central Material Lab JKR CML, Kuching
 
-2. Click on the pencil ✏️ icon to edit the file. Navigate to your information section.
+1) Carried out a geotechnical investigation of sites of proposed
+    government infrastructure projects located throughout Sarawak.
+2) Ensured quality control of engineering materials and works.
+3) Carried out laboratory testing, site investigations, calibration
+    works, and the supply of test equipment.
 
-3. Add the following code snippet to incorporate a link to your portfolio in the form of an icon:
-   ```html
-   <a href="./portfolio/your_folder"><img src="./images/portfolio.png" width="24px" height="24px"></a>
-   ```
-   Make sure to replace `your_folder` with your own `github_id`.
+**- INTERNSHIP - ASSISTANT DESIGNER**
 
-## Deadline ⏰
+Jurutera CMP Sarawak Sdn Bhd, Kuching
 
-- Submit your completed portfolio by **October 23, 2023**, to the 'portfolio' folder.
-- Feel free to reach out if you have any questions or need further clarification. Best of luck with crafting your professional portfolio! 🌟
+1) Carried out research for an engineering-related legal case involving a building.
+2) Edited AutoCAD structural files according to the architect's specifications.
+3) Learned new software, Orion
 
-## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
 
-You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
