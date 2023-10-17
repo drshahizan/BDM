@@ -7,9 +7,7 @@
 
 # Task 1: Portfolio
 
-A portfolio is a compilation of materials that exemplifies your beliefs, skills, qualifications, education, training, and experiences. It provides insight into your personality and work ethic. A portfolio website is generally a static website featuring work samples and other details as explained above. It is closely related to [Online Resume](https://en.wikipedia.org/wiki/Career_portfolio) or [C.V.](https://en.wikipedia.org/wiki/Curriculum_vitae)
-
-https://github.com/abhisheknaiidu/awesome-github-profile-readme
+You are required to produce your portfolio. A portfolio is a compilation of materials that exemplifies your beliefs, skills, qualifications, education, training, and experiences. It provides insight into your personality and work ethic. A portfolio website is generally a static website featuring work samples and other details as explained above. It is closely related to [Online Resume](https://en.wikipedia.org/wiki/Career_portfolio) or [C.V.](https://en.wikipedia.org/wiki/Curriculum_vitae). You can see a [sample portfolio here](https://github.com/abhisheknaiidu/awesome-github-profile-readme).
 
 ## Folder Structure
 You must place your portfolio in the Portfolio folder. Within the [`portfolio`](./portfolio) folder, create a folder called your `github_id`. Name the default file as `readme.md`. You can add any file related to your portfolio. Suggested folder structure for this project:
