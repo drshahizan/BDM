@@ -1,11 +1,11 @@
 # <h1 align="center">Thaneatharran Santharasekaran</h1>
 <h3 align="center"> Civil Engineer</h3>
 
-## ABOUT ME🌟
+## 🌟 ABOUT ME
 
 I am a Civil Engineer Graduate from Swinburne University of Technology, Sarawak Campus. I have completed my internship at JKR Kuching. Once I completed my course I got an offer from a consultant company as a Civil & Structural Engineer. Currently pursuing a Master In Engineering Mathematics 
 
-## EDUCATION HISTORY
+## 🎓 EDUCATION HISTORY
 
 - Bachelor of Engineering ( Civil) (Honours)
   Swinburne University Of Technology, Sarawak, Malaysia
@@ -18,7 +18,7 @@ Swinburne University Of Technology, Sarawak, Malaysia
 
 Graduated with a CGPA of 3.12
 
-## WORK EXPERIENCE
+## 💼 WORK EXPERIENCE
 
 **- INTERNSHIP - LAB ASSISTANT**
 
@@ -38,5 +38,9 @@ Jurutera CMP Sarawak Sdn Bhd, Kuching
 2) Edited AutoCAD structural files according to the architect's specifications.
 3) Learned new software, Orion
 
+## 📫 Contact Me
 
+- **Email:** thaneatharran@graduate.utm.my or thanea27sekaran@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/thaneatharran-santharasekaran/
+- **GitHub:** https://github.com/Thaneatharran
 
