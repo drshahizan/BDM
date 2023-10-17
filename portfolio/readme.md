@@ -28,6 +28,8 @@ A folder structure for portfolio as below:
     └── 📄image.png
 ```
 
+## Dateline
+This task needs to be completed by October 23, 2023 at the latest.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
