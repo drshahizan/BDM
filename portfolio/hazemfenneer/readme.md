@@ -26,7 +26,6 @@ I am a current graduate student passionate about data science and software devel
 ### Project 1: Tourist Recommendations
 - **Description:** Using NLP, I recommend tourist attractions based on user preferences.
 - **Tech Stack:** Python, NLP, Flask, JavaScript, MySQL
-- **Explore the Project:** [![View Project](https://img.shields.io/badge/View%20Project-009688)](PROJECT_URL)
 
 ## 💼 Skills
 
