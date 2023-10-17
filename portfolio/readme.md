@@ -31,6 +31,9 @@ Ensure proper organization by placing your portfolio within the designated 'Port
     └── 📄image.png
 ```
 
+## Update file student.md
+
+
 ## Deadline ⏰
 
 - Submit your completed portfolio by **October 23, 2023**, to the 'portfolio' folder.
