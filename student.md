@@ -7,7 +7,7 @@
 
 🌟 Hit star button to save this repo in your profile
 
-## Student Information
+# Student Information
 
 | No. | Name | ID | Github | Linkedin | Profile |
 |-----:|-----------------------------------------|------------|:-----------------:|:-----------------------:| :-----------------------:|
