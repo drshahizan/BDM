@@ -11,6 +11,26 @@ A portfolio is a compilation of materials that exemplifies your beliefs, skills,
 
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
+## Folder Structure
+You must place your file in the submission folder. Within the [`submission`](./submission) folder, create a folder called your `group_id`. Name the default file as `index.php`. Suggested folder structure for this project:
+
+A folder structure for a Malaysian culture system with CSS, JS, HTML, database, PHP, and reporting:
+
+```
+📁 portfolio
+├── 📁BakungaBronson
+│   ├── 📄readme.md
+│   └── 📄image.png
+├── 📁HazemFenneer
+│   ├── 📄readme.md
+│   └── 📄image1.png
+...
+└── 📁zuhayraz
+    ├── 📄readme.md
+    └── 📄image.png
+```
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
 
