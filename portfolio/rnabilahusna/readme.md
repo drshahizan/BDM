@@ -51,5 +51,8 @@ I am a passionate data science student, currently pursuing a Master's degree in 
   <a href="mailto:nnabhusna@gmail.com?subject=Hello%20Nabila%20!">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/nnabhusnaa/">
+    <img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
 Let's explore the world of data together!
