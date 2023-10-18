@@ -42,17 +42,11 @@ This course provides a basic fundamental of big data architecture and management
 | 13-14| **Cloud Technology** <br>- Introduction to Cloud <br>- AWS Cloud (via AWS Learning Management System) |
 | 15  | Project Presentation |
 
-
-## Project
-
 ## Submission
 | No | Module | Description | File |
 | :-----: | ------ | ------ | :-----: | 
 | 1 | Task 1 | Portfolio Creation | <a href="./portfolio/readme.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
 
-
-
-## Tools
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
