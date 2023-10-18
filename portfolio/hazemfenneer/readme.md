@@ -39,6 +39,7 @@ I am a current graduate student passionate about data science and software devel
 
 - **Bachelor of Science in IT: Software Application Development (2023)**
   - UTAS, Oman
+  - Graduated with a commendable CGPA of 3.59, earning a place on the dean's list four times.
 
 ## 🏆 Certifications
 
