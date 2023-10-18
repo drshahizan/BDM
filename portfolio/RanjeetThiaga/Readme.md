@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="IMG_20211008_161254.jpg" alt="Profile Picture" width="30%" height="30%">
+</p>
 
 # <h1 align="center"> *Ranjeet Thiagarajan* </h1>
 <h3 align = "center">Bioinformatician | AI & ML Enthusiastic | Upcoming Data Scientist  </h3>
