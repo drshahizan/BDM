@@ -46,6 +46,11 @@ This course provides a basic fundamental of big data architecture and management
 ## Project
 
 ## Submission
+| No | Module | Description | File |
+| :-----: | ------ | ------ | :-----: | 
+| 1 | Task 1 | Student Portfolio Showcase (HTML) | <a href="./project/1-portfolio/" ><img src="./images/html1.png" width="24px" height="24px" ></a> | 
+
+
 
 ## Tools
 
