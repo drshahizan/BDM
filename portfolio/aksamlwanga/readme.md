@@ -52,7 +52,7 @@ My work is guided by a commitment to *excellence* and a belief in a *higher purp
 **Software Developer**  
 *June 2021 - September 2022*  
 *Dr. Mary Nsabagwa, Makerere University*  
-[Website: WIMEA-ICT](https://wimea.mak.ac.ug)
+[Website: WIMEA-ICT](https://wimea-ict.net)
 
 - Developed the Weather Information Dissemination System project using the PHP programming language.
 - Learned software engineering process improvements and best practices.
