@@ -27,7 +27,7 @@
    - Scrape data from Twitter using Snscrape
    - Using Python Jupyter Notebook for data pre-processing
    - Using Oracle SQL Developer to store data
-   - Using Power BI for data visualizat
+   - Using Power BI for data visualization
      
 -   **Industrial Trainee at UTeM, Durian Tunggal**
     - Develop a website to read excel in PHP form and convert into Word document
