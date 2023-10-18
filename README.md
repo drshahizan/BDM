@@ -48,7 +48,7 @@ This course provides a basic fundamental of big data architecture and management
 ## Submission
 | No | Module | Description | File |
 | :-----: | ------ | ------ | :-----: | 
-| 1 | Task 1 | Portfolio Creation | <a href="./portfolio/readme.md" ><img src="./images/html1.png" width="24px" height="24px" ></a> | 
+| 1 | Task 1 | Portfolio Creation | <a href="./portfolio/readme.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
 
 
 
