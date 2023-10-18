@@ -8,7 +8,7 @@
 **|** 💼 **Sex**           | MALE                      |
 **|** 🎂 **Date of Birth**  | 21/10/1997                |
 **|** 🌍 **Nationality**    | UGANDAN                   |
-**|** 📍 **Location**       | Kampala, Uganda           |
+**|** 📍 **Location**       | Kampala, Uganda  | Danga Bay Johor,Malaysia |
 **|** 📞 **Phone**          | **+(256)** -751109725           |
 **|**                      |  **+(256)** -778254366 |       
 **|**                      |  **+(601)** -77183570            |
