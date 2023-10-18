@@ -61,8 +61,9 @@ My work is guided by a commitment to *excellence* and a belief in a *higher purp
 - Attended training to learn software development theory, techniques, and coding best practices.
 
 ## 🎓 Education Background
+| **Master of Science (Data Science)** | **October 2023 - Present** | *University Technologi Malaysia (UTM)* |
 
-| **Bachelor of Science in Software Engineering** | **August 2018 - March 2023** | *Makerere University, Kampala, Uganda* |
+|**Bachelor of Science in Software Engineering** | **August 2018 - March 2023** | *Makerere University, Kampala, Uganda* |
 | --- | --- | --- |
 | - **CGPA:** 4.59/5 (First Class Degree). | - Awarded the title of **Best Graduate** | - Received a **Madhavani sponsorship** to support my studies. |
 | - Completed a dissertation in **Embedded Systems development**. | | |
@@ -109,6 +110,10 @@ My work is guided by a commitment to *excellence* and a belief in a *higher purp
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" width="40" height="40">
+
+## 📜 Certifications
+
+- **GADS 2020 Android Certified Developer** (Google Africa Developer Scholarship, 2020)
 
 
 ## 🔗 Links
