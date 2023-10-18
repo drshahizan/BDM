@@ -7,11 +7,11 @@
 </h1>
 
 <p align="center">
-    <code><img title="sitinorafizah" height="50" src="fizah.jpg"></code>
+    <code><img title="sitinorafizah" height="200" src="fizah.jpg"></code>
   </a>
   
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/sitinorafizah/" title="LinkedIn Profile"><img width="22" src="Linkedin-logo-png.png"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/sitinorafizah/" title="LinkedIn Profile"><img width="50" src="Linkedin-logo-png.png"></a></code>
 </h5>
 <br>
 <p align="center">
