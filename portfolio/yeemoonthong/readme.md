@@ -13,7 +13,7 @@
 A **Chemical Engineer** with three years’ experience in a rapidly growing engineering industry. Capable of offering exceptional troubleshooting skills in manufacturing plant and poised with commitment to drive process improvement
 </p>
 
-Currently I am a **Data Scientist** In Progress who is studying Master of Science(Data Science) at University Teknologi Malaysia(UTM) which is a 
+Currently I am a ***Data Scientist In Progress*** who is studying Master of Science(Data Science) at University Teknologi Malaysia(UTM)
 
 ## 🎓 EDUCATION
 ➡ Master of Science (Data Science)
