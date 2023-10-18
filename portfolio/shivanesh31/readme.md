@@ -7,7 +7,7 @@
 
 <h3 align="center">Data Science Enthusiast</h3>
 
-  </a>
+  <div align="center">
   <a href="https://github.com/Shivanesh31" target="_blank" style="text-decoration: none; margin: 10px;">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717" alt="GitHub" width="150" height="30">
   </a>
