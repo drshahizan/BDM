@@ -1,6 +1,6 @@
 ## About Me
 **Chemical Engineer** with two years’ experience in a rapidly growing engineering industry.
 
-</p>
+</a>
 
 **Data Scientist** In Progress
