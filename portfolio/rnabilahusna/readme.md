@@ -6,7 +6,7 @@
 </p>
 
 ## Personal Information
-- **Full Name:** Nabila Husna
+- **Full Name:** Nabila Husna binti Rosli
 - **Age:** 23 years old
 - **Current Location:** Ampang, Selangor
 - **Email:** [nabilahusna@graduate.utm.my](mailto:nabilahusna@graduate.utm.my)
