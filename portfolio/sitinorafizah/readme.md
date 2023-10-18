@@ -6,6 +6,11 @@
   </a>
 </h1>
 
+<p align="center">
+  <a href="https://github.com/drshahizan/BDM/blob/307741f4758ca0e8797e043e07965c50fe62c3af/portfolio/sitinorafizah/fizah.jpg">
+    <img src="https://github.com/drshahizan/BDM/blob/307741f4758ca0e8797e043e07965c50fe62c3af/portfolio/sitinorafizah/fizah.jpg" alt="Siti Norafizah" width=230 height=275>
+  </a>
+  
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/sitinorafizah/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
