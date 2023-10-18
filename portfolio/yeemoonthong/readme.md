@@ -53,7 +53,7 @@ September 2020 — September 2022
 
 ## 📜 CERTIFICATION
 1. Google Data Analytics Certificate - *August 2023*
-2. Open Water Scuba Diver - *01 Jul 2023*
+2. Open Water Scuba Diver - *01 Jul 2023* 🏊‍♀️🫧
 3. PCAP – Certified Associate in Python Programming (PCAP-31-03)  - *Jun 2023*
 4. PCEP – Certified Entry-Level Python Programmer (PCEP-30-02) - *Jun 2023*
 1. Enterprise Lean Sigma (ELS) White Belt Training – *25 February 2023*
