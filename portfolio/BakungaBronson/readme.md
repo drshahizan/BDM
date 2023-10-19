@@ -3,6 +3,7 @@
 <h1 align="center">Bakunga Bronson 👨‍💻</h1>
 
 ## About Me 🚀
+<div align="center"><img src="https://github.com/drshahizan/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
 
 Hi, I'm Bakunga Bronson, a passionate software engineer from Uganda. I love learning about new technologies and creating innovative solutions for real-world problems. I have experience in software development, system administration, Enterprise Resource Planning Systems (ERPs), and blockchain. Currently pursuing a Masters in Computer Science at Universiti Teknologi Malaysia. In my free time, I enjoy writing articles on my blog, sharing my knowledge with others, and also exploring and contributing to open-source projects.
 
@@ -14,7 +15,7 @@ Hi, I'm Bakunga Bronson, a passionate software engineer from Uganda. I love lear
 - Cloud services: Oracle Cloud
 - Other tools: Git, Docker, LXD
 
-## Projects 📦
+## Projects <img src="https://github.com/drshahizan/BDM/assets/51344005/9bfd8fba-9b7b-4f06-8b4e-0a44313e5baa" width="30" />
 
 Here are some of the projects that I have worked on or contributed to:
 
