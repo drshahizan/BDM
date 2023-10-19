@@ -17,6 +17,9 @@ Feel free to explore my profile and get in touch if you'd like to collaborate or
   <a href="https://github.com/Theresa20191" target="_blank" style="text-decoration: none; margin: 10px;">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717" alt="GitHub" width="150" height="30">
   </a>
+  <a align="left"> <img src="https://komarev.com/ghpvc/?username=theresa20191&label=Profile%20views&color=0e75b6&style=flat" alt="theresa20191" width="150" height="30"/> </p>
+  </a>
+  
 </div>
 
 ## About Me
