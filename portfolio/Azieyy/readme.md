@@ -25,11 +25,10 @@ I am a full time Master degree student in Data Science field. Dealing with data 
 - Statistical Modeling
 
 ## Skills
-- Python
-- R
+- SQL
+- Phyton
 - Machine Learning
 - Data Visualization
-- SQL
 
 ## Contact
 <div>
