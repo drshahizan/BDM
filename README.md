@@ -42,12 +42,6 @@ This course provides a basic fundamental of big data architecture and management
 |  **10** | **Future Trends in Big Data Management** | A. The Evolving Landscape of Big Data<br> B. Predictions for the Future<br> C. Preparing for the Next Generation of Big Data |
 |  **11** | **Best Practices in Big Data Management** | A. Key Takeaways<br> B. Actionable Strategies<br> C. Tips for Effective Big Data Management |
 
-# Closing Statement
-Get Access to 1000 ChatGPT prompts: https://bit.ly/chatgptpromptmax
-
-"Access To 500+ Premium ChatGPT Prompt Templates: https://bit.ly/3pofV0X"
-
-2099+ Ultimate ChatGPT Marketing Prompts >>  https://bit.ly/3OizYq4
 ## Weekly Schedule
 
 | Week     | Topic                                                   |
