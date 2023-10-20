@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-    <code><img title="sitinorafizah" height="200" src="https://drive.google.com/file/d/14NOvSmXnrtpokFJ4mBJskpFWze8Hbnp9/view?usp=share_link"></code>
+    <code><img title="sitinorafizah" height="200" src="https://github.com/sitinorafizah/project/blob/main/images/fizah.jpg"></code>
   </a>
   
 <h5 align="center">
