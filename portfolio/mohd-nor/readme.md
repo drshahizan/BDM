@@ -1,5 +1,5 @@
 <p align="center">
-<img src="" alt="Your Profile Picture" style="width: 25%;">
+<img src="https://github.com/drshahizan/BDM/blob/main/portfolio/mohd-nor/gambar%20mohd%20nor.PNG" alt="Your Profile Picture" style="width: 25%;">
   
 
 
