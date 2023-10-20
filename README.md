@@ -43,13 +43,6 @@ This course provides a basic fundamental of big data architecture and management
 | **XI. Best Practices in Big Data Management** | A. Key Takeaways<br> B. Actionable Strategies<br> C. Tips for Effective Big Data Management |
 | **XII. Conclusion**                               | A. Recap of Key Points<br> B. Ongoing Relevance of Big Data Management<br> C. Encouragement for Further Exploration |
 
-# Closing Statement
-Get Access to 1000 ChatGPT prompts: https://bit.ly/chatgptpromptmax
-
-"Access To 500+ Premium ChatGPT Prompt Templates: https://bit.ly/3pofV0X"
-
-2099+ Ultimate ChatGPT Marketing Prompts >>  https://bit.ly/3OizYq4
-
 ## Weekly Schedule
 
 | Week     | Topic                                                   |
