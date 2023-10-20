@@ -9,7 +9,7 @@
 
 | **Data Resources**                               | **File**                                      |
 |-------------------------------------------------|----------------------------------------------|
-| Data Lifecycle                                   | [Data LifecycleFile](resource icon)        |
+| Data Lifecycle Management                                 | [Data LifecycleFile](https://drive.google.com/file/d/1fFZjiftI1s8pmFIb3OLuzmZhPpKyoX2w/view?usp=share_link)        |
 | Data Strategy                                    | [Data StrategyFile](resource icon)         |
 | Effective Data Collection                        | [The Ultimate Guide to Effective Data CollectionFile](resource icon) |
 | Data Governance                                  | [Data GovernanceFile](resource icon)       |
