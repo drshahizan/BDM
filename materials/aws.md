@@ -32,7 +32,7 @@ This intermediate-level course covers the fundamentals of building IT infrastruc
 AWS Academy Data Engineering is designed to help students learn about and get hands-on practice with the tasks, tools, and strategies that are used to collect, store, prepare, analyze, and visualize data for use in analytics and machine learning (ML) applications. Throughout the course, students will explore use cases from real-world applications, which will enable them to make informed decisions while building data pipelines for their particular applications.
 
 ### Machine Learning for Natural Language Processing
-
+AWS Academy Machine Learning for Natural Language Processing (NLP) is a follow-up course to AWS Academy Machine Learning Foundations. The course is at an intermediate technical level (similar to the AWS Academy Architecting, Operations, and Developing courses) and is appropriate for students who are pursuing careers that require machine learning (ML) knowledge.
 
 ## New Free Training Courses & Free Badges!
 
