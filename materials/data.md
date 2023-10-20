@@ -9,13 +9,27 @@
 
 # Introduction to Big Data and Big Data Analytics
 
+## Data Storage Units from Bytes to Exabytes
+Understanding the hierarchy of storage units, from bytes to exabytes, is crucial for effectively managing, scaling, and optimizing data storage and processing systems. Whether for personal use, business applications, or large-scale data infrastructure, the choice of the appropriate storage unit depends on the specific data requirements and the capacity needed. Below is a detailed description of these storage units and their common use cases:
+
+| Unit            | Storage Capacity | Description and Common Use Cases                                  |
+|-----------------|------------------|--------------------------------------------------------------------|
+| Byte            | 1 byte           | - The fundamental unit of digital information.                    |
+| Kilobyte (KB)   | 1 KB = 1,000 bytes | - Small files, text documents, simple images.                     |
+| Megabyte (MB)   | 1 MB = 1,000 KB  | - Music files, short videos, high-resolution images.               |
+| Gigabyte (GB)   | 1 GB = 1,000 MB  | - Individual movie files, large software applications.            |
+| Terabyte (TB)   | 1 TB = 1,000 GB  | - Storing thousands of high-resolution photos.<br>- Small-scale server storage.<br>- Personal video collections. |
+| Petabyte (PB)   | 1 PB = 1,000 TB  | - Large-scale data centers.<br>- Storing years of high-definition video.<br>- Scientific data, including genomics and climate modeling. |
+| Exabyte (EB)    | 1 EB = 1,000 PB  | - Massive cloud storage platforms.<br>- Storing extensive global datasets.<br>- Astronomical and particle physics research data. |
+
 ## What is Big Data?
 
 Big data is a combination of unstructured, semi-structured or structured data collected by organizations. This data can be mined to gain insights and used in machine learning projects, predictive modeling and other advanced analytics applications.
 
 Big data can be used to improve operations, provide better customer service and create personalized marketing campaigns -- all of which increase value. As an example, big data can provide companies with valuable insights into their customers that can then be used to refine marketing techniques to increase customer engagement and Conversion rates. Big Data refers to large and complex datasets that surpass the capabilities of traditional data processing and analysis tools. 
 
-https://files.codingninjas.in/article_images/ibm-and-big-data-0-1653820413.webp
+![Big data](https://img.techentice.com/media/2019/04/5_V_Big_data-1.png)
+
 
 These datasets are characterized by the three Vs:
 
