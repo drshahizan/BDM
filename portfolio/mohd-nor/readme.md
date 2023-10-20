@@ -22,11 +22,11 @@
 
 ## About Me
 
-Dealing with a massive accounting and financial data in 17th years make me realizes the importance of Data Science. Currently pursuing a Master's degree in Data Science, I believe the cross-functional skill set and expertise are required in order to become a Data Scientist. 
+Dealing with a massive accounting and financial data for 17th years make me realizes the importance of Data Science. Currently pursuing a Master's degree in Data Science, I believe the cross-functional skill set and expertise are required in order to become a Data Scientist. 
 
 ## Education
 - **Master's Degree (Ongoing):** Data Science
-  - **Institution:** Universiti Teknologi Malaysia
+  - **Institution:** Universiti Teknologi Malaysia (UTM)
 
 - **Professional Certification :** Management Accounting
   - **Institution:** Chartered Institute of Management Accounting (CIMA)
