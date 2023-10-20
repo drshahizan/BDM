@@ -18,6 +18,7 @@ AWS Academy is a global program that offers educational institutions a comprehen
 |  1  | [Cloud Foundations](#cloud-foundations) | <a href="https://awsacademy.instructure.com/courses/60317" ><img src="../images/aws.svg" width="24px" height="24px" ></a> |
 |  2  | [Cloud Architecting](#cloud-architecting) | <a href="https://awsacademy.instructure.com/courses/60318" ><img src="../images/aws.svg" width="24px" height="24px" ></a> |
 |  3  | [Data Engineering](#data-engineering) | <a href="https://awsacademy.instructure.com/courses/60401" ><img src="../images/aws.svg" width="24px" height="24px" ></a> |
+|  4  | [Machine Learning for Natural Language Processing](#data-engineering) | <a href="https://awsacademy.instructure.com/courses/60323" ><img src="../images/aws.svg" width="24px" height="24px" ></a> |
 
 ### Cloud Foundations
 
@@ -29,6 +30,8 @@ This intermediate-level course covers the fundamentals of building IT infrastruc
 ### Data Engineering
 
 AWS Academy Data Engineering is designed to help students learn about and get hands-on practice with the tasks, tools, and strategies that are used to collect, store, prepare, analyze, and visualize data for use in analytics and machine learning (ML) applications. Throughout the course, students will explore use cases from real-world applications, which will enable them to make informed decisions while building data pipelines for their particular applications.
+
+### Machine Learning for Natural Language Processing
 
 
 ## New Free Training Courses & Free Badges!
