@@ -27,10 +27,6 @@ This course provides a basic fundamental of big data architecture and management
 1. [Essential Preparations for a Successful Start in BDM Class](./materials/essentials.md)
 2. [Student Information](student.md)
 3. [Course Information](./images/L1_BigDataManagement.pdf)
-4. [AWS Academy Cloud Foundations](https://awsacademy.instructure.com/courses/60317)
-5. [AWS Academy Cloud Architecting](https://awsacademy.instructure.com/courses/60318)
-6. [AWS Academy Data Engineering](https://awsacademy.instructure.com/courses/60401)
-7. [AWS Academy Machine Learning for Natural Language Processing](https://awsacademy.instructure.com/courses/60323)
 
 ## Weekly Schedule
 
