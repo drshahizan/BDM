@@ -22,14 +22,13 @@
 - **LinkedIn:** https://www.linkedin.com/in/sitinorafizah/
 
 ## Education
-- **Master's Degree (Ongoing):** Science (Data)
-  - **Institution:** Universiti Teknologi Malaysia
-  - **Expected Graduation:** April, 2025
+- **Master's Degree (Ongoing):** Master of Science (Data), Universiti Teknologi Malaysia (Present)
   
-- **Bachelor's Degree:** Science (Computer)
-  - **Institution:** Universiti Teknologi Malaysia
-  - **Graduation Year:** 2002
+- **Bachelor's Degree:** Bachelor of Science (Computer) at Universiti Teknologi Malaysia (2002)
 
+## Project
+ - Dashboard Tracer Study (2014-2017) <code><a href="https://app.powerbi.com/view?r=eyJrIjoiNmYzNThlMjgtNjkzZC00NTIzLTkyYjQtOGRhMjdlOGFhNjYzIiwidCI6IjRiMmNjZjhhLTJjY2YtNGY4Ni1iMTJlLWQwZGZlYzNmZDE1NyIsImMiOjEwfQ%3D%3D" title="Dashboard"><img width="50" src="https://github.com/sitinorafizah/project/blob/main/images/powerbi.jpg"></a></code>
+   
 ## About Me
 With 15-year experience in teaching and management. Eager to join a team of passionate Data Scientists to drive innovation forward.
 I'm currently studying Master's in Science (Data) at Universiti Teknologi Malaysia, Faculty of Computing. I love learn about new skills.
