@@ -28,10 +28,10 @@ Dealing with a massive accounting and financial data for 17th years make me real
 - **Master's Degree (Ongoing):** Data Science
   - **Institution:** Universiti Teknologi Malaysia (UTM)
 
-- **Professional Certification :** Management Accounting
+- **Professional Qualification :** Management Accounting
   - **Institution:** Chartered Institute of Management Accounting (CIMA)
 
-- **Professional Certification :** International Public Sector Accounting Standard (IPSAS)
+- **Professional Qualification :** International Public Sector Accounting Standard (IPSAS)
   - **Institution:** The Chartered Institute of Public Finance & Accountancy (CIPFA)
     
 - **Bachelor's Degree:** Accountancy
