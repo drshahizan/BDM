@@ -18,3 +18,8 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-181717" alt="GitHub" width="150" height="30">
   </a>
   
+</div>
+
+## About Me
+
+Dealing with a massive accounting and financial data in 17th years make me realizes the importance of Data Science. Currently pursuing a Master's degree in Data Science, I believe the cross-functional skill set and expertise are required in order to become a Data Scientist. 
