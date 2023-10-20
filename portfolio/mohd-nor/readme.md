@@ -23,3 +23,16 @@
 ## About Me
 
 Dealing with a massive accounting and financial data in 17th years make me realizes the importance of Data Science. Currently pursuing a Master's degree in Data Science, I believe the cross-functional skill set and expertise are required in order to become a Data Scientist. 
+
+## Education
+- **Master's Degree (Ongoing):** Data Science
+  - **Institution:** Universiti Teknologi Malaysia
+
+- **Professional Certification :** Management Accounting
+  - **Institution:** Chartered Institute of Management Accounting (CIMA)
+
+- **Professional Certification :** International Public Sector Accounting Standard (IPSAS)
+  - **Institution:** The Chartered Institute of Public Finance & Accountancy (CIPFA)
+    
+- **Bachelor's Degree:** Accountancy
+  - **Institution:** University Utara Malaysia (UUM)
