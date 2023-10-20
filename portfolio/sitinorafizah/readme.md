@@ -11,6 +11,10 @@
   </a>
 <br>
 
+## About Me
+With 15-year experience in teaching and management. Eager to join a team of passionate Data Scientists to drive innovation forward.
+I'm currently studying Master's in Science (Data) at Universiti Teknologi Malaysia, Faculty of Computing. I love learn about new skills.
+
 ## Personal Information
 - **Full Name:** Siti Norafizah Ab Aziz
 - **Current Location:** Pasir Gudang, Johor
@@ -24,10 +28,6 @@
 ## Project
 - <code><a href="https://github.com/sitinorafizah/project/blob/main/documents/COPYRIGHT%20PAGE.pdf" title="Module"><img width="25" src="https://github.com/sitinorafizah/project/blob/main/images/modul.PNG"></a></code> Contributed as a module writer for the [Fundamentals of Data Science](https://github.com/sitinorafizah/project/blob/main/documents/COPYRIGHT%20PAGE.pdf") published by [Jabatan Pendidikan Politeknik dan Kolej Komuniti](https://www.mypolycc.edu.my/) (JPPKK) (2020)
 - <code><a href="https://app.powerbi.com/view?r=eyJrIjoiNmYzNThlMjgtNjkzZC00NTIzLTkyYjQtOGRhMjdlOGFhNjYzIiwidCI6IjRiMmNjZjhhLTJjY2YtNGY4Ni1iMTJlLWQwZGZlYzNmZDE1NyIsImMiOjEwfQ%3D%3D" title="Dashboard"><img width="25" src="https://github.com/sitinorafizah/project/blob/main/images/powerbi.jpg"></a></code> [Dashboard Tracer Study 2014-2017](https://app.powerbi.com/view?r=eyJrIjoiNmYzNThlMjgtNjkzZC00NTIzLTkyYjQtOGRhMjdlOGFhNjYzIiwidCI6IjRiMmNjZjhhLTJjY2YtNGY4Ni1iMTJlLWQwZGZlYzNmZDE1NyIsImMiOjEwfQ%3D%3D) (2018)
-
-## About Me
-With 15-year experience in teaching and management. Eager to join a team of passionate Data Scientists to drive innovation forward.
-I'm currently studying Master's in Science (Data) at Universiti Teknologi Malaysia, Faculty of Computing. I love learn about new skills.
 
 ## Interests
 - Data Analysis and Visualization
