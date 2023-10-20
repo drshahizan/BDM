@@ -36,3 +36,7 @@ Dealing with a massive accounting and financial data in 17th years make me reali
     
 - **Bachelor's Degree:** Accountancy
   - **Institution:** University Utara Malaysia (UUM)
+
+## Contact Me
+
+- **Email:** mohdnor@graduate.utm.my
