@@ -1,3 +1,6 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=This+is+Pang+%F0%9F%A4%A9%2C;thanks+for+looking+at+my+profile%2C;hope+you+like+it+%F0%9F%98%81" alt="Typing SVG" /></a>
+
 <p align="center">
   <img src="https://github.com/drshahizan/BDM/blob/main/portfolio/PangyourQA/394255200_1021106612489822_7484371181969918093_n.jpg" alt="Your Profile Picture" style="width: 25%;">
 
