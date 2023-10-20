@@ -22,4 +22,3 @@
 | Data Analytics                                  | [Data AnalyticsFile](resource icon)         |
 | Public Datasets                                 | [Awesome Public Datasets](resource icon)    |
 
-🌐 Please ensure all content is in the English language.
