@@ -56,12 +56,11 @@ I'm currently studying Master's in Science (Data) at Universiti Teknologi Malays
 - Data Visualization
 - Statistical Analysis
 
-
 ## Certifications
-- Certified Python Programmer for Data Science (CPPDS)
-- Certified Data Science Specialist (CDSS)
-
-
+- <code><img title="Python" height="25" src="https://github.com/sitinorafizah/project/blob/main/images/certified-data-science-specialist-cdss.png"></code>
+  Certified Python Programmer for Data Science (CPPDS)
+- <code><img title="GitHub" height="25" src="https://github.com/sitinorafizah/project/blob/main/images/certified-python-programmer-for-data-science-cppds.png"></code> Certified Data Science Specialist (CDSS)
+  
 ## Languages & Frameworks & Tools & Abilities
   <code><img title="Python" height="25" src="https://github.com/sitinorafizah/project/blob/main/images/python-original.svg"></code>
   <code><img title="GitHub" height="25" src="https://github.com/sitinorafizah/project/blob/main/images/github.svg"></code>
