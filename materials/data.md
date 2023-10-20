@@ -12,8 +12,8 @@
 | Data Lifecycle Management                                 | [Data Lifecycle](https://drive.google.com/file/d/1fFZjiftI1s8pmFIb3OLuzmZhPpKyoX2w/view?usp=share_link)        |
 | Data Strategy                                    | [Data Strategy](https://drive.google.com/file/d/1e9q9Ff0TAEzJKcl_VhRv20aNaIiOfdlG/view?usp=share_link)         |
 | Effective Data Collection                        | [The Ultimate Guide to Effective Data Collection](https://drive.google.com/file/d/1OvpEyMU2JHdkZ_gT5ankEw7FDERA8PEx/view?usp=share_link) |
-| Data Governance                                  | [Data GovernanceFile](resource icon)       |
-| Big Data - Case Studies                          | [Big Data - Case study collectionFile](resource icon) |
+| Data Governance                                  | [Data Governance](https://drive.google.com/file/d/1adtm_I_ydE3vY9a4ymIRCFw2t5bAeCLK/view?usp=share_link)       |
+| Big Data - Case Studies                          | [Big Data - Case study collectionFile](https://drive.google.com/file/d/1MRnoh1bCrPd1CLAqPJu3Dhk-r_7qx5X-/view?usp=share_link) |
 | Data Cleaning                                    | [Introduction to Data CleaningFile](resource icon) |
 |                                                 | [The Ultimate Guide to Basic Data CleaningFile](resource icon) |
 |                                                 | [Data CleaningFile](resource icon)          |
