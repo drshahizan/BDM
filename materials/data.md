@@ -18,7 +18,7 @@
 |                                                 | [The Ultimate Guide to Basic Data Cleaning](https://drive.google.com/file/d/1GdwOA9QA98tFOZYxmZxnftygSqyQWTZf/view?usp=share_link) |
 |                                                 | [Data Cleaning](https://drive.google.com/file/d/1RXxMrqy2KE5dasTW4G344fzmFGc3Bo2N/view?usp=share_link)          |
 | Data Storytelling                                | [Guide to Becoming a Data Storyteller](https://drive.google.com/file/d/1gE9nzSq3nmd8i-E_-BEhQsal_Idp_4zb/view?usp=share_link) |
-|                                                 | [Storytelling with DataFile](resource icon) |
+|                                                 | [Storytelling with Data](https://drive.google.com/file/d/1fu2W84yO1_k3NF5Aq1v2ZEdyHrAC1H3f/view?usp=share_link) |
 | Data Analytics                                  | [Data AnalyticsFile](resource icon)         |
 | Public Datasets                                 | [Awesome Public Datasets](resource icon)    |
 
