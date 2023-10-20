@@ -21,14 +21,14 @@ AWS Academy is a global program that offers educational institutions a comprehen
 |  4  | [Machine Learning for Natural Language Processing](#machine-learning-for-natural-language-processing) | <a href="https://awsacademy.instructure.com/courses/60323" ><img src="../images/aws.svg" width="24px" height="24px" ></a> |
 
 ### Cloud Foundations
-
-This introductory course is intended for students who seek an overall understanding of cloud computing concepts, independent of specific technical roles. It provides a detailed overview of cloud concepts, AWS core services, security, architecture, pricing, and support.
+AWS Academy Cloud Foundations is intended for students who seek an overall understanding of cloud computing concepts, independent of specific technical roles. It provides a detailed overview of cloud concepts, AWS core services, security, architecture, pricing, and support.
 
 ### Cloud Architecting
-This intermediate-level course covers the fundamentals of building IT infrastructure on AWS and helps students gain the skills they need to pursue the AWS Certified Solutions Architect – Associate certification. This course contains approximately 40 hours of content delivered through lectures, hands-on labs, and project work. We recommend that students take AWS Academy Cloud Foundations or equivalent before taking this course.
+AWS Academy Cloud Architecting covers the fundamentals of building IT infrastructure on Amazon Web Services, or AWS. The course is designed to teach solutions architects how to optimize the use of the AWS Cloud by understanding AWS services and how these services fit into cloud-based solutions.
+
+Because architectural solutions can differ depending on industry, type of applications, and size of business, this course emphasizes best practices for the AWS Cloud, and it recommends various design patterns to help you think through the process of architecting optimal IT solutions on AWS. It also presents case studies throughout the course, which showcase how some AWS customers have designed their infrastructures, and the strategies and services that they implemented. Finally, this course also provides opportunities to build a variety of infrastructures via a guided, hands-on approach.
 
 ### Data Engineering
-
 AWS Academy Data Engineering is designed to help students learn about and get hands-on practice with the tasks, tools, and strategies that are used to collect, store, prepare, analyze, and visualize data for use in analytics and machine learning (ML) applications. Throughout the course, students will explore use cases from real-world applications, which will enable them to make informed decisions while building data pipelines for their particular applications.
 
 ### Machine Learning for Natural Language Processing
