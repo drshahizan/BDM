@@ -15,9 +15,9 @@
 | Data Governance                                  | [Data Governance](https://drive.google.com/file/d/1adtm_I_ydE3vY9a4ymIRCFw2t5bAeCLK/view?usp=share_link)       |
 | Big Data - Case Studies                          | [Big Data - Case study collection](https://drive.google.com/file/d/1MRnoh1bCrPd1CLAqPJu3Dhk-r_7qx5X-/view?usp=share_link) |
 | Data Cleaning                                    | [Introduction to Data Cleaning](https://drive.google.com/file/d/18IwUcNQrvpen2dwtqjMoaoAL_Ey-qx3V/view?usp=share_link) |
-|                                                 | [The Ultimate Guide to Basic Data Cleaning](https://drive.google.com/file/d/1RXxMrqy2KE5dasTW4G344fzmFGc3Bo2N/view?usp=share_link) |
-|                                                 | [Data CleaningFile](resource icon)          |
-| Data Storytelling                                | [Guide to Becoming a Data StorytellerFile](resource icon) |
+|                                                 | [The Ultimate Guide to Basic Data Cleaning](https://drive.google.com/file/d/1GdwOA9QA98tFOZYxmZxnftygSqyQWTZf/view?usp=share_link) |
+|                                                 | [Data Cleaning](https://drive.google.com/file/d/1RXxMrqy2KE5dasTW4G344fzmFGc3Bo2N/view?usp=share_link)          |
+| Data Storytelling                                | [Guide to Becoming a Data Storyteller](https://drive.google.com/file/d/1gE9nzSq3nmd8i-E_-BEhQsal_Idp_4zb/view?usp=share_link) |
 |                                                 | [Storytelling with DataFile](resource icon) |
 | Data Analytics                                  | [Data AnalyticsFile](resource icon)         |
 | Public Datasets                                 | [Awesome Public Datasets](resource icon)    |
