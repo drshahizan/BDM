@@ -9,17 +9,13 @@
 <p align="center">
     <code><img title="sitinorafizah" height="200" src="https://github.com/sitinorafizah/project/blob/main/images/fizah.jpg"></code>
   </a>
-  
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/sitinorafizah/" title="LinkedIn Profile"><img width="50" src="https://github.com/sitinorafizah/project/blob/main/images/Linkedin-logo-png.png"></a></code>
-</h5>
 <br>
 
 ## Personal Information
 - **Full Name:** Siti Norafizah Ab Aziz
 - **Current Location:** Pasir Gudang, Johor
 - **Email:** [sitinorafizah@graduate.utm.my](mailto:sitinorafizah@graduate.utm.my)
-- **LinkedIn:** https://www.linkedin.com/in/sitinorafizah/
+- **LinkedIn:** <code><a href="https://www.linkedin.com/in/sitinorafizah/" title="LinkedIn Profile"><img width="50" src="https://github.com/sitinorafizah/project/blob/main/images/Linkedin-logo-png.png"></a></code>
 
 ## Education
 - **Master's Degree (Ongoing):** Master of Science (Data), Universiti Teknologi Malaysia (Present)
