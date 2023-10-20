@@ -10,8 +10,8 @@
 | **Data Resources**                               | **File**                                      |
 |-------------------------------------------------|----------------------------------------------|
 | Data Lifecycle Management                                 | [Data LifecycleFile](https://drive.google.com/file/d/1fFZjiftI1s8pmFIb3OLuzmZhPpKyoX2w/view?usp=share_link)        |
-| Data Strategy                                    | [Data StrategyFile](resource icon)         |
-| Effective Data Collection                        | [The Ultimate Guide to Effective Data CollectionFile](resource icon) |
+| Data Strategy                                    | [Data StrategyFile](https://drive.google.com/file/d/1e9q9Ff0TAEzJKcl_VhRv20aNaIiOfdlG/view?usp=share_link)         |
+| Effective Data Collection                        | [The Ultimate Guide to Effective Data CollectionFile](https://drive.google.com/file/d/1OvpEyMU2JHdkZ_gT5ankEw7FDERA8PEx/view?usp=share_link) |
 | Data Governance                                  | [Data GovernanceFile](resource icon)       |
 | Big Data - Case Studies                          | [Big Data - Case study collectionFile](resource icon) |
 | Data Cleaning                                    | [Introduction to Data CleaningFile](resource icon) |
