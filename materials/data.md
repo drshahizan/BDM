@@ -11,7 +11,9 @@
 
 ## Big Data Management
 
-Big Data Management is a multifaceted discipline that involves the organization, processing, storage, and analysis of vast and complex datasets, often referred to as "Big Data." It encompasses a wide range of activities and technologies aimed at harnessing the potential of large and diverse data sources to extract valuable insights, make informed decisions, and drive innovation. Here are the key components of Big Data Management:
+Big Data Management is a multifaceted discipline that involves the organization, processing, storage, and analysis of vast and complex datasets, often referred to as "Big Data." It encompasses a wide range of activities and technologies aimed at harnessing the potential of large and diverse data sources to extract valuable insights, make informed decisions, and drive innovation. 
+
+Here are the key components of Big Data Management:
 
 1. **Data Collection:** The process of gathering data from a variety of sources, which can include traditional databases, web applications, social media, sensors, and more.
 
