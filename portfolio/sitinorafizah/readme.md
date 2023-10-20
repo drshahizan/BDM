@@ -11,7 +11,7 @@
   </a>
   
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/sitinorafizah/" title="LinkedIn Profile"><img width="50" src="Linkedin-logo-png.png"></a></code>
+  <code><a href="https://www.linkedin.com/in/sitinorafizah/" title="LinkedIn Profile"><img width="50" src="https://github.com/sitinorafizah/project/blob/main/images/Linkedin-logo-png.png"></a></code>
 </h5>
 <br>
 <p align="center">
@@ -33,10 +33,10 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="python-original.svg"></code>
-  <code><img title="GitHub" height="25" src="github.svg"></code>
-  <code><img title="Looker" height="25" src="looker.png"></code>
-  <code><img title="PowerBI" height="25" src="powerbi.jpg"></code>
+  <code><img title="Python" height="25" src="https://github.com/sitinorafizah/project/blob/main/images/python-original.svg"></code>
+  <code><img title="GitHub" height="25" src="https://github.com/sitinorafizah/project/blob/main/images/github.svg"></code>
+  <code><img title="Looker" height="25" src="https://github.com/sitinorafizah/project/blob/main/images/looker.png"></code>
+  <code><img title="PowerBI" height="25" src="https://github.com/sitinorafizah/project/blob/main/images/powerbi.jpg"></code>
 </p>
 <hr>
 
