@@ -17,6 +17,12 @@ This course provides a basic fundamental of big data architecture and management
 2. Design big data platform demonstrating the implementation of big data applications.
 3. Discuss current technology that support for sustainability of the big data platform ecosystem.
 
+## Submission
+| No | Module | Description | File |
+| :-----: | ------ | ------ | :-----: | 
+| 1 | Task 1 | Portfolio Creation | <a href="./portfolio/readme.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
+| 2 | Task 2 | AWS Certification | <a href="./materials/aws.md" ><img src="./images/aws.svg" width="24px" height="24px" ></a> | 
+
 ## 🔥 Important things
 1. [Essential Preparations for a Successful Start in BDM Class](./materials/essentials.md)
 2. [Student Information](student.md)
@@ -41,12 +47,6 @@ This course provides a basic fundamental of big data architecture and management
 | 11-12| **No SQL database (Document-based Database)** <br>- Document-based data modelling <br>- MongoDB query language |
 | 13-14| **Cloud Technology** <br>- Introduction to Cloud <br>- AWS Cloud (via AWS Learning Management System) |
 | 15  | Project Presentation |
-
-## Submission
-| No | Module | Description | File |
-| :-----: | ------ | ------ | :-----: | 
-| 1 | Task 1 | Portfolio Creation | <a href="./portfolio/readme.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
-
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
