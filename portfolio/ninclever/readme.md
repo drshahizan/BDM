@@ -14,3 +14,6 @@ Greetings, I’m NIAN CONG and I’m a data scientist student with a passion. I 
 - **Bachelor's Degree:** Telecommunication Engineering
   - **Institution:** Tibet University
   
+## 📫 Contact Me
+
+- **Email:** nian@graduate.utm.my
