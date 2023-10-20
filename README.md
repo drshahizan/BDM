@@ -29,7 +29,7 @@ This course provides a basic fundamental of big data architecture and management
 3. [Course Information](./images/L1_BigDataManagement.pdf)
 
 | **No.** | **Section**                                     | **Content**                                              |
-|--------|---------------------------------------------|--------------------------------------------------------|
+|--------:|---------------------------------------------|--------------------------------------------------------|
 |   **1**  | **Introduction**                            | A. What is Big Data?<br> B. The Importance of Managing Big Data |
 |   **2** | **Understanding Big Data**               | A. Defining Big Data<br> B. Characteristics of Big Data<br> C. Sources of Big Data<br> D. Challenges in Dealing with Big Data |
 |   **3** | **The Role of Big Data Management** | A. Why Manage Big Data?<br> B. Benefits of Effective Big Data Management<br> C. Risks of Ignoring Big Data Management<br> D. Industries Benefiting from Big Data Management |
