@@ -12,11 +12,11 @@
 Google Sheets is a versatile and user-friendly tool for data analysis, enabling you to input, cleanse, visualize, and glean insights from your data. It encompasses essential functionalities like data cleansing, chart generation, fundamental and advanced formulas, as well as data filtering and sorting, coupled with pivot tables and conditional formatting, rendering it exceptionally well-suited for a broad spectrum of analytical endeavors. With its real-time collaborative features, sharing capabilities, and the capacity to construct interactive dashboards, Google Sheets represents an outstanding choice for individuals and teams alike, aiming to undertake data analysis within a collaborative and easily accessible framework, especially when dealing with modest datasets and straightforward computations. This assignment necessitates performing data analysis using Google Sheets' tools. 
 
 ## 📚 Instructions
-1. 📖 Thoroughly review the case study and instructions.
-2. 🚀 This project is a group effort; form teams with a minimum of three and a maximum of four students.
-3. 🚫 Academic integrity is essential; any suspected cheating may lead to disciplinary actions, including suspension or expulsion, with confiscation of materials or devices violating examination rules.
-4. 📊 The objective of this assignment is to process and visualize data using Google Sheets. You'll work on two case studies: exam results and sales performance.
-5. 📝 Submit a comprehensive document outlining the step-by-step process for creating the case study, including the utilized formulas. Additionally, provide a Google Sheets file containing the results of the case study's execution.
+1. Thoroughly review the case study and instructions.
+2. This project is a group effort 🚀; form teams with a minimum of three and a maximum of four students.
+3. Academic integrity is essential 🚫; any suspected cheating may lead to disciplinary actions, including suspension or expulsion, with confiscation of materials or devices violating examination rules.
+4. The objective of this assignment is to process and visualize 📊 data using Google Sheets. You'll work on two case studies: exam results and sales performance.
+5. Submit a comprehensive document outlining the step-by-step process for creating the case study, including the utilized formulas. Additionally, provide a Google Sheets file containing the results of the case study's execution.
 
 
 
