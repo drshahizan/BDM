@@ -14,14 +14,16 @@
 Big data refers to the vast and complex datasets characterized by their enormous volume, high velocity, and diverse variety. This data, often generated in real-time, includes structured, semi-structured, and unstructured information. Managing and deriving insights from big data require specialized technologies like Hadoop, Spark, and NoSQL databases, as well as machine learning algorithms. The impact of big data spans across industries, enabling data-driven decisions in business, advancements in healthcare, insights in finance, and innovations in research and smart city development. Understanding big data is essential as it underpins a data-centric world, shaping how we analyze, process, and leverage information for improved decision-making and innovation.
 
 
-## What is Big Data?
+A. Defining Big Data<br> B. Characteristics of Big Data<br> C. Sources of Big Data<br> D. Challenges in Dealing with Big Data
 
-Big data is a combination of unstructured, semi-structured or structured data collected by organizations. This data can be mined to gain insights and used in machine learning projects, predictive modeling and other advanced analytics applications.
+## Defining Big Data
+
+The definition of big data is data that contains greater variety, arriving in increasing volumes and with more velocity. This is also known as the three Vs. Big data is a combination of unstructured, semi-structured or structured data collected by organizations. This data can be mined to gain insights and used in machine learning projects, predictive modeling and other advanced analytics applications. 
+
+Put simply, big data is larger, more complex data sets, especially from new data sources. These data sets are so voluminous that traditional data processing software just can’t manage them. But these massive volumes of data can be used to address business problems you wouldn’t have been able to tackle before.
 
 > According to Gartner (2012),
 Big data is high-volume, high-velocity and/or high-variety information assets that demand cost-effective, innovative forms of information processing that enable enhanced insight, decision making, and process automation.
-
-
 
 Big data can be used to improve operations, provide better customer service and create personalized marketing campaigns -- all of which increase value. As an example, big data can provide companies with valuable insights into their customers that can then be used to refine marketing techniques to increase customer engagement and Conversion rates. Big Data refers to large and complex datasets that surpass the capabilities of traditional data processing and analysis tools. 
 
