@@ -9,7 +9,7 @@
 
 # Assignment 1: Data analysis using Google Sheets
 
-<p align="center">
+<p align="left">
 <img src="https://www.filepicker.io/api/file/SDYwYDBgTeuZyALrCrCh"  height="300" />
 </p>
 
