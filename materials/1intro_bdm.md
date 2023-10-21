@@ -43,6 +43,10 @@ Big Data Management is crucial for businesses and organizations in various indus
 
 ## Why Big Data Management is Important
 
+<p align="center">
+<img src="https://www.datalumen.eu/wp-content/uploads/2017/12/Datalumen_Total-Data-Management-Big-Data-Infographic-911x1030.jpg"  height="300" />
+</p>
+
 Big Data Management holds significant importance in today's data-driven world for several compelling reasons:
 
 1. **Data-Driven Decision-Making:** In the digital age, data is a valuable asset. Effective Big Data Management allows organizations to collect, store, and analyze data to make informed decisions. This leads to better strategies, improved customer experiences, and a competitive edge.
