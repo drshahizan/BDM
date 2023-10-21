@@ -18,6 +18,11 @@ Big data refers to the vast and complex datasets characterized by their enormous
 
 Big data is a combination of unstructured, semi-structured or structured data collected by organizations. This data can be mined to gain insights and used in machine learning projects, predictive modeling and other advanced analytics applications.
 
+> According to Gartner (2012),
+Big data is high-volume, high-velocity and/or high-variety information assets that demand cost-effective, innovative forms of information processing that enable enhanced insight, decision making, and process automation.
+
+
+
 Big data can be used to improve operations, provide better customer service and create personalized marketing campaigns -- all of which increase value. As an example, big data can provide companies with valuable insights into their customers that can then be used to refine marketing techniques to increase customer engagement and Conversion rates. Big Data refers to large and complex datasets that surpass the capabilities of traditional data processing and analysis tools. 
 
 <p align="center">
