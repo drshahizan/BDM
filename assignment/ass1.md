@@ -9,6 +9,8 @@
 
 # Assignment 1: Data analysis using Google Sheets
 
+Google Sheets is a versatile and accessible tool for data analysis that allows you to input, clean, visualize, and draw insights from your data. It offers features such as data cleaning, chart creation, basic and advanced formulas, filtering and sorting, pivot tables, and conditional formatting, making it suitable for a wide range of analytical tasks. With real-time collaboration, sharing, and the ability to create interactive dashboards, Google Sheets is an excellent choice for individuals and teams seeking to analyze data in a user-friendly and collaborative environment, particularly for smaller datasets and straightforward calculations.
+
 This assignment requires you to create a responsive website using the Bootstrap framework with a focus on Malaysian culture. The detailed instructions for this project:
 
 ## 1. Create a team
