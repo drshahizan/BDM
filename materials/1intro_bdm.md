@@ -16,7 +16,7 @@ Big Data Management means organizing and controlling lots of data, both structur
 Good Big Data management helps companies find valuable information from different sources, like call records, system logs, and social media, in massive sets of unstructured and semi-structured data.
 
 <p align="center">
-<img src="https://www.brainwareuniversity.ac.in/blog/wp-content/uploads/2019/03/data_management_chart-620x620.png"  height="300" />
+<img src="https://www.brainwareuniversity.ac.in/blog/wp-content/uploads/2019/03/data_management_chart-620x620.png"  height="600" />
 </p>
 
 ## What is Big Data Management?
