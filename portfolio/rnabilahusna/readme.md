@@ -10,7 +10,8 @@
 - **Age:** 23 years old
 - **Current Location:** Ampang, Selangor
 - **Email:** [nabilahusna@graduate.utm.my](mailto:nabilahusna@graduate.utm.my)
-- **LinkedIn:** https://www.linkedin.com/in/rnabila-husna/
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/rnabila-husna/)
+
 
 ## Education
 - **Master's Degree (Ongoing):** Data Science
@@ -25,20 +26,20 @@
 I am a passionate data science student, currently pursuing a Master's degree in Data Science. I believe in the power of data to drive insights, make informed decisions, and create positive impacts in various fields. My academic journey has equipped me with the knowledge and skills necessary to analyze complex data, extract valuable information, and contribute to data-driven solutions.
 
 ## Interests
-- Data Analysis and Visualization
-- Machine Learning and Predictive Analytics
-- Data Mining and Big Data
-- Python Programming
-- Statistical Modeling
+- 📊 Data Analysis and Visualization
+- 🤖 Machine Learning and Predictive Analytics
+- 📡 Data Mining and Big Data
+- 🐍 Python Programming
+- 📈 Statistical Modeling
 
 ## Skills
-- Python
-- R
-- Machine Learning
-- Data Visualization
-- Statistical Analysis
-- SQL
-- Data Preprocessing
+- 🐍 Python
+- 📊 R
+- 📦 Machine Learning
+- 📈 Data Visualization
+- 📊 Statistical Analysis
+- 💽 SQL
+- 📑 Data Preprocessing
 
 ## Certifications
 - Microsoft Certified: Power BI Data Analyst Associate
