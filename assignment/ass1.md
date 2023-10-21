@@ -7,7 +7,7 @@
 
 🌟 Hit star button to save this repo in your profile
 
-# Project 3: Web Responsive using Bootstrap
+# Assignment1: Data analysis using google sheets
 
 This assignment requires you to create a responsive website using the Bootstrap framework with a focus on Malaysian culture. The detailed instructions for this project:
 
