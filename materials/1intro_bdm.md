@@ -98,7 +98,7 @@ Big Data is a relatively recent phenomenon, but its roots can be traced back to 
 The history of Big Data is characterized by a continuous evolution driven by technological advancements, changing data sources, and the growing realization of the potential insights and value that can be derived from large and complex datasets. As technology continues to advance, the history of Big Data remains an unfolding story with new chapters yet to be written.
 
 <p align="center">
-<img src="https://d24cdstip7q8pz.cloudfront.net/t/t20151211173640/content/common/images/Big-Data-Timeline-I.jpg"  height="300" />
+<img src="https://d24cdstip7q8pz.cloudfront.net/t/t20151211173640/content/common/images/Big-Data-Timeline-I.jpg"  width="600" />
 </p>
 
 ## Data Storage Units from Bytes to Exabytes
