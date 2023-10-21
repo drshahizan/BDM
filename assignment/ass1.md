@@ -9,12 +9,19 @@
 
 # Assignment 1: Data analysis using Google Sheets
 
-Google Sheets is a versatile and accessible tool for data analysis that allows you to input, clean, visualize, and draw insights from your data. It offers features such as data cleaning, chart creation, basic and advanced formulas, filtering and sorting, pivot tables, and conditional formatting, making it suitable for a wide range of analytical tasks. With real-time collaboration, sharing, and the ability to create interactive dashboards, Google Sheets is an excellent choice for individuals and teams seeking to analyze data in a user-friendly and collaborative environment, particularly for smaller datasets and straightforward calculations.
+Google Sheets is a versatile and user-friendly tool for data analysis, enabling you to input, cleanse, visualize, and glean insights from your data. It encompasses essential functionalities like data cleansing, chart generation, fundamental and advanced formulas, as well as data filtering and sorting, coupled with pivot tables and conditional formatting, rendering it exceptionally well-suited for a broad spectrum of analytical endeavors. With its real-time collaborative features, sharing capabilities, and the capacity to construct interactive dashboards, Google Sheets represents an outstanding choice for individuals and teams alike, aiming to undertake data analysis within a collaborative and easily accessible framework, especially when dealing with modest datasets and straightforward computations. This assignment necessitates performing data analysis using Google Sheets' tools. 
 
-This assignment requires you to create a responsive website using the Bootstrap framework with a focus on Malaysian culture. The detailed instructions for this project:
+## 📚 Instructions
+1. 📖 Thoroughly review the case study and instructions.
+2. 🚀 This project is a group effort; form teams with a minimum of three and a maximum of four students.
+3. 🚫 Academic integrity is essential; any suspected cheating may lead to disciplinary actions, including suspension or expulsion, with confiscation of materials or devices violating examination rules.
+4. 📊 The objective of this assignment is to process and visualize data using Google Sheets. You'll work on two case studies: exam results and sales performance.
+5. 📝 Submit a comprehensive document outlining the step-by-step process for creating the case study, including the utilized formulas. Additionally, provide a Google Sheets file containing the results of the case study's execution.
+
+
 
 ## 1. Create a team
-Form a team of four students, and make sure everyone has a clear understanding of the project requirements and timelines.
+Form a team of four students (min 3 pax, and make sure everyone has a clear understanding of the project requirements and timelines.
 
 ## 2. Research and planning
 Conduct research on Malaysian culture and design trends. Brainstorm ideas and create a plan for your website, including the content, layout, and features. To create a website that represents Malaysian culture, choose a theme that incorporates the colors, patterns, and designs that are common in Malaysia. You can use traditional motifs and patterns to create a unique and visually appealing design.
