@@ -27,6 +27,8 @@ Big data is high-volume, high-velocity and/or high-variety information assets th
 
 Big data can be used to improve operations, provide better customer service and create personalized marketing campaigns -- all of which increase value. As an example, big data can provide companies with valuable insights into their customers that can then be used to refine marketing techniques to increase customer engagement and Conversion rates. Big Data refers to large and complex datasets that surpass the capabilities of traditional data processing and analysis tools. 
 
+## Characteristics of Big Data
+
 <p align="center">
 <img src="https://img.techentice.com/media/2019/04/5_V_Big_data-1.png"  height="400" />
 </p>
