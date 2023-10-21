@@ -10,7 +10,7 @@
 <p align="center">
 <img src="https://www.filepicker.io/api/file/SDYwYDBgTeuZyALrCrCh"  height="700" />
 </p>
-![](https://www.filepicker.io/api/file/SDYwYDBgTeuZyALrCrCh)
+
 
 # Assignment 1: Data analysis using Google Sheets
 
