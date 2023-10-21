@@ -59,9 +59,9 @@ assignment/your_group/
 
 | No | Group |  File |
 | :-----: |  ------ | :-----: | 
-| 1 | Greenhorn |  <a href="submission/1%20Greenhorn" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
-| 2 | Boundless |  <a href="submission/2%20Boundless" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
-| 3 | Topgunners |  <a href="submission/3%20TOPGUNNERS" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 1 |   |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 2 |   |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 3 |   |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
 
 
 ## Contribution 🛠️
