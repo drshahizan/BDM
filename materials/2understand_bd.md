@@ -29,6 +29,9 @@ Big data can be used to improve operations, provide better customer service and 
 
 ## Characteristics of Big Data
 
+The characteristics of Big Data encapsulate the defining attributes of exceptionally large and complex datasets that have become a central component of our modern, data-driven world. These characteristics, often referred to as the "5 V's" (Volume, Velocity, Variety, Veracity, and Value).
+
+
 <p align="center">
 <img src="https://img.techentice.com/media/2019/04/5_V_Big_data-1.png"  height="400" />
 </p>
