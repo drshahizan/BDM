@@ -13,10 +13,14 @@ Big Data Management is about handling a huge amount of data that's too much for 
 
 Big Data Management means organizing and controlling lots of data, both structured and unstructured. It aims to keep the data in good shape and make it easy to use for things like business analysis and Big Data Analytics. Many companies, government agencies, and organizations use Big Data management to deal with massive data collections, often reaching into terabytes or even petabytes of information in various file formats.
 
+<p align="center">
+<img src="https://www.visualcapitalist.com/wp-content/uploads/2019/07/big-data-getting-bigger.jpg"  height="400" />
+</p>
+
 Good Big Data management helps companies find valuable information from different sources, like call records, system logs, and social media, in massive sets of unstructured and semi-structured data.
 
 <p align="center">
-<img src="https://www.brainwareuniversity.ac.in/blog/wp-content/uploads/2019/03/data_management_chart-620x620.png"  height="400" />
+<img src="https://www.brainwareuniversity.ac.in/blog/wp-content/uploads/2019/03/data_management_chart-620x620.png"  height="700" />
 </p>
 
 ## What is Big Data Management?
