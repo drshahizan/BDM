@@ -15,7 +15,7 @@
 
 Google Sheets is a versatile and user-friendly tool for data analysis, enabling you to input, cleanse, visualize, and glean insights from your data. It encompasses essential functionalities like data cleansing, chart generation, fundamental and advanced formulas, as well as data filtering and sorting, coupled with pivot tables and conditional formatting, rendering it exceptionally well-suited for a broad spectrum of analytical endeavors. With its real-time collaborative features, sharing capabilities, and the capacity to construct interactive dashboards, Google Sheets represents an outstanding choice for individuals and teams alike, aiming to undertake data analysis within a collaborative and easily accessible framework, especially when dealing with modest datasets and straightforward computations. This assignment necessitates performing data analysis using Google Sheets' tools. 
 
-## 📚 Instructions
+## 📚 Project Description
 
 ### 1. Reading the Case Study
 📖 Begin by thoroughly reading the provided case study and the following instructions to gain a clear understanding of the task at hand.
@@ -29,7 +29,7 @@ Google Sheets is a versatile and user-friendly tool for data analysis, enabling 
 ### 4. Assignment Objective
 📊 The primary objective of this assignment is to process and visualize data using Google Sheets. You will work on two distinct case studies: one involving exam results and the other concerning sales performance.
 
-| No | Case Study | Instruction | File |
+| No | Case Study | Instruction | Dataset |
 |:----:|---------|:-------------:|:------:|
 | 1.  | Examination results | <a href="../images/Ass1%20HPDPa.pdf" ><img src="../images/document.png" width="24px" height="24px"></a> | <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/GS/Dataset1.txt" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
 | 2.  | Sales performance | <a href="../images/Ass1%20HPDPb.pdf" ><img src="../images/document.png" width="24px" height="24px"></a> | <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/GS/Dataset2.txt" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
