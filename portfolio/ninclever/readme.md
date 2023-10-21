@@ -19,7 +19,17 @@ Greetings, I’m NIAN CONG and I’m a data scientist student with a passion. I 
 
 - **Bachelor's Degree:** Telecommunication Engineering
   - **Institution:** Tibet University
-  
+
+## Soft skills
+- **Communication** 
+  - must communicate their findings to business users and decision-makers and explain what value these insights can bring to the business. 
+
+- **Curiosity** 
+  - ntellectual curiosity inspires data scientists to look for answers to address business crises.
+
+- **Storytelling** 
+  -Storytelling aids data scientists in conveying their results logically and clearly.
+    
 ## 📫 Contact Me
 
 - **Email:** nian@graduate.utm.my
