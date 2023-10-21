@@ -107,6 +107,10 @@ The history of Big Data is characterized by a continuous evolution driven by tec
 
 ## Data Storage Units from Bytes to Zettabytes
 
+<p align="center">
+<img src="https://i.pinimg.com/736x/fc/9b/02/fc9b021a412b7ce608b6e54b6439e3aa.jpg"  width="500" />
+</p>
+
 Understanding the hierarchy of storage units, from bytes to zettabytes, is essential for effectively managing, scaling, and optimizing data storage and processing systems. Whether for personal use, business applications, or large-scale data infrastructure, the choice of the appropriate storage unit depends on specific data requirements and the capacity needed. Below is a detailed description of these storage units and their common use cases:
 
 | Unit             | Storage Capacity        | Description and Common Use Cases                                  |
