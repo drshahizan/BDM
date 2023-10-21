@@ -35,7 +35,6 @@ Google Sheets is a versatile and user-friendly tool for data analysis, enabling 
 | 2.  | Sales performance | <a href="" ><img src="../images/document.png" width="24px" height="24px"></a> | <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/GS/Dataset2.txt" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
 
 
-
 ### 5. Submission Requirements
 📝 Prepare a comprehensive document that outlines the step-by-step process for creating the case study. This document should include details about the formulas used. Additionally, you must submit a Google Sheets file containing the results of the case study's execution.
 
