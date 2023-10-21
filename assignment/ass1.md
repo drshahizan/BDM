@@ -29,10 +29,10 @@ Google Sheets is a versatile and user-friendly tool for data analysis, enabling 
 ### 4. Assignment Objective
 📊 The primary objective of this assignment is to process and visualize data using Google Sheets. You will work on two distinct case studies: one involving exam results and the other concerning sales performance.
 
-| Id | Case Study | Description | File |
+| Id | Case Study | Instruction | File |
 |----|---------|-------------|:------:|
-| 1  | Examination results | Dataset containing sales data from the mock office supply company. | <a href="/mongodb/01-sales" ><img src="images/dataset.png" width="24px" height="24px"></a> |
-| 2  | Sales performance | Contains training data for a mock financial services application. | <a href="/mongodb/02-analytics" ><img src="images/dataset.png" width="24px" height="24px"></a> |
+| 1  | Examination results |  | <a href="/mongodb/01-sales" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
+| 2  | Sales performance |  | <a href="/mongodb/02-analytics" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
 
 
 
