@@ -41,6 +41,8 @@ This course provides a basic fundamental of big data architecture and management
 |   **9** | **Challenges in Big Data Management** | A. Scalability Issues<br> B. Security Concerns<br> C. Compliance and Regulatory Challenges |
 |  **10** | **Future Trends in Big Data Management** | A. The Evolving Landscape of Big Data<br> B. Predictions for the Future<br> C. Preparing for the Next Generation of Big Data |
 |  **11** | **Best Practices in Big Data Management** | A. Key Takeaways<br> B. Actionable Strategies<br> C. Tips for Effective Big Data Management |
+|  **12** | **Other Referencesw** |  |
+
 
 ## Weekly Schedule
 
