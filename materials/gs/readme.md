@@ -7,6 +7,7 @@
 
 🌟 Hit star button to save this repo in your profile
 
+# Data analysis using Google Sheets 
 Data analysis using Google Sheets is a powerful and accessible way to manipulate, visualize, and draw insights from your data. Here's a step-by-step overview of how to perform data analysis using Google Sheets:
 
 1. **Data Entry**:
