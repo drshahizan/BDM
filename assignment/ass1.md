@@ -8,7 +8,7 @@
 🌟 Hit star button to save this repo in your profile
 
 <p align="center">
-<img src="https://www.filepicker.io/api/file/SDYwYDBgTeuZyALrCrCh"  height="700" />
+<img src="https://www.filepicker.io/api/file/SDYwYDBgTeuZyALrCrCh"  height="500" />
 </p>
 
 
