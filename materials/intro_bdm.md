@@ -91,8 +91,9 @@ Big data is a combination of unstructured, semi-structured or structured data co
 
 Big data can be used to improve operations, provide better customer service and create personalized marketing campaigns -- all of which increase value. As an example, big data can provide companies with valuable insights into their customers that can then be used to refine marketing techniques to increase customer engagement and Conversion rates. Big Data refers to large and complex datasets that surpass the capabilities of traditional data processing and analysis tools. 
 
-![Big data](https://img.techentice.com/media/2019/04/5_V_Big_data-1.png)
-
+<p align="center">
+<img src="https://img.techentice.com/media/2019/04/5_V_Big_data-1.png"  height="400" />
+</p>
 
 These datasets are characterized by the three Vs:
 
