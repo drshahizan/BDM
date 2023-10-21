@@ -154,6 +154,10 @@ The challenges in dealing with Big Data are multifaceted and are not limited to 
 
 Dealing with Big Data requires a combination of advanced technologies, data management strategies, and a deep understanding of the unique challenges it presents. Success in the era of Big Data depends on organizations' ability to effectively tackle these challenges while extracting valuable insights and making data-driven decisions.
 
+<p align="center">
+<img src="https://innovatureinc.com/wp-content/uploads/2023/09/Untitled-2-08-1229x1536.jpg"  height="500" />
+</p>
+
 ## What is Big Data Analytics?
 
 Big Data Analytics is the process of examining large and complex datasets to uncover hidden patterns, correlations, and other valuable information. It involves the use of various techniques, tools, and technologies to extract insights and support data-driven decision-making. Here are some key aspects of Big Data Analytics:
