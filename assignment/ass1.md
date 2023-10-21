@@ -7,7 +7,7 @@
 
 🌟 Hit star button to save this repo in your profile
 
-# Assignment1: Data analysis using google sheets
+# Assignment 1: Data analysis using Google Sheets
 
 This assignment requires you to create a responsive website using the Bootstrap framework with a focus on Malaysian culture. The detailed instructions for this project:
 
