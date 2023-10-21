@@ -7,12 +7,11 @@
 
 🌟 Hit star button to save this repo in your profile
 
-<p align="center">
-<img src="https://www.filepicker.io/api/file/SDYwYDBgTeuZyALrCrCh"  height="500" />
-</p>
-
-
 # Assignment 1: Data analysis using Google Sheets
+
+<p align="center">
+<img src="https://www.filepicker.io/api/file/SDYwYDBgTeuZyALrCrCh"  height="400" />
+</p>
 
 Google Sheets is a versatile and user-friendly tool for data analysis, enabling you to input, cleanse, visualize, and glean insights from your data. It encompasses essential functionalities like data cleansing, chart generation, fundamental and advanced formulas, as well as data filtering and sorting, coupled with pivot tables and conditional formatting, rendering it exceptionally well-suited for a broad spectrum of analytical endeavors. With its real-time collaborative features, sharing capabilities, and the capacity to construct interactive dashboards, Google Sheets represents an outstanding choice for individuals and teams alike, aiming to undertake data analysis within a collaborative and easily accessible framework, especially when dealing with modest datasets and straightforward computations. This assignment necessitates performing data analysis using Google Sheets' tools. 
 
