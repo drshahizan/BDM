@@ -29,22 +29,17 @@ Google Sheets is a versatile and user-friendly tool for data analysis, enabling 
 ### 4. Assignment Objective
 📊 The primary objective of this assignment is to process and visualize data using Google Sheets. You will work on two distinct case studies: one involving exam results and the other concerning sales performance.
 
+| Id | Case Study | Description | File |
+|----|---------|-------------|:------:|
+| 1  | Exam results | Dataset containing sales data from the mock office supply company. | <a href="/mongodb/01-sales" ><img src="images/dataset.png" width="24px" height="24px"></a> |
+| 2  | Sales performance | Contains training data for a mock financial services application. | <a href="/mongodb/02-analytics" ><img src="images/dataset.png" width="24px" height="24px"></a> |
+
+
+
 ### 5. Submission Requirements
 📝 Prepare a comprehensive document that outlines the step-by-step process for creating the case study. This document should include details about the formulas used. Additionally, you must submit a Google Sheets file containing the results of the case study's execution.
 
 These detailed instructions are provided to ensure that the assignment is completed successfully and in adherence to academic standards.
-
-### Example
-
-Examples of websites that you can referred:
-1. [Kuching food hunter](https://www.behance.net/gallery/119237341/App-Design-KUCHING-FOOD-HUNTER)
-2. [Sarawak Layer Cake](https://www.behance.net/gallery/155042793/Sarawak-Layer-Cake-Website-Design)
-3. [Child Charity](https://www.behance.net/gallery/119371597/Website-Design-CHILD-CHARITY/modules/679559279)
-4. [Mobile Web Menu - Mamak](https://www.behance.net/gallery/152300087/Mobile-Web-Menu-Mamak)
-5. [Berau-by-Benak](https://www.behance.net/gallery/155239669/Berau-by-Benak-Raya/modules/875922315)
-6. [Cultured Society Website](https://www.behance.net/gallery/116697291/Cultured-Society-Website-(Anchor-Link-Project)/modules/665409291)
-7. [Malaysian Food Culture](https://www.behance.net/gallery/110721813/Malaysian-Food-Culture-Digital-Editorial)
-8. [BOOS - Kadazan Language Learning](https://www.behance.net/gallery/123080573/BOOS-Mobile-App-Design)
 
 ## File and Folder Structure 
 1. Please include your contact information in the HTML `<head>`.
