@@ -69,10 +69,8 @@ Understanding these five Vs is essential for businesses and organizations to eff
 In the modern era, the world is awash with an unprecedented amount of digital information, and this wealth of data has come to be known as "Big Data." These vast and complex datasets are generated from a multitude of sources, and they play a pivotal role in shaping how businesses, organizations, and researchers operate. The sources of Big Data are both diverse and expansive, representing the lifeblood of the digital age.
 
 <p align="center">
-<img src="https://www.researchgate.net/publication/336028940/figure/fig1/AS:807041471893506@1569425089504/Data-sources-of-Big-Data.ppm"  height="500" />
+<img src="https://www.researchgate.net/profile/Rainer-Lenz/publication/336028940/figure/fig1/AS:807041471893506@1569425089504/Data-sources-of-Big-Data_W640.jpg"  height="500" />
 </p>
-
-https://www.researchgate.net/publication/336028940/figure/fig1/AS:807041471893506@1569425089504/Data-sources-of-Big-Data.ppm
 
 Big Data originates from various channels, including social media, the Internet of Things (IoT), websites, financial transactions, sensors, and much more. It encompasses structured data, such as traditional databases and spreadsheets, as well as unstructured data like text, images, and video. Understanding these sources and their characteristics is crucial for harnessing the potential of Big Data. Sources of Big Data:
 
