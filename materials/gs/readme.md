@@ -1,3 +1,12 @@
+<a href="https://github.com/drshahizan/BDM/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/BDM" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/BDM/network/members"><img src="https://img.shields.io/github/forks/drshahizan/BDM" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/BDM/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/BDM" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/BDM"><img src="https://img.shields.io/github/issues/drshahizan/BDM" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/BDM/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/BDM?color=2b9348"></a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+
+🌟 Hit star button to save this repo in your profile
+
 Data analysis using Google Sheets is a powerful and accessible way to manipulate, visualize, and draw insights from your data. Here's a step-by-step overview of how to perform data analysis using Google Sheets:
 
 1. **Data Entry**:
@@ -47,3 +56,12 @@ Data analysis using Google Sheets is a powerful and accessible way to manipulate
     - When your analysis is complete, you can export your findings, charts, and tables in various formats (PDF, Excel, etc.) for presentations and sharing.
 
 Google Sheets provides a user-friendly and collaborative environment for data analysis, making it a popular choice for both beginners and professionals. It's particularly useful for smaller datasets, simple calculations, and when you need to work with others in real time. For more complex data analysis tasks, dedicated software like Excel or data analysis tools like R or Python may be preferred.
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
+
