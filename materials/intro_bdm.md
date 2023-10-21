@@ -9,9 +9,14 @@
 
 # Introduction to Big Data Management
 
-Big Data Management refers to the process of collecting, storing, processing, and analyzing vast amounts of data that exceed the capabilities of traditional data management systems. The term "Big Data" typically encompasses data sets that are too large, complex, or rapidly changing for conventional database systems to handle effectively. In this introduction, we will explore the key concepts and challenges associated with Big Data Management.
+Big Data Management is about handling a huge amount of data that's too much for regular systems. This data can be very large, complex, or change rapidly. In this introduction, we'll look at what Big Data Management is all about.
 
-https://www.brainwareuniversity.ac.in/blog/wp-content/uploads/2019/03/data_management_chart-620x620.png
+Big Data Management means organizing and controlling lots of data, both structured and unstructured. It aims to keep the data in good shape and make it easy to use for things like business analysis and Big Data Analytics. Many companies, government agencies, and organizations use Big Data management to deal with massive data collections, often reaching into terabytes or even petabytes of information in various file formats.
+
+Good Big Data management helps companies find valuable information from different sources, like call records, system logs, and social media, in massive sets of unstructured and semi-structured data.
+
+
+![Big data management](https://www.brainwareuniversity.ac.in/blog/wp-content/uploads/2019/03/data_management_chart-620x620.png)
 
 ## What is Big Data Management?
 
