@@ -41,18 +41,8 @@ Google Sheets is a versatile and user-friendly tool for data analysis, enabling 
 These detailed instructions are provided to ensure that the assignment is completed successfully and in adherence to academic standards.
 
 ## File and Folder Structure 
-1. Please include your contact information in the HTML `<head>`.
 
-``` 
-<!--html
-Name:a
-Matrix No:
-Github id:
-
-Project 3: Web Responsive using Bootstrap
--->
-```
-2. You must place your file in the submission folder. Within the [`submission/ass1/`](./submission/ass1/) folder, create a folder called your `github_id`. Name the default file as `index.html`. Suggested folder structure for this project:
+1. You must place your file in the submission folder. Within the [`submission/ass1/`](./submission/ass1/) folder, create a folder called your group. Name the default file as `readme.md`. Suggested folder structure for this project:
 
 ```html
 assignment/your_group/
@@ -64,10 +54,6 @@ assignment/your_group/
     └── 📄 google_sheets
 
 ```
-
-In this folder structure, the main `index.html` file is located in the root folder. The `CSS` files are located in the css folder, while the `JavaScript` files are located in the js folder. The `images` used in the project are stored in the images folder.
-
-Note that this is just one possible folder structure and can be adjusted based on personal preferences or project requirements.
 
 ## Submission
 
