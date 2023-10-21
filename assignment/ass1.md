@@ -31,8 +31,8 @@ Google Sheets is a versatile and user-friendly tool for data analysis, enabling 
 
 | Id | Case Study | Instruction | File |
 |----|---------|-------------|:------:|
-| 1  | Examination results |  | <a href="https://github.com/drshahizan/dataset/blob/main/GS/Dataset1.txt" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
-| 2  | Sales performance |  | <a href="https://github.com/drshahizan/dataset/blob/main/GS/Dataset2.txt" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
+| 1  | Examination results |  | <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/GS/Dataset1.txt" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
+| 2  | Sales performance |  | <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/GS/Dataset2.txt" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
 
 
 
