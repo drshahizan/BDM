@@ -17,7 +17,7 @@ Google Sheets is a versatile and user-friendly tool for data analysis, enabling 
 
 ## 📚 Instructions
 
-### 1.Reading the Case Study
+### 1. Reading the Case Study
 📖 Begin by thoroughly reading the provided case study and the following instructions to gain a clear understanding of the task at hand.
 
 ### 2. Team Collaboration
@@ -30,7 +30,7 @@ Google Sheets is a versatile and user-friendly tool for data analysis, enabling 
 📊 The primary objective of this assignment is to process and visualize data using Google Sheets. You will work on two distinct case studies: one involving exam results and the other concerning sales performance.
 
 | No | Case Study | Instruction | File |
-|:----:|---------|-------------|:------:|
+|:----:|---------|:-------------:|:------:|
 | 1.  | Examination results | <a href="" ><img src="../images/document.png" width="24px" height="24px"></a> | <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/GS/Dataset1.txt" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
 | 2.  | Sales performance | <a href="" ><img src="../images/document.png" width="24px" height="24px"></a> | <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/GS/Dataset2.txt" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
 
