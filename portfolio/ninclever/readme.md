@@ -6,6 +6,13 @@
 ## About Me
 Greetings, I’m NIAN CONG and I’m a data scientist student with a passion. I realized how important data is and can create a lot of value and friendliness. So I want to become a good data scientist.
 
+## Interests
+- Data Analysis and Visualization
+- NLP
+- Machine Learning and Predictive Analytics
+- Data Mining and Big Data
+- Python Programming
+ 
 ## 🧰 Education
 - **Master's Degree (Ongoing):** Data Science
   - **Institution:** Universiti Teknologi Malaysia
