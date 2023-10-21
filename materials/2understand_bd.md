@@ -115,6 +115,11 @@ These diverse sources collectively contribute to the ever-expanding pool of Big 
 The sources of Big Data are continuously evolving and expanding, driven by advances in technology and the growing interconnectedness of our world. As data continues to proliferate, the ability to collect, manage, and analyze this information becomes an increasingly vital skill for businesses, governments, and individuals. Exploring the sources of Big Data provides valuable insights into the foundations of our data-driven society and the boundless opportunities it offers for innovation and decision-making.
 
 ## Challenges in Dealing with Big Data
+
+<p align="center">
+<img src="https://nix-united.com/wp-content/uploads/2022/01/1-1.jpg"  height="400" />
+</p>
+
 The challenges in dealing with Big Data are multifaceted and are not limited to the scale of the data alone. They encompass issues related to data quality, real-time processing, data security, and the need for advanced analytical techniques. Moreover, as data continues to grow exponentially, organizations and individuals must adapt to this new data landscape. Challenges:
 
 1. **Volume Overload:** One of the most fundamental challenges with Big Data is its sheer volume. Storing, processing, and managing massive datasets can strain infrastructure and require significant investments in storage and computational resources.
