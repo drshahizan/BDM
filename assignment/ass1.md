@@ -52,7 +52,7 @@ Github id:
 Project 3: Web Responsive using Bootstrap
 -->
 ```
-2. You must place your file in the submission folder. Within the [`submission`](./submission) folder, create a folder called your `github_id`. Name the default file as `index.html`. Suggested folder structure for this project:
+2. You must place your file in the submission folder. Within the [`submission/ass1/`](./submission/ass1/) folder, create a folder called your `github_id`. Name the default file as `index.html`. Suggested folder structure for this project:
 
 ```html
 assignment/your_group/
