@@ -16,12 +16,23 @@
 Google Sheets is a versatile and user-friendly tool for data analysis, enabling you to input, cleanse, visualize, and glean insights from your data. It encompasses essential functionalities like data cleansing, chart generation, fundamental and advanced formulas, as well as data filtering and sorting, coupled with pivot tables and conditional formatting, rendering it exceptionally well-suited for a broad spectrum of analytical endeavors. With its real-time collaborative features, sharing capabilities, and the capacity to construct interactive dashboards, Google Sheets represents an outstanding choice for individuals and teams alike, aiming to undertake data analysis within a collaborative and easily accessible framework, especially when dealing with modest datasets and straightforward computations. This assignment necessitates performing data analysis using Google Sheets' tools. 
 
 ## 📚 Instructions
-1. Thoroughly review the case study and instructions.
-2. This project is a group effort 🚀; form teams with a minimum of three and a maximum of four students.
-3. Academic integrity is essential 🚫; any suspected cheating may lead to disciplinary actions, including suspension or expulsion, with confiscation of materials or devices violating examination rules.
-4. The objective of this assignment is to process and visualize 📊 data using Google Sheets. You'll work on two case studies: exam results and sales performance.
-5. Submit a comprehensive document outlining the step-by-step process for creating the case study, including the utilized formulas. Additionally, provide a Google Sheets file containing the results of the case study's execution.
 
+### 1.Reading the Case Study
+📖 Begin by thoroughly reading the provided case study and the following instructions to gain a clear understanding of the task at hand.
+
+## 2. Team Collaboration
+🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment.
+
+## 3. Academic Integrity
+🚫 Uphold the highest standards of academic integrity. Any candidate suspected of cheating in the assignment will face disciplinary action, which may include suspension or expulsion from the University. Moreover, any materials or devices found to be in violation of examination rules and regulations will be confiscated.
+
+## 4. Assignment Objective
+📊 The primary objective of this assignment is to process and visualize data using Google Sheets. You will work on two distinct case studies: one involving exam results and the other concerning sales performance.
+
+## 5. Submission Requirements
+📝 Prepare a comprehensive document that outlines the step-by-step process for creating the case study. This document should include details about the formulas used. Additionally, you must submit a Google Sheets file containing the results of the case study's execution.
+
+These detailed instructions are provided to ensure that the assignment is completed successfully and in adherence to academic standards.
 
 
 ## 1. Create a team
