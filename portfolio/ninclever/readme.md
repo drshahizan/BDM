@@ -27,8 +27,9 @@ Greetings, I’m NIAN CONG and I’m a data scientist student with a passion. I 
 - **Curiosity** 
   - Intellectual curiosity inspires data scientists to look for answers to address business crises.
 
-- **Storytelling** 
+- **Storytelling**
   - Storytelling aids data scientists in conveying their results logically and clearly.
+    
     
 ## 📫 Contact Me
 
