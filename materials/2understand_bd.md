@@ -117,7 +117,7 @@ The sources of Big Data are continuously evolving and expanding, driven by advan
 ## Challenges in Dealing with Big Data
 
 <p align="center">
-<img src="https://nix-united.com/wp-content/uploads/2022/01/1-1.jpg"  height="400" />
+<img src="https://nix-united.com/wp-content/uploads/2022/01/1-1.jpg"  height="500" />
 </p>
 
 The challenges in dealing with Big Data are multifaceted and are not limited to the scale of the data alone. They encompass issues related to data quality, real-time processing, data security, and the need for advanced analytical techniques. Moreover, as data continues to grow exponentially, organizations and individuals must adapt to this new data landscape. Challenges:
