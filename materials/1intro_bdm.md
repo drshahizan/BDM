@@ -105,18 +105,21 @@ The history of Big Data is characterized by a continuous evolution driven by tec
 <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20151211173640/content/common/images/Big-Data-Timeline-I.jpg"  width="600" />
 </p>
 
-## Data Storage Units from Bytes to Exabytes
-Understanding the hierarchy of storage units, from bytes to exabytes, is crucial for effectively managing, scaling, and optimizing data storage and processing systems. Whether for personal use, business applications, or large-scale data infrastructure, the choice of the appropriate storage unit depends on the specific data requirements and the capacity needed. Below is a detailed description of these storage units and their common use cases:
+## Data Storage Units from Bytes to Zettabytes
 
-| Unit            | Storage Capacity | Description and Common Use Cases                                  |
-|-----------------|------------------|--------------------------------------------------------------------|
-| Byte            | 1 byte           | - The fundamental unit of digital information.                    |
-| Kilobyte (KB)   | 1 KB = 1,000 bytes | - Small files, text documents, simple images.                     |
-| Megabyte (MB)   | 1 MB = 1,000 KB  | - Music files, short videos, high-resolution images.               |
-| Gigabyte (GB)   | 1 GB = 1,000 MB  | - Individual movie files, large software applications.            |
-| Terabyte (TB)   | 1 TB = 1,000 GB  | - Storing thousands of high-resolution photos.<br>- Small-scale server storage.<br>- Personal video collections. |
-| Petabyte (PB)   | 1 PB = 1,000 TB  | - Large-scale data centers.<br>- Storing years of high-definition video.<br>- Scientific data, including genomics and climate modeling. |
-| Exabyte (EB)    | 1 EB = 1,000 PB  | - Massive cloud storage platforms.<br>- Storing extensive global datasets.<br>- Astronomical and particle physics research data. |
+Understanding the hierarchy of storage units, from bytes to zettabytes, is essential for effectively managing, scaling, and optimizing data storage and processing systems. Whether for personal use, business applications, or large-scale data infrastructure, the choice of the appropriate storage unit depends on specific data requirements and the capacity needed. Below is a detailed description of these storage units and their common use cases:
+
+| Unit             | Storage Capacity        | Description and Common Use Cases                                  |
+|------------------|-------------------------|--------------------------------------------------------------------|
+| Byte             | 1 byte                  | - The fundamental unit of digital information.                    |
+| Kilobyte (KB)    | 1 KB = 1,000 bytes      | - Small files, text documents, simple images.                     |
+| Megabyte (MB)    | 1 MB = 1,000 KB         | - Music files, short videos, high-resolution images.               |
+| Gigabyte (GB)    | 1 GB = 1,000 MB         | - Individual movie files, large software applications.            |
+| Terabyte (TB)    | 1 TB = 1,000 GB         | - Storing thousands of high-resolution photos.<br>- Small-scale server storage.<br>- Personal video collections. |
+| Petabyte (PB)    | 1 PB = 1,000 TB         | - Large-scale data centers.<br>- Storing years of high-definition video.<br>- Scientific data, including genomics and climate modeling. |
+| Exabyte (EB)     | 1 EB = 1,000 PB         | - Massive cloud storage platforms.<br>- Storing extensive global datasets.<br>- Astronomical and particle physics research data. |
+| Zettabyte (ZB)  | 1 ZB = 1,000 EB         | - Enormous data infrastructure at the global level.<br>- Large-scale data analytics and machine learning datasets.<br>- Long-term archival of massive datasets. |
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
