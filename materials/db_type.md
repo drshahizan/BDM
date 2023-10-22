@@ -31,3 +31,12 @@ Check out a few here ⬇️
 - 𝐎𝐑𝐌 𝐟𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 make it easier to work with databases by providing a layer of abstraction between the code and the database.
 
 Each type has its strengths and optimal use cases. The database landscape continues to evolve, adapting to the ever-growing demands of modern applications!
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
+
