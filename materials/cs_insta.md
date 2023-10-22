@@ -14,7 +14,7 @@ Instagram, a leading social media platform, harnesses the power of machine learn
 Ever wondered how Instagram keeps you captivated and glued to your feed? Let's delve into the enchanting world of Instagram's machine learning. Here's the spellbinding process:
 
 <p align="center">
-<img src="../images/data_journey.gif"  height="800" />
+<img src="../images/dcs_insta.gif"  height="800" />
 </p>
 
 Ever wondered how Instagram keeps you captivated and glued to your feed? Let's delve into the enchanting world of Instagram's machine learning. Here's the spellbinding process:
