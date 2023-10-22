@@ -9,13 +9,11 @@
 
 # The Data Journey: From Raw to Refined
 
+In the world of data management, the process of transforming raw data into valuable, refined information is a multifaceted journey. Let's dive deeper into the various stages and components of this data journey.
+
 <p align="center">
 <img src="../images/data_journey.gif"  height="800" />
 </p>
-
-## The Data Journey: From Raw to Refined
-
-In the world of data management, the process of transforming raw data into valuable, refined information is a multifaceted journey. Let's dive deeper into the various stages and components of this data journey.
 
 ### **1. Data Ingestion and Source Schema Matching**
 
