@@ -36,14 +36,14 @@ This course provides a basic fundamental of big data architecture and management
 
 | No. | Content                                             | Link |
 |----: |----------------------------------------------------|------|
-| 1.   | Charting Your Path in Data and Machine Learning     | [Link](./materials/de_ds.md) |
-| 2.   | Navigating the Data Science Landscape               | [Link](./materials/ds_landscape.md) |
-| 3.   | Database Types                                      | [Link](./materials/db_type.md) |
-| 4.   | The Data Journey: From Raw to Refined               | [Link](./materials/data_journey.md) |
-| 5.   | The Data to MLOps Journey: An End-to-End Process   | [Link](./materials/data_mlops.md) |
-| 6.   | Data Platforms Architecture: Governance and Operations | [Link](./materials/data_platform.md) |
-| 7.   | Creating Data Products to Monetize Data             | [Link](./materials/data_product.md) |
-| 8.   | Revolutionizing Data and Machine Learning with DataOps and MLOps | [Link](./materials/dataops.md) |
+| 1.   | Charting Your Path in Data and Machine Learning     | <a href="./materials/de_ds.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 2.   | Navigating the Data Science Landscape               | <a href="./materials/ds_landscape.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 3.   | Database Types                                      | <a href="./materials/db_type.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 4.   | The Data Journey: From Raw to Refined               | <a href="./materials/data_journey.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 5.   | The Data to MLOps Journey: An End-to-End Process   | <a href="./materials/data_mlops.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 6.   | Data Platforms Architecture: Governance and Operations | <a href="./materials/data_platform.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a>|
+| 7.   | Creating Data Products to Monetize Data             | <a href="./materials/data_product.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 8.   | Revolutionizing Data and Machine Learning with DataOps and MLOps | <a href="./materials/dataops.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 
 ### 2. Case Study
 | No. | Content                                             | Link |
