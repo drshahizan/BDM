@@ -31,8 +31,8 @@ Google Sheets is a versatile and user-friendly tool for data analysis, enabling 
 
 | No | Case Study | Instruction | Dataset |
 |:----:|---------|:-------------:|:------:|
-| 1.  | Examination results | <a href="../images/Ass1%20BDMa.pdf" ><img src="../images/document.png" width="24px" height="24px"></a> | <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/GS/Dataset1.txt" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
-| 2.  | Sales performance | <a href="../images/Ass1%20BDMb.pdf" ><img src="../images/document.png" width="24px" height="24px"></a> | <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/GS/Dataset2.txt" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
+| 1.  | Examination results | <a href="../images/Ass1a.pdf" ><img src="../images/document.png" width="24px" height="24px"></a> | <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/GS/Dataset1.txt" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
+| 2.  | Sales performance | <a href="../images/Ass1b.pdf" ><img src="../images/document.png" width="24px" height="24px"></a> | <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/GS/Dataset2.txt" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
 
 
 ### 5. Submission Requirements
