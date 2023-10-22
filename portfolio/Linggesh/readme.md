@@ -1,8 +1,7 @@
 # LINGGESH TAMILMANI - COMPUTER SCIENCE
 
 <p align="center">
-  <img src="![photo_2023-10-22_22-24-34](https://github.com/drshahizan/BDM/assets/148041119/343b5347-8697-4ed8-88f5-232b328edf41)
-" alt="Profile Picture" width="30%" height="30%">
+  <img src="https://github.com/drshahizan/BDM/assets/148041119/343b5347-8697-4ed8-88f5-232b328edf41" alt="Profile Picture" width="30%" height="30%">
 </p>
 
 
