@@ -10,7 +10,7 @@
 # Database Types
 
 <p align="center">
-<img src="../images/data_journey.md"  height="800" />
+<img src="../images/data_journey.gif"  height="800" />
 </p>
 
 ## Contribution 🛠️
