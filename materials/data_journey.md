@@ -9,6 +9,9 @@
 
 # Database Types
 
+<p align="center">
+<img src="../images/data_journey.md"  height="800" />
+</p>
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
