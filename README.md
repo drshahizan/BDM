@@ -24,7 +24,7 @@ This course provides a basic fundamental of big data architecture and management
 | :-----: | ------ | ------ | :-----: | 
 | 1. | Task 1 | Portfolio Creation | <a href="./portfolio/readme.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
 | 2. | Task 2 | AWS Certification | <a href="./materials/aws.md" ><img src="./images/aws.svg" width="24px" height="24px" ></a> | 
-| 3. | Assignment 1 | AWS Certification | <a href="./materials/aws.md" ><img src="./images/aws.svg" width="24px" height="24px" ></a> | 
+| 3. | Assignment 1 | Data analysis using Google Sheets | <a href="./assignment/ass1.md" ><img src="./images/aws.svg" width="24px" height="24px" ></a> | 
 
 ## 🔥 Important things
 1. [Essential Preparations for a Successful Start in BDM Class](./materials/essentials.md)
