@@ -1,7 +1,8 @@
 # Ayaz Rahman Bhuiyan
 
 <p align="center">
-  <img src="[https://media.licdn.com/dms/image/D4D03AQHXU0e1-RIv5g/profile-displayphoto-shrink_400_400/0/1695093565456?e=1703116800&v=beta&t=geDpXSlOvE9oTf3rKu5zLZyouGVGSdIBYsspIehAw18](https://media.licdn.com/dms/image/C5603AQFo5mFaddTkEA/profile-displayphoto-shrink_400_400/0/1630832689490?e=1703721600&v=beta&t=x-bgG0uXnOGzlVNTiBNmWJQkVHvJvx2h9yzWtg6x2ZI)" alt="Your Profile Picture" style="width: 25%;">
+  <img src="https://media.licdn.com/dms/image/D4D03AQHXU0e1-RIv5g/profile-displayphoto-shrink_400_400/0/1695093565456?e=1703116800&v=beta&t=geDpXSlOvE9oTf3rKu5zLZyouGVGSdIBYsspIehAw18" alt="Your Profile Picture" style="width: 25%;">
+
 </p>
 
 👋 Hi there! I'm Ayaz Rahman Bhuiyan, a 25-year-old data enthusiast pursuing a Master of Data Science degree. Welcome to my GitHub portfolio, where I showcase my projects and contributions to the world of data science.
