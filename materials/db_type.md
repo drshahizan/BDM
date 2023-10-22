@@ -72,20 +72,23 @@ Databases are the backbone of our digital world, storing and organizing data for
 6. **Key-Value Databases**
     - *Use Case:* Suitable for storing data accessed by a unique key.
     - *Example:* A caching system relies on a key-value database to quickly retrieve frequently used data, like session information for web users.
-    - *SQL Syntax (Pseudo-SQL for illustration):*
-    
-    ```sql
-    INSERT INTO Cache (key, value) VALUES ('session123', 'user_data');
-    ```
+    - *SQL Syntax (Pseudo-SQL):*
+    Key-value databases typically have simple CRUD (Create, Read, Update, Delete) operations based on keys. For example:
+        ```sql
+        INSERT INTO Cache (key, value) VALUES ('session123', 'user_data');
+        ```
 
 7. **ORM Frameworks (Object-Relational Mapping)**
     - *Use Case:* These frameworks provide an abstraction layer between code and databases, simplifying database operations.
     - *Example:* A web application employs an ORM framework to interact with a relational database, allowing developers to work with Python or Java objects rather than writing raw SQL queries.
     - *Sample ORM Code (Django ORM as an example):*
-    
-    ```python
-    users = User.objects.all()
-    ```
+    ORM frameworks abstract SQL queries, so you interact with databases using your programming language (e.g., Python or Java) rather than writing SQL directly. For example, in Django's ORM (Python), you can retrieve all objects from a model like this:
+
+        ```python
+        users = User.objects.all()
+        ```
+
+> Please note that the SQL syntax can vary slightly depending on the specific database management system you're using (e.g., MySQL, PostgreSQL, MongoDB, Neo4j), so it's essential to consult the documentation of the database you're working with for precise syntax and features.
 
 Each database type has its strengths and is suited for specific use cases. The database landscape continues to evolve to meet the diverse needs of modern applications, making it essential to choose the right database type for a particular project.
 
