@@ -12,7 +12,7 @@
 Spotify, the renowned music streaming platform, has seamlessly integrated machine learning into its core operations, creating a highly personalized and enchanting music experience for its users. Through collaborative filtering, Spotify analyzes your music preferences and leverages user data to recommend new songs and playlists that align with your unique taste. Natural Language Processing (NLP) enables Spotify to delve into articles, social media conversations, and online content to better understand artist and song sentiment, thus fine-tuning its recommendations. The platform doesn't stop at its internal data; it taps into external sources to stay current with music charts and trends. Furthermore, Spotify's employment of audio models to categorize songs by genre, tempo, and mood ensures that recommendations resonate with your current vibe while also giving emerging artists their spotlight. Moreover, it leads a blockchain revolution to transform the music industry by ensuring equitable compensation for artists in the streaming age. In sum, Spotify's harmonious blend of machine learning and innovation results in an extraordinary and ever-evolving musical journey for its users. 🎶🤖📻
 
 <p align="center">
-<img src="../images/cs_spotify.gif"  height="800" />
+<img src="../images/spotify.gif"  height="800" />
 </p>
 
 Ever wondered how Instagram keeps you captivated and glued to your feed? Let's delve into the enchanting world of Instagram's machine learning. Here's the spellbinding process:
