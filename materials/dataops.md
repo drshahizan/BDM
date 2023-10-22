@@ -10,7 +10,7 @@
 # Comprehensive Data Platforms Architecture: Governance and Operations for Success!
 
 <p align="center">
-<img src="../images/data_platform.gif"  height="800" />
+<img src="../images/dataOps.gif"  height="800" />
 </p>
 
 
