@@ -19,7 +19,7 @@ This course provides a basic fundamental of big data architecture and management
 2. Design big data platform demonstrating the implementation of big data applications.
 3. Discuss current technology that support for sustainability of the big data platform ecosystem.
 
-## Submission
+## Assignment
 | No. | Activity | Topic | File |
 | :-----: | ------ | ------ | :-----: | 
 | 1. | Task 1 | Portfolio Creation | <a href="./portfolio/readme.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
