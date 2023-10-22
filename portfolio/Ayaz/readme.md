@@ -1,17 +1,18 @@
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/C5603AQFo5mFaddTkEA/profile-displayphoto-shrink_800_800/0/1630832689490?e=1703721600&v=beta&t=vYUS1xmYt38_Lk0Dk2Vo_sm_IYx8aXt3seSb1m7qgPs" alt="Profile Picture" style="width: 30%;">
-</p>
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/C5603AQFo5mFaddTkEA/profile-displayphoto-shrink_800_800/0/1630832689490?e=1703721600&v=beta&t=vYUS1xmYt38_Lk0Dk2Vo_sm_IYx8aXt3seSb1m7qgPs" alt="Profile Picture" width="30%">
+  <h1>Ayaz Rahman Bhuiyan</h1>
+</div>
 
 👋 Hi there! I'm Ayaz Rahman Bhuiyan, a 25-year-old data enthusiast pursuing a Master of Data Science degree. Welcome to my GitHub portfolio, where I showcase my projects and contributions to the world of data science.
 
-## About Me
+## 📋 About Me
 
 - 🔬 Currently studying for my Master of Data Science
 - 🌍 Passionate about exploring and analyzing data
 - 📊 Data visualization and machine learning enthusiast
 - 🌐 Open source contributor and GitHub enthusiast
 
-## Projects
+## 🚀 Projects
 
 Here are some of the projects I've worked on:
 
@@ -19,7 +20,7 @@ Here are some of the projects I've worked on:
 - [Project 2](insert_project2_url_here): Brief description of project 2.
 - [Project 3](insert_project3_url_here): Brief description of project 3.
 
-## Skills
+## 💼 Skills
 
 - Data Analysis
 - Machine Learning
@@ -28,7 +29,7 @@ Here are some of the projects I've worked on:
 - SQL
 - GitHub
 
-## Get in Touch
+## 📫 Get in Touch
 
 - LinkedIn: [Ayaz Rahman Bhuiyan](insert_linkedin_profile_url_here)
 - Email: [your.email@example.com](mailto:your.email@example.com)
