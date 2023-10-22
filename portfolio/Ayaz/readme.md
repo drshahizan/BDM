@@ -3,7 +3,7 @@
   <h1>Ayaz Rahman Bhuiyan</h1>
 </div>
 
-👋 Hi there! I'm Ayaz Rahman Bhuiyan, a 25-year-old data enthusiast pursuing a Master of Data Science degree. Welcome to my GitHub portfolio, where I showcase my projects and contributions to the world of data science.
+👋 Hi there! I'm Ayaz Rahman Bhuiyan, a 25-year-old data enthusiast pursuing a Master of Data Science degree at Universiti Teknologi Malaysia. Welcome to my GitHub portfolio, where I showcase my projects and contributions to the world of data science.
 
 ## 📋 About Me
 
@@ -16,7 +16,7 @@
 
 Here are some of the projects I've worked on:
 
-- [Project 1](insert_project1_url_here): Brief description of project 1.
+- [Easy Tuition](https://bitbucket.org/ayazrahman17/workspace/projects/EAS): Brief description of project 1.
 - [Project 2](insert_project2_url_here): Brief description of project 2.
 - [Project 3](insert_project3_url_here): Brief description of project 3.
 
