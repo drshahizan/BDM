@@ -17,10 +17,10 @@
 | Student 3              |      |
 | Student 4              |      |
 
-### 📂Folder content:
+### 📂 Folder content:
 * [📖 Report 1a](./case_study1a/readme.md)
 * [💻 Google Sheets 1a]()
-* [📖 Report 1b]()
+* [📖 Report 1b](./case_study1b/readme.md)
 * [💻 Google Sheets 1b]()
 
 ## Contribution 🛠️
