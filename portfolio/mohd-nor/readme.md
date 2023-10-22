@@ -22,7 +22,7 @@
 
 ## About Me
 
-Dealing with a massive accounting and financial data for 17th years make me realizes the importance of Data Science. Currently pursuing a Master's degree in Data Science, I believe the cross-functional skill set and expertise are required in order to become a Data Scientist. 
+Dealing with massive accounting and financial data for the 17th years make me realize the importance of Data Science. Currently pursuing a Master's degree in Data Science, I believe the cross-functional skill set and expertise are required in order to become a Data Scientist. 
 
 ## Education
 - **Master's Degree (Ongoing):** Data Science - Universiti Teknologi Malaysia (UTM)
@@ -35,7 +35,7 @@ Dealing with a massive accounting and financial data for 17th years make me real
 
 ## Working Background
 
-Engaged for almost 17th years in the field of accounting, finance and auditing in various department and government agencies, Audit Common Language (ACL) has been used to process and analyze the sampling of payroll and payment data to detect and prevent fraud and error occurred.  Needed technical expertise and too costly for ACL, looking forward for seeking additional data analytics tools and solutions like Phyton that could help identify and prevent fraud and error occurred from data sampling.
+Engaged for almost 17 years in the field of accounting, finance, and auditing in various departments and government agencies, Audit Common Language (ACL) has been used to process and analyze the sampling of payroll and payment data to detect and prevent fraud and error. Needed technical expertise and too costly for ACL, looking forward to seeking additional data analytics tools and solutions like Phyton that could help identify and prevent fraud and error from data sampling.
 
 ## Contact Me
 
