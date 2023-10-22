@@ -3,7 +3,7 @@
 </p>
 
 # Zuhayr Arif
-### Data Science Enthusiast | Universiti Teknologi Malaysia | [LinkedIn](https://www.linkedin.com/in/zuhayraz/) | [zarif4@graduate.utm.my](mailto:zarif4@graduate.utm.my)
+### Data Science Enthusiast | Universiti Teknologi Malaysia | [LinkedIn](https://www.linkedin.com/in/zuhayraz/) | [Email](mailto:zarif4@graduate.utm.my)
 
 👋 Hello there! I'm Zuhayr Arif, a passionate data science student at Universiti Teknologi Malaysia, where I'm on a journey to explore the vast world of data and turn it into actionable insights. I believe in the power of data to drive informed decision-making and innovation.
 
