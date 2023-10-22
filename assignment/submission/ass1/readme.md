@@ -7,21 +7,6 @@
 
 # Assignment 1: Data analysis using Google Sheets
 
-### Group Name: XXX
-### Group Members
-
-| Name                                     | Matrix Number |
-| ---------------------------------------- | ------------- |
-| Student 1              |      |
-| Student 2              |      |
-| Student 3              |      |
-| Student 4              |      |
-
-### 📂Folder content:
-* [📖 Report 1a]()
-* [💻 Google Sheets 1a]()
-* [📖 Report 1a]()
-* [💻 Google Sheets 1a]()
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
