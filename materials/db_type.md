@@ -13,7 +13,7 @@
 Databases are the backbone of our digital world. They store and organise data in a way that makes it easy for us to access and use.
 
 <p align="center">
-<img src="../images/Db.gif"  height="400" />
+<img src="../images/Db.gif"  height="600" />
 </p>
 
 There are many different types of databases, each with its own strengths and weaknesses.
