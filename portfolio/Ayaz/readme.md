@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/C5603AQFo5mFaddTkEA/profile-displayphoto-shrink_800_800/0/1630832689490?e=1703721600&v=beta&t=vYUS1xmYt38_Lk0Dk2Vo_sm_IYx8aXt3seSb1m7qgPs" alt="Profile Picture" style="width: 30;">
+  <img src="https://media.licdn.com/dms/image/C5603AQFo5mFaddTkEA/profile-displayphoto-shrink_800_800/0/1630832689490?e=1703721600&v=beta&t=vYUS1xmYt38_Lk0Dk2Vo_sm_IYx8aXt3seSb1m7qgPs" alt="Profile Picture" style="width: 30%;">
 </p>
 
 👋 Hi there! I'm Ayaz Rahman Bhuiyan, a 25-year-old data enthusiast pursuing a Master of Data Science degree. Welcome to my GitHub portfolio, where I showcase my projects and contributions to the world of data science.
