@@ -12,7 +12,7 @@
 The data science landscape refers to the broad and evolving field of data science, which encompasses various aspects related to the collection, processing, analysis, and interpretation of data. This landscape includes the methodologies, techniques, tools, and technologies employed by data scientists to extract meaningful insights, patterns, and knowledge from data. Data science is a multidisciplinary field that integrates elements of computer science, statistics, mathematics, domain expertise, and data engineering. It is a dynamic landscape characterized by continuous innovation, with emerging trends, challenges, and opportunities in areas like machine learning, deep learning, big data, and artificial intelligence. Data scientists navigate this landscape to leverage data for informed decision-making, problem-solving, and predictive analytics across diverse industries and domains.
 
 <p align="center">
-<img src="../images/ds_landscape.gif"  height="800" />
+<img src="../images/ds_landscape.gif"  height="900" />
 </p>
 
 Data science is a dynamic and multifaceted field that plays a pivotal role in transforming raw data into valuable insights. Let's delve deeper into the key areas of expertise within the data science landscape:
