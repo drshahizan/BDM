@@ -8,12 +8,12 @@
 🌟 Hit star button to save this repo in your profile
 
 
-# Different types of Databases?
+# Databases Types
 
 Databases are the backbone of our digital world. They store and organise data in a way that makes it easy for us to access and use.
 
 <p align="center">
-<img src="../images/Db.gif"  height="600" />
+<img src="../images/Db.gif"  height="800" />
 </p>
 
 There are many different types of databases, each with its own strengths and weaknesses.
