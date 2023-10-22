@@ -30,6 +30,19 @@ This course provides a basic fundamental of big data architecture and management
 2. [Student Information](student.md)
 3. [Course Information](./images/L1_BigDataManagement.pdf)
 
+| No. | Content                                             | Link |
+|---- |----------------------------------------------------|------|
+| 1   | Charting Your Path in Data and Machine Learning     | [Link](../materials/de_ds.md) |
+| 2   | Navigating the Data Science Landscape               | [Link](../materials/ds_landscape.md) |
+| 3   | Database Types                                      | [Link](../materials/db_type.md) |
+| 4   | The Data Journey: From Raw to Refined               | [Link](../materials/data_journey.md) |
+| 5   | The Data to MLOps Journey: An End-to-End Process   | [Link](../materials/data_mlops.md) |
+| 6   | Data Platforms Architecture: Governance and Operations | [Link](../materials/data_platform.md) |
+| 7   | Creating Data Products to Monetize Data             | [Link](../materials/data_product.md) |
+| 8   | Revolutionizing Data and Machine Learning with DataOps and MLOps | [Link](../materials/dataops.md) |
+| 9   | Case study: Unveiling Instagram's Engagement Magic through Machine Learning | [Link](../materials/cs_insta.md) |
+| 10  | Case study: 🎶 Unlocking Spotify's Musical Enchantment with Machine Learning | [Link](../materials/cs_spotify.md) |
+
 | **No.** | **Section**                                     | **Content**                                              |
 |--------:|---------------------------------------------|--------------------------------------------------------|
 |   **0**  | [**Data**](./materials/1intro_bdm.md)                            | A. What is Big Data?<br> B. The Importance of Managing Big Data<br> C. Why Big Data Management is Important?<br> D. The History of Big Data |
