@@ -15,9 +15,9 @@
 - 🧩 Enthusiastic problem solver with a knack for breaking down complex issues into manageable tasks.
 
 ## Education
-- MSc (Data Science) - Universiti Teknologi Malaysia, Johor(Oct 2023 - Present)
-- BEng (Hons) Civil Engineering - Universiti Teknologi Malaysia, Johor (Sep 2019 - Aug 2022)
-- Diploma in Civil Engineering - Universiti Teknologi Malaysia, Kuala Lumpur (JuL 2016 - Apr 2019)
+- MSc (Data Science) - Universiti Teknologi Malaysia, Johor (Oct 2023 - Present)
+- BEng (Hons) Civil Engineering - Universiti Teknologi Malaysia, Johor (2019 - 2022)
+- Diploma in Civil Engineering - Universiti Teknologi Malaysia, Kuala Lumpur (2016 - 2019)
 
 ## Certificates
 - Microsoft Certified: Power BI Data Analyst Associate
