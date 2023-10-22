@@ -5,23 +5,10 @@
 <a href="https://github.com/drshahizan/BDM/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/BDM?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Assignment 1a: 
+# Assignment 1a: Examination results
 
 ### Group Name: XXX
-### Group Members
 
-| Name                                     | Matrix Number |
-| ---------------------------------------- | ------------- |
-| Student 1              |      |
-| Student 2              |      |
-| Student 3              |      |
-| Student 4              |      |
-
-### 📂Folder content:
-* [📖 Report 1a]()
-* [💻 Google Sheets 1a]()
-* [📖 Report 1b]()
-* [💻 Google Sheets 1b]()
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
