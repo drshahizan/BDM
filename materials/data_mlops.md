@@ -10,7 +10,7 @@
 # The Data to MLOps Journey: An End-to-End Process 🔬
 
 <p align="center">
-<img src="../images/dataOps.gif"  height="800" />
+<img src="../images/mlops.jpeg"  height="800" />
 </p>
 
 The journey from data to MLOps is a multifaceted process that underpins the development, deployment, and management of machine learning models. Each step in this intricate journey contributes to the robustness and success of your machine learning operations. Let's explore the process in detail:
