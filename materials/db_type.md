@@ -1,4 +1,4 @@
-Want to know about different types of Databases?
+# Different types of Databases?
 
 Databases are the backbone of our digital world. They store and organise data in a way that makes it easy for us to access and use.
 
