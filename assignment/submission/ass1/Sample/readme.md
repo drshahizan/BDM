@@ -18,7 +18,7 @@
 | Student 4              |      |
 
 ### 📂Folder content:
-* [📖 Report 1a]()
+* [📖 Report 1a](./case_study1a/readme.md)
 * [💻 Google Sheets 1a]()
 * [📖 Report 1b]()
 * [💻 Google Sheets 1b]()
