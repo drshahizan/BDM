@@ -41,7 +41,7 @@ This course provides a basic fundamental of big data architecture and management
 | 7   | Creating Data Products to Monetize Data             | [Link](../materials/data_product.md) |
 | 8   | Revolutionizing Data and Machine Learning with DataOps and MLOps | [Link](../materials/dataops.md) |
 | 9   | Case study: Unveiling Instagram's Engagement Magic through Machine Learning | [Link](../materials/cs_insta.md) |
-| 10  | Case study: 🎶 Unlocking Spotify's Musical Enchantment with Machine Learning | [Link](../materials/cs_spotify.md) |
+| 10  | Case study: Unlocking Spotify's Musical Enchantment with Machine Learning | [Link](../materials/cs_spotify.md) |
 
 | **No.** | **Section**                                     | **Content**                                              |
 |--------:|---------------------------------------------|--------------------------------------------------------|
