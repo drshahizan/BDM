@@ -12,7 +12,7 @@
 Databases are the backbone of our digital world, storing and organizing data for easy access and utilization. There are several types of databases, each with unique strengths and weaknesses. Here's an overview of some common database types along with sample SQL syntax for each:
 
 <p align="center">
-<img src="../images/Db.gif"  height="800" />
+<img src="../images/data_products.gif"  height="800" />
 </p>
 
 
