@@ -30,6 +30,10 @@ This course provides a basic fundamental of big data architecture and management
 2. [Student Information](student.md)
 3. [Course Information](./images/L1_BigDataManagement.pdf)
 
+## Notes
+
+### 1. Data
+
 | No. | Content                                             | Link |
 |---- |----------------------------------------------------|------|
 | 1   | Charting Your Path in Data and Machine Learning     | [Link](../materials/de_ds.md) |
@@ -42,6 +46,8 @@ This course provides a basic fundamental of big data architecture and management
 | 8   | Revolutionizing Data and Machine Learning with DataOps and MLOps | [Link](../materials/dataops.md) |
 | 9   | Case study: Unveiling Instagram's Engagement Magic through Machine Learning | [Link](../materials/cs_insta.md) |
 | 10  | Case study: Unlocking Spotify's Musical Enchantment with Machine Learning | [Link](../materials/cs_spotify.md) |
+
+### 2. Big Data Management
 
 | **No.** | **Section**                                     | **Content**                                              |
 |--------:|---------------------------------------------|--------------------------------------------------------|
