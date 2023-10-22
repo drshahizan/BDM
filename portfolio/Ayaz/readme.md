@@ -17,10 +17,10 @@
 Here are some of the projects I've worked on:
 
 - [Easy Tuition](https://bitbucket.org/ayazrahman17/workspace/projects/EAS):
-- **Brief Description:** Easy Tuition is an online based platform where students are able to hire their preferred tutors and will be able to study online. This mobile application will make sure that each skilful tutor is connected to willing learners free of charge to benefit Malaysia’s academic community.
+Easy Tuition is an online based platform where students are able to hire their preferred tutors and will be able to study online. This mobile application will make sure that each skilful tutor is connected to willing learners free of charge to benefit Malaysia’s academic community.
 
 - [Money Manager](https://bitbucket.org/ayazrahman17/workspace/projects/MON):
-- **Brief Description:** Money Manager is a mobile app that helps you create smart budgets for every day and every occasion. Its simple interface allows you to track your everyday spending (from food, coffee, drinks as well as weekend indulgences) and plan for every occasion.
+Money Manager is a mobile app that helps you create smart budgets for every day and every occasion. Its simple interface allows you to track your everyday spending (from food, coffee, drinks as well as weekend indulgences) and plan for every occasion.
 
 ## 💼 Skills
 
