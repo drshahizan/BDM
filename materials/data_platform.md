@@ -7,7 +7,7 @@
 
 🌟 Hit star button to save this repo in your profile
 
-# Comprehensive Data Platforms Architecture: Governance and Operations for Success!
+# Data Platforms Architecture: Governance and Operations
 
 <p align="center">
 <img src="../images/data_platform.gif"  height="800" />
