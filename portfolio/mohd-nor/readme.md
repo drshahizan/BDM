@@ -7,7 +7,7 @@
 
 <h1 align="center"> Hi!👋 I'm Mohd Nor bin Mohidin  </h1>
 
-<h3 align="center"> Chartered Accountant who are intrested in Data Science </h3>
+<h3 align="center"> A Chartered Accountant who are intrested in Data Science </h3>
 
 
 <div align="center">
@@ -25,17 +25,17 @@
 Dealing with a massive accounting and financial data for 17th years make me realizes the importance of Data Science. Currently pursuing a Master's degree in Data Science, I believe the cross-functional skill set and expertise are required in order to become a Data Scientist. 
 
 ## Education
-- **Master's Degree (Ongoing):** Data Science
-  - **Institution:** Universiti Teknologi Malaysia (UTM)
+- **Master's Degree (Ongoing):** Data Science - Universiti Teknologi Malaysia (UTM)
 
-- **Professional Qualification :** Management Accounting
-  - **Institution:** Chartered Institute of Management Accounting (CIMA)
+- **Professional Qualification :** Management Accounting - Chartered Institute of Management Accounting (CIMA)
 
-- **Professional Qualification :** International Public Sector Accounting Standard (IPSAS)
-  - **Institution:** The Chartered Institute of Public Finance & Accountancy (CIPFA)
+- **Professional Qualification :** International Public Sector Accounting Standard (IPSAS) - The Chartered Institute of Public Finance & Accountancy (CIPFA)
     
-- **Bachelor's Degree:** Accountancy
-  - **Institution:** University Utara Malaysia (UUM)
+- **Bachelor's Degree:** Accountancy - University Utara Malaysia (UUM)
+
+## Working Background
+
+Engaged for almost 17th years in the field of accounting, finance and auditing in various department and government agencies, Audit Common Language (ACL) has been used to process and analyze the sampling of payroll and payment data to detect and prevent fraud and error occurred.  Needed technical expertise and too costly for ACL, looking forward for seeking additional data analytics tools and solutions like Phyton that could help identify and prevent fraud and error occurred from data sampling.
 
 ## Contact Me
 
