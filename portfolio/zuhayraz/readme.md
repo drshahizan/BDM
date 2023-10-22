@@ -1,24 +1,30 @@
-<a href="./portfolio/zuhayraz"><img src="./2.jpg" width="24px" height="24px"></a>
+<p align = "center">
+  <img src="./2.jpg" alt="Zuhayr Arif" width="30%" height="30%">
+</p>
 
 # Zuhayr Arif
-### Data Science Enthusiast | Universiti Teknologi Malaysia
+### Data Science Enthusiast | Universiti Teknologi Malaysia | [LinkedIn](https://www.linkedin.com/in/zuhayraz/) | [zarif4@graduate.utm.my](mailto:zarif4@graduate.utm.my)
 
 👋 Hello there! I'm Zuhayr Arif, a passionate data science student at Universiti Teknologi Malaysia, where I'm on a journey to explore the vast world of data and turn it into actionable insights. I believe in the power of data to drive informed decision-making and innovation.
 
 ## About Me
 - 🔬 Aspiring Data Scientist with a strong interest and passion in data analysis, machine learning, and statistical modeling.
-- 🌱 Currently pursuing a degree in Data Science at Universiti Teknologi Malaysia.
+- 🌱 Currently pursuing a masters degree in Data Science at Universiti Teknologi Malaysia.
 - 📊 New but has exposed in handling diverse datasets, cleaning and transforming data.
 - 💻 Proficient-to-be in programming languages such as Python and R.
 - 🧩 Enthusiastic problem solver with a knack for breaking down complex issues into manageable tasks.
 
-## Connect with Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/zuhayraz/) - Let's connect and discuss all things data!
-- 📧 Email: [zarif4@graduate.utm.my](mailto:zarif4@graduate.utm.my)
+## Education
+- MSc (Data Science) - Universiti Teknologi Malaysia, Johor(Oct 2023 - Present)
+- BEng (Hons) Civil Engineering - Universiti Teknologi Malaysia, Johor (Sep 2019 - Aug 2022)
+- Diploma in Civil Engineering - Universiti Teknologi Malaysia, Kuala Lumpur (JuL 2016 - Apr 2019)
+
+## Certificates
+- Microsoft Certified: Power BI Data Analyst Associate
 
 ## Skills
 - **Languages:** Python, R
-- **Software: Microsoft Excel, Microsoft PowerBI, Tableau
+- **Data Analytics Software:** Microsoft Excel, Microsoft PowerBI, Tableau
 - **Version Control:** Git, GitHub
 
 ## Interests
