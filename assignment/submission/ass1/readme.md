@@ -5,40 +5,36 @@
 <a href="https://github.com/drshahizan/BDM/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/BDM?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
+# Assignment 1: Data analysis using Google Sheets
 
-# Special Topic Data Engineering (SECP3843)
+<h3><p align='center'>Group Members</p></h3>
 
-## Alternative Assessment
-
-<p align="center">
-  <img height="200px" src="materials/profile.png" />
-</p>
-
-<table align="center">
-  <tr>
-    <th>Name</th>
-    <th>Matric No.</th>
-  </tr>
-  <tr>
-    <td>your name</td>
-    <td>matric no</td>
-  </tr>
-
+ <table align='center'>
+   <tr>
+     <th>Name</th>
+     <th>Matrix Number</th>
+   </tr>
+   <tr>
+     <td>AFIF HAZMIE ARSYAD BIN AGUS</td>
+     <td>A20EC0176</td>
+   </tr>
+   <tr>
+     <td>AHMAD AIMAN HAFIZI BIN MUHAMMAD</td>
+     <td>A20EC0177</td>
+   </tr>
+   <tr>
+     <td>LUQMAN ARIFF BIN NOOR AZHAR</td>
+     <td>A20EC0202</td>
+   </tr>
+   <tr>
+     <td>MADINA SURAYA BINTI ZHARIN</td>
+     <td>A20EC0203</td>
+   </tr>
+   <tr>
+     <td>MUHAMMAD IMRAN HAKIMI BIN MOHD SHUKRI</td>
+     <td>A20EC0213</td>
+   </tr>
 </table>
-<br>
-
-## Dataset:
-
-## Submission
-
-| No | Answer | File |
-| :-----: | ----- | :------: |
-| 1 | Question 1 | <a href="./question1/question1.md"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-| 2 | Question 2 | <a href="./question2/question2.md"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-| 3 | Question 3 | <a href="./question3/question3.md"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-| 4 | Question 4 | <a href="./question4/question4.md"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-| 5 | Question 5 | <a href="./question5/question5.md"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-
 
 
 
