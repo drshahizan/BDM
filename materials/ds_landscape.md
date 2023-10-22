@@ -12,7 +12,7 @@
 Are you embarking on a journey into the exciting world of Data and Machine Learning (ML)? It's essential to understand where you fit in and what skills to acquire. Here's an in-depth guide to critical roles and their associated responsibilities in this dynamic domain:
 
 <p align="center">
-<img src="../images/de_ds.gif"  height="800" />
+<img src="../images/ds_landscape.gif"  height="800" />
 </p>
 
 ## 🔘 **Data Engineer: Ideal for Data Enthusiasts** 
