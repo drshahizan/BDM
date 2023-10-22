@@ -34,7 +34,7 @@ This course provides a basic fundamental of big data architecture and management
 
 ### 1. Data
 
-| No. | Content                                             | Link |
+| No. | Content                                             | File |
 |----: |----------------------------------------------------|------|
 | 1.   | Charting Your Path in Data and Machine Learning     | <a href="./materials/de_ds.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 | 2.   | Navigating the Data Science Landscape               | <a href="./materials/ds_landscape.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
@@ -46,10 +46,10 @@ This course provides a basic fundamental of big data architecture and management
 | 8.   | Revolutionizing Data and Machine Learning with DataOps and MLOps | <a href="./materials/dataops.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 
 ### 2. Case Study
-| No. | Content                                             | Link |
+| No. | Content                                             | File |
 |----: |----------------------------------------------------|------|
-| 1.  | Unveiling Instagram's Engagement Magic through Machine Learning | [Link](./materials/cs_insta.md) |
-| 2.  | Unlocking Spotify's Musical Enchantment with Machine Learning | [Link](./materials/cs_spotify.md) |
+| 1.  | Unveiling Instagram's Engagement Magic through Machine Learning | <a href="./materials/cs_insta.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 2.  | Unlocking Spotify's Musical Enchantment with Machine Learning | <a href="./materials/cs_spotify.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 
 
 ### 3. Big Data Management
