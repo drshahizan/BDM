@@ -36,7 +36,7 @@ This course provides a basic fundamental of big data architecture and management
 
 | No. | Content                                             | Link |
 |---- |----------------------------------------------------|------|
-| 1   | Charting Your Path in Data and Machine Learning     | [Link](../materials/de_ds.md) |
+| 1   | Charting Your Path in Data and Machine Learning     | [Link](./materials/de_ds.md) |
 | 2   | Navigating the Data Science Landscape               | [Link](../materials/ds_landscape.md) |
 | 3   | Database Types                                      | [Link](../materials/db_type.md) |
 | 4   | The Data Journey: From Raw to Refined               | [Link](../materials/data_journey.md) |
