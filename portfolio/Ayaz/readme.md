@@ -1,7 +1,7 @@
 # Ayaz Rahman Bhuiyan
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D03AQHXU0e1-RIv5g/profile-displayphoto-shrink_400_400/0/1695093565456?e=1703116800&v=beta&t=geDpXSlOvE9oTf3rKu5zLZyouGVGSdIBYsspIehAw18" alt="Your Profile Picture" style="width: 25%;">
+  <img src="https://media.licdn.com/dms/image/C5603AQFo5mFaddTkEA/profile-displayphoto-shrink_800_800/0/1630832689490?e=1703721600&v=beta&t=vYUS1xmYt38_Lk0Dk2Vo_sm_IYx8aXt3seSb1m7qgPs" alt="Profile Picture" style="width: 25%;">
 
 </p>
 
