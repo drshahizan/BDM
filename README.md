@@ -48,8 +48,8 @@ This course provides a basic fundamental of big data architecture and management
 ### 2. Case Study
 | No. | Content                                             | Link |
 |----: |----------------------------------------------------|------|
-| 1.  | Case study: Unveiling Instagram's Engagement Magic through Machine Learning | [Link](./materials/cs_insta.md) |
-| 2.  | Case study: Unlocking Spotify's Musical Enchantment with Machine Learning | [Link](./materials/cs_spotify.md) |
+| 1.  | Unveiling Instagram's Engagement Magic through Machine Learning | [Link](./materials/cs_insta.md) |
+| 2.  | Unlocking Spotify's Musical Enchantment with Machine Learning | [Link](./materials/cs_spotify.md) |
 
 
 ### 3. Big Data Management
