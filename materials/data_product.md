@@ -61,6 +61,9 @@ The ultimate value of data products is unlocked when stakeholders, including dec
 
 Creating data products is a strategic imperative in the age of data, offering organizations the means to capitalize on their data assets, achieve business goals, and maintain a competitive edge in their respective industries. 🌐📊🚀
 
+<p align="center">
+<img src="../images/data_products1.gif"  height="800" />
+</p>
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
