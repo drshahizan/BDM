@@ -64,10 +64,3 @@ Languages<br>
 Feel free to connect with me on professional platforms:<br><br>
  <a href="https://www.linkedin.com/in/nur-shahirah-binti-jailani-109548249/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
 <a href="nshahirah657@gmail.com"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<br>
-
-Additional info😆: my favourite song <br>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jfygtl4jxbk46szegux5yokmai&cover_image=true&theme=novatorem&show_offline=false&background_color=181617&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-<!--
-**Shahirah00/Shahirah00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
