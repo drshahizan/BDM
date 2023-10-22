@@ -59,7 +59,7 @@ assignment/your_group/
 
 | No | Group |  File |
 | -----: |  ------ | :-----: | 
-| 1. | Sample  |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 1. | Sample  |  <a href="submission/ass1/Sample/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
 | 2. |   |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
 | 3. |   |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
 
