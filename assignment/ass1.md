@@ -42,7 +42,7 @@ These detailed instructions are provided to ensure that the assignment is comple
 
 ## File and Folder Structure 
 
-1. You must place your file in the submission folder. Within the [`submission/ass1/`](./submission/ass1/) folder, create a folder called your group. Name the default file as `readme.md`. You can refer to the [template here](./submission/ass1/Sample/readme.md). Suggested folder structure for this project:
+1. You must place your file in the submission folder. Within the [`submission/ass1/`](./submission/ass1/) folder, create a folder called your group. Name the default file as `readme.md`. You can refer to the [documentation template here](./submission/ass1/Sample/readme.md). Suggested folder structure for this project:
 
 ```html
 assignment/your_group/
