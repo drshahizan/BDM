@@ -20,8 +20,8 @@
 ### 📂Folder content:
 * [📖 Report 1a]()
 * [💻 Google Sheets 1a]()
-* [📖 Report 1a]()
-* [💻 Google Sheets 1a]()
+* [📖 Report 1b]()
+* [💻 Google Sheets 1b]()
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
