@@ -15,7 +15,6 @@
 | Mohammed Raza              |MCS231004      |      |
 | Ayaz Rahman Bhuiyan         |MCS232001      |      |
 | Musab Ibne Ahmad              |MCS231017      |      |
-| Student 4              |      |      |
 
 ### 📂 Folder content:
 * [📖 Report 1a](./case_study1a/readme.md)
