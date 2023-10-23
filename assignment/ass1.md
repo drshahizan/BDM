@@ -17,7 +17,7 @@ Google Sheets is a versatile and user-friendly tool for data analysis, enabling 
 
 ## 📚 Project Description
 
-### 1. Assignment Objective
+### 1. Introduction
 📊 Begin by thoroughly reading the provided case study and the following instructions to gain a clear understanding of the task at hand. The primary objective of this assignment is to process and visualize data using Google Sheets. You will work on two distinct case studies: one involving exam results and the other concerning sales performance.
 
 | No | Case Study | Instruction | Dataset |
