@@ -7,13 +7,13 @@
 
 # Assignment 1: Data analysis using Google Sheets
 
-### Group Name: Sample
+### Group Name: RAM
 ### Group Members
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| Student 1              |      |      |
-| Student 2              |      |      |
+| Mohammed Raza              |MCS231004      |      |
+| Ayaz Rahman Bhuiyan         |MCS232001      |      |
 | Student 3              |      |      |
 | Student 4              |      |      |
 

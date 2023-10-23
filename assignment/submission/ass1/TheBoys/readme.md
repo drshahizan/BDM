@@ -1,4 +1,3 @@
-
 <a href="https://github.com/drshahizan/BDM/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/BDM" alt="Stars Badge"/></a>
 <a href="https://github.com/drshahizan/BDM/network/members"><img src="https://img.shields.io/github/forks/drshahizan/BDM" alt="Forks Badge"/></a>
 <a href="https://github.com/drshahizan/BDM/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/BDM" alt="Pull Requests Badge"/></a>
@@ -13,10 +12,10 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| Hazem fenneer              |MCS231019||
-| Shivanesh            |MCS231014       |     |
-| Mustafa              |Mcs212012      |      |
-| Nur Shahirah             |MEC233005      |      |
+| Student 1              |      |      |
+| Student 2              |      |      |
+| Student 3              |      |      |
+| Student 4              |      |      |
 
 ### 📂 Folder content:
 * [📖 Report 1a](./case_study1a/readme.md)
