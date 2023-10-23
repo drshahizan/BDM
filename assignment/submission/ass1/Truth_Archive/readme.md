@@ -21,7 +21,7 @@
 ### 📂 Folder content:
 * [📖 Report 1a](https://docs.google.com/document/d/1Z3e72RZDfcwJXZk6iib35TzDJAtl-J2wNGObcCKcCrU/edit?usp=sharing)
 * [💻 Google Sheets 1a](https://docs.google.com/spreadsheets/d/1jeXgEOjzDMeVHrWhFVNAsm2rlQi8FLJ20hlXPJg8nig/edit#gid=2053662769)
-* [📖 Report 1b](./case_study1b/readme.md)
+* [📖 Report 1b](https://docs.google.com/document/d/1seKiSdLUMdHmbS8jiFdkgNxTgOvJ3YzganuGw58SALc/edit?usp=sharing)
 * [💻 Google Sheets 1b](https://docs.google.com/spreadsheets/d/1dfkznYonNGCmJ_2o13RpF-xrlkYv3CMUmPUmKFjGkmg/edit#gid=2028240261)
 
 ## Contribution 🛠️
