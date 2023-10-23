@@ -37,7 +37,7 @@ Google Sheets is a versatile and user-friendly tool for data analysis, enabling 
 | 4. |  Avengers |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
 | 5. |  Ayam Rendang |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
 | 6. | KicapSambal | <a href="submission/ass1/KicapSambal/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a>
-| 7. | Theboys | <a href="submission/ass1/KicapSambal/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a>
+| 7. | Theboys | <a href="submission/ass1/TheBoys/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a>
 
 
 ### 3. Academic Integrity
