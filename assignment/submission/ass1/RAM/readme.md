@@ -13,7 +13,7 @@
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
 | Mohammed Raza              |MCS231004      |      |
-| Ayaz Rahman Bhuiyan         |MCS232001      |      |
+| Ayaz Rahman Bhuiyan         |MCS231023      |      |
 | Musab Ibne Ahmad              |MCS231017      |      |
 
 ### 📂 Folder content:
