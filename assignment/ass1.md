@@ -44,7 +44,7 @@ The deadline for submission is **October 26, 2023, at 3:30 PM**. Late submission
 
 ## File and Folder Structure 
 
-1. You must place your file in the submission folder. Within the [`submission/ass1/`](./submission/ass1/) folder, create a folder called your group. Name the default file as `readme.md`. You can refer to the [documentation template here](./submission/ass1/Sample/readme.md). Suggested folder structure for this project:
+You must place your file in the submission folder. Within the [`submission/ass1/`](./submission/ass1/) folder, create a folder called your group. Name the default file as `readme.md`. You can refer to the [documentation template here](./submission/ass1/Sample/readme.md). Suggested folder structure for this project:
 
 ```html
 assignment/your_group/
