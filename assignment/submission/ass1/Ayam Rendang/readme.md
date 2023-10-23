@@ -12,7 +12,7 @@
 
 ### 📂 Folder content:
 * [📖 Report 1a](./case_study1a/readme.md)
-* [💻 Google Sheets 1a](https://docs.google.com/spreadsheets/d/1KebVv66_yxjBD6DzYPrvzNDP5ofyv89UX2rFmtNa1js/edit#gid=1557375750)
+* [💻 Google Sheets 1a]()
 * [📖 Report 1b](./case_study1b/readme.md)
 * [💻 Google Sheets 1b]()
 
