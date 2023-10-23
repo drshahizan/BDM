@@ -40,13 +40,14 @@ This course provides a basic fundamental of big data architecture and management
 | 1.   | Charting Your Path in Data and Machine Learning     | <a href="./materials/de_ds.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 | 2.   | Navigating the Data Science Landscape               | <a href="./materials/ds_landscape.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 | 3.   | Database Types                                      | <a href="./materials/db_type.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
-| 4.   | Data Management              | <a href="./materials/data_mng.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
-| 5.   | The Data Journey: From Raw to Refined               | <a href="./materials/data_journey.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
-| 6.   | The Data to MLOps Journey: An End-to-End Process   | <a href="./materials/data_mlops.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
-| 7.   | Data Platforms Architecture: Governance and Operations | <a href="./materials/data_platform.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a>|
-| 8.   | Creating Data Products to Monetize Data             | <a href="./materials/data_product.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
-| 9.   | Revolutionizing Data and Machine Learning with DataOps and MLOps | <a href="./materials/dataops.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
-| 10.   | Data Science for Beginners - A Curriculum | <a href="https://github.com/microsoft/Data-Science-For-Beginners/tree/main" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 4.   | Navigating the Database Landscape | <a href="./materials/choose_db.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 5.   | Data Management              | <a href="./materials/data_mng.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 6.   | The Data Journey: From Raw to Refined               | <a href="./materials/data_journey.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 7.   | The Data to MLOps Journey: An End-to-End Process   | <a href="./materials/data_mlops.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 8.   | Data Platforms Architecture: Governance and Operations | <a href="./materials/data_platform.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a>|
+| 9.   | Creating Data Products to Monetize Data             | <a href="./materials/data_product.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 10.   | Revolutionizing Data and Machine Learning with DataOps and MLOps | <a href="./materials/dataops.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 11.   | Data Science for Beginners - A Curriculum | <a href="https://github.com/microsoft/Data-Science-For-Beginners/tree/main" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 
 ### 2. Case Study
 | No. | Content                                             | File |
