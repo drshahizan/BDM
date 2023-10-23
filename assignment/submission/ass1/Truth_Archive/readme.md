@@ -13,7 +13,7 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| Student 1              |Hazem fenneer|MCS231019|
+| Hazem fenneer              |MCS231019||
 | Shivanesh            |MCS231014       |     |
 | Student 3              |      |      |
 | Student 4              |      |      |
