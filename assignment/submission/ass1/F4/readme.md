@@ -7,15 +7,16 @@
 
 # Assignment 1: Data analysis using Google Sheets
 
-### Group Name: Sample
+### Group Name: F4
 ### Group Members
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| Student 1              |      |      |
-| Student 2              |      |      |
-| Student 3              |      |      |
-| Student 4              |      |      |
+| Student 1              |LYE KAH HOOI
+      |      |
+| Student 2              |LEE SEOW MING THERESA      |      |
+| Student 3              THONG YEE MOON|      |      |
+| Student 4              |SITI NORAFIZAH BINTI AB AZIZ      |      |
 
 ### 📂 Folder content:
 * [📖 Report 1a](./case_study1a/readme.md)
