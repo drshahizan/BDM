@@ -23,6 +23,12 @@ Google Sheets is a versatile and user-friendly tool for data analysis, enabling 
 ### 2. Team Collaboration
 🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment.
 
+| No | Group |  File |
+| -----: |  ------ | :-----: | 
+| 1. | Sample  |  <a href="submission/ass1/Sample/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 2. |   |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 3. |   |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+
 ### 3. Academic Integrity
 🚫 Uphold the highest standards of academic integrity. Any candidate suspected of cheating in the assignment will face disciplinary action, which may include suspension or expulsion from the University. Moreover, any materials or devices found to be in violation of examination rules and regulations will be confiscated.
 
@@ -54,15 +60,6 @@ assignment/your_group/
     └── 📄 google_sheets
 
 ```
-
-## Submission
-
-| No | Group |  File |
-| -----: |  ------ | :-----: | 
-| 1. | Sample  |  <a href="submission/ass1/Sample/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
-| 2. |   |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
-| 3. |   |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
-
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
