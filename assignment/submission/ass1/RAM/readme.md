@@ -12,7 +12,7 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| Student 1              |MCS231004      |      |
+| Mohammed Raza              |MCS231004      |      |
 | Student 2              |      |      |
 | Student 3              |      |      |
 | Student 4              |      |      |
