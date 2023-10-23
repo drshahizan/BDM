@@ -22,7 +22,7 @@
 * [📖 Report 1a](./case_study1a/readme.md)
 * [💻 Google Sheets 1a](https://docs.google.com/spreadsheets/d/1jeXgEOjzDMeVHrWhFVNAsm2rlQi8FLJ20hlXPJg8nig/edit#gid=2053662769)
 * [📖 Report 1b](./case_study1b/readme.md)
-* [💻 Google Sheets 1b]()
+* [💻 Google Sheets 1b](https://docs.google.com/spreadsheets/d/1dfkznYonNGCmJ_2o13RpF-xrlkYv3CMUmPUmKFjGkmg/edit#gid=2028240261)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
