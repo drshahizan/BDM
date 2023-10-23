@@ -16,7 +16,7 @@
 | Hazem fenneer              |MCS231019||
 | Shivanesh            |MCS231014       |     |
 | Student 3              |      |      |
-| Student 4              |      |      |
+| Nur Shahirah             |MEC233005      |      |
 
 ### 📂 Folder content:
 * [📖 Report 1a](./case_study1a/readme.md)
