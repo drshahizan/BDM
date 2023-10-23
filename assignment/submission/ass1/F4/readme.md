@@ -12,10 +12,10 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| LYE KAH HOOI            |      |      |
-| LEE SEOW MING THERESA              |      |      |
-| THONG YEE MOON              |      |      |
-| Student 4              |      |      |
+| LYE KAH HOOI            |MCS231010      |      |
+| LEE SEOW MING THERESA              |MCS231013      |      |
+| THONG YEE MOON              |MCS231001      |      |
+| SITI NORAFIZAH BINTI AB AZIZ              |MCS231018      |      |
 
 ### 📂 Folder content:
 * [📖 Report 1a](./case_study1a/readme.md)
