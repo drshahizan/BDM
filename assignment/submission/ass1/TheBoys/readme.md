@@ -7,15 +7,15 @@
 
 # Assignment 1: Data analysis using Google Sheets
 
-### Group Name: Sample
+### Group Name: TheBoys
 ### Group Members
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| Student 1              |      |      |
-| Student 2              |      |      |
-| Student 3              |      |      |
-| Student 4              |      |      |
+| Pang Chern Hong             |MCS231006      |Documentation      |
+| Wu JiaMing             |MCS221033      |Prepocessing      |
+| Liu KaiYuan            |MCS231020      |Analysis      |
+| Nian Cong             |MCS231007      |Data Visualisation      |
 
 ### 📂 Folder content:
 * [📖 Report 1a](./case_study1a/readme.md)

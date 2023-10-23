@@ -13,9 +13,8 @@
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
 | Mohammed Raza              |MCS231004      |      |
-| Student 2              |      |      |
-| Student 3              |      |      |
-| Student 4              |      |      |
+| Ayaz Rahman Bhuiyan         |MCS232001      |      |
+| Musab Ibne Ahmad              |MCS231017      |      |
 
 ### 📂 Folder content:
 * [📖 Report 1a](./case_study1a/readme.md)
