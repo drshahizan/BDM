@@ -18,9 +18,9 @@
 | SITI NORAFIZAH BINTI AB AZIZ              |MCS231018      |DATA VISUALISATION      |
 
 ### 📂 Folder content:
-* [📖 Report 1a](./casestudy1a/readme.md)
+* [📖 Report 1a](./case_study1a/readme.md)
 * [💻 Google Sheets 1a](https://docs.google.com/spreadsheets/d/1Q7r-D2WhQqnhvDgRV4nVRKcq7XDpDMPdXhDDy4rgm0s/edit?usp=sharing)
-* [📖 Report 1b](./casestudy_1b/readme.md)
+* [📖 Report 1b](./case_study1b/readme.md)
 * [💻 Google Sheets 1b](https://docs.google.com/spreadsheets/d/1zxApfNBUVIF6ZDOjCMvUq3xHe9ZCTsSiRGNjtQIoghA/edit?usp=sharing)
 
 ## Contribution 🛠️
