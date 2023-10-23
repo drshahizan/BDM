@@ -13,7 +13,7 @@
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
 | Mohammed Raza              |MCS231004      |      |
-| Ayaz Rahman              |MCS232001      |      |
+| Ayaz Rahman Bhuiyan         |MCS232001      |      |
 | Student 3              |      |      |
 | Student 4              |      |      |
 
