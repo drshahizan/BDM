@@ -13,9 +13,9 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| Ismail Maeen Fateh Allah Yaqot Alawami   |  MCS221028    |      |
-|LWANGA AKSAM              |  MCS231016    |      |
-|BAKUNGA BRONSON             |   MCS232006   |      |
+| Ismail Maeen Fateh Allah Yaqot Alawami   |  MCS221028    |   Data processing   |
+|LWANGA AKSAM              |  MCS231016    | Data Analysis     |
+|BAKUNGA BRONSON             |   MCS232006   |   Documentaion   |
 
 
 ### 📂 Folder content:
