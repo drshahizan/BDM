@@ -1,4 +1,3 @@
-
 <a href="https://github.com/drshahizan/BDM/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/BDM" alt="Stars Badge"/></a>
 <a href="https://github.com/drshahizan/BDM/network/members"><img src="https://img.shields.io/github/forks/drshahizan/BDM" alt="Forks Badge"/></a>
 <a href="https://github.com/drshahizan/BDM/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/BDM" alt="Pull Requests Badge"/></a>
@@ -8,21 +7,21 @@
 
 # Assignment 1: Data analysis using Google Sheets
 
-### Group Name: Sample
+### Group Name: TheBoys
 ### Group Members
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| Hazem fenneer              |MCS231019||
-| Shivanesh            |MCS231014       |     |
-| Mustafa              |Mcs212012      |      |
-| Nur Shahirah             |MEC233005      |      |
+| Pang Chern Hong             |MCS231006      |Documentation      |
+| Wu JiaMing             |MCS221033      |Prepocessing      |
+| Liu KaiYuan            |MCS231020      |Analysis      |
+| Nian Cong             |MCS231007      |Data Visualisation      |
 
 ### 📂 Folder content:
 * [📖 Report 1a](./case_study1a/readme.md)
-* [💻 Google Sheets 1a](https://docs.google.com/spreadsheets/d/1jeXgEOjzDMeVHrWhFVNAsm2rlQi8FLJ20hlXPJg8nig/edit#gid=2053662769)
+* [💻 Google Sheets 1a]()
 * [📖 Report 1b](./case_study1b/readme.md)
-* [💻 Google Sheets 1b](https://docs.google.com/spreadsheets/d/1dfkznYonNGCmJ_2o13RpF-xrlkYv3CMUmPUmKFjGkmg/edit#gid=2028240261)
+* [💻 Google Sheets 1b]()
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
