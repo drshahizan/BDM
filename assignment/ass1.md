@@ -31,7 +31,7 @@ Google Sheets is a versatile and user-friendly tool for data analysis, enabling 
 | No | Group |  File |
 | -----: |  ------ | :-----: | 
 | 0. | Sample  |  <a href="submission/ass1/Sample/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
-| 1. |   |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 1. |  F4 |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
 | 2. |  Truth Archive |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
 
 ### 3. Academic Integrity
