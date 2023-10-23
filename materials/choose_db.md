@@ -12,7 +12,7 @@
 Instagram, a leading social media platform, harnesses the power of machine learning to create a highly personalized user experience. Machine learning plays a pivotal role in tracking and understanding user interactions, allowing Instagram to craft detailed user profiles and categorize interests. Using this wealth of data, Instagram predicts the type of content users are likely to engage with and curates their feeds accordingly, ensuring that posts are not just chronological but highly relevant. Machine learning also drives content recommendations, powers the "Explore" section, and targets advertisements, enhancing both user engagement and ad effectiveness. Moreover, it aids in user safety by detecting and removing inappropriate content, and even facilitates real-time notifications. Instagram's use of machine learning is a dynamic and integral part of delivering a tailored and captivating social media experience. 
 
 <p align="center">
-<img src="../images/cs_insta.gif"  height="800" />
+<img src="../images/choose_DB.gif"  height="800" />
 </p>
 
 Ever wondered how Instagram keeps you captivated and glued to your feed? Let's delve into the enchanting world of Instagram's machine learning. Here's the spellbinding process:
