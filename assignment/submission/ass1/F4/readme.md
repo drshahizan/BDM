@@ -12,11 +12,10 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| Student 1              |LYE KAH HOOI
-      |      |
-| Student 2              |LEE SEOW MING THERESA      |      |
-| Student 3              THONG YEE MOON|      |      |
-| Student 4              |SITI NORAFIZAH BINTI AB AZIZ      |      |
+| LYE KAH HOOI            |      |      |
+| LEE SEOW MING THERESA              |      |      |
+| THONG YEE MOON              |      |      |
+| Student 4              |      |      |
 
 ### 📂 Folder content:
 * [📖 Report 1a](./case_study1a/readme.md)
