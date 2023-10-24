@@ -12,10 +12,10 @@
 
 | Name                                     | Matrix Number | Task |
 | :----------------------------------------| :-------------: | ------------- |
-| NABILA HUSNA BINTI ROSLI         |   MCS231009   |      |
-| NUR AZIMAH BINTI MOHD SALLEH     |   MCS231011   |      |
-| MOHD NOR BIN MOHIDIN             |   MCS231008   |      |
-| ZUHAYR ARIF BIN ZAKARIA          |   MCS231002   |      |
+| NABILA HUSNA BINTI ROSLI         |   MCS231009   |   DATA VISUALIZATION   |
+| NUR AZIMAH BINTI MOHD SALLEH     |   MCS231011   |   DOCUMENTATION   |
+| MOHD NOR BIN MOHIDIN             |   MCS231008   |   DATA PROCESSING   |
+| ZUHAYR ARIF BIN ZAKARIA          |   MCS231002   |   ANALYSIS   |
 
 ### 📂 Folder content:
 * [📖 Report 1a](https://docs.google.com/document/d/1gCIiatSB507Y37mxAa2rAuzv0deFsC-m59mkgTzoOvY/edit?usp=sharing)
