@@ -18,9 +18,9 @@
 | ZUHAYR ARIF BIN ZAKARIA          |   MCS231002   |      |
 
 ### 📂 Folder content:
-* [📖 Report 1a](./case_study1a/readme.md)
+* [📖 Report 1a](https://docs.google.com/document/d/1gCIiatSB507Y37mxAa2rAuzv0deFsC-m59mkgTzoOvY/edit?usp=sharing)
 * [💻 Google Sheets 1a](https://docs.google.com/spreadsheets/d/1Clo7R6G0apy2oTMzZPkGOkLG18fc3qq2DVW5tK8G2CU/edit?usp=sharing)
-* [📖 Report 1b](./case_study1b/readme.md)
+* [📖 Report 1b](https://docs.google.com/document/d/1oc-pzSe2xgHOyngflN_sI8xmyRPnJaBaxhKh40MyuIw/edit?usp=sharing)
 * [💻 Google Sheets 1b](https://docs.google.com/spreadsheets/d/1uNiasdBpbl1BK-lLNpfRqmQLRNR5wC0ZmJlNQCZUafU/edit?usp=sharing)
 
 ## Contribution 🛠️
