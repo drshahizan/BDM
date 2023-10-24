@@ -12,7 +12,7 @@
 
 ### 📂 Folder content:
 * [📖 Report 1a](./case_study1a/readme.md)
-* [💻 Google Sheets 1a]([https://docs.google.com/spreadsheets/d/1b35JBAyWyCSd7db96BTHIj5ucJNa_ZzWVB6D1OWEECA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1LTVbjTCUjeer77ZW6zkGCljrJ2bG9RcaNNCyGbaC9GA/edit?usp=sharing))
+* [💻 Google Sheets 1a]([https://docs.google.com/spreadsheets/d/1b35JBAyWyCSd7db96BTHIj5ucJNa_ZzWVB6D1OWEECA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1LTVbjTCUjeer77ZW6zkGCljrJ2bG9RcaNNCyGbaC9GA/edit?usp=sharing)
 * [📖 Report 1b]()
 * [💻 Google Sheets 1b](https://docs.google.com/spreadsheets/d/1vCNh9iKsHFhALL9LSwEzFgpXnEPUM1AKbBpxldAe18M/edit?usp=sharing)
 
