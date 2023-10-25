@@ -7,10 +7,10 @@
 
 # Assignment 1a: Examination results
 
-### Group Name: XXX
+### Group Name: TheBoys
 
 
-## Contribution 🛠️
+## Contribution 🛠️(https://docs.google.com/document/d/1La_nEQdj6udP2gP0Xl0dF-LDOxMm1gqx0wlTNGJCHc4/edit)
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
