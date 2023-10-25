@@ -5,9 +5,9 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| Ranjeet              |   MCS231015   |      |
-| Thaneatharran              |   MCS232006   |      |
-| Linggesh              |   MCS232005   |      |
+| Ranjeet              |   MCS231015   | Data Processing & Data Visualization     |
+| Thaneatharran              |   MCS232006   | Data Processing & Documentation      |
+| Linggesh              |   MCS232005   | Data Visualization & Documentation      |
 
 ### 📂 Folder content:
 * [📖 Report 1a](https://docs.google.com/document/d/1gy3jWugTeFzuEFKB-oymJkGdrr6Bu2Bk/edit?usp=sharing&ouid=113948546691699717013&rtpof=true&sd=true)
