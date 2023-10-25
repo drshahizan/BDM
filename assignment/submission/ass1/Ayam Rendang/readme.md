@@ -8,7 +8,6 @@
 | Ranjeet              |   MCS231015   |      |
 | Thaneatharran              |   MCS232006   |      |
 | Linggesh              |   MCS232005   |      |
-| Student 4              |      |      |
 
 ### 📂 Folder content:
 * [📖 Report 1a](./case_study1a/readme.md)
