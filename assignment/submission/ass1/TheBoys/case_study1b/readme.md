@@ -7,7 +7,14 @@
 
 # Assignment 1b: Sales performance
 
-### Group Name: XXX
+### Group Name: TheBoys
+Our Dashboard of this project is:
+![My Image](https://github.com/drshahizan/BDM/blob/main/assignment/submission/ass1/TheBoys/case_study1b/Screenshot 2023-10-26 014222.png)
+
+Below are the links that can access to the our reports and the google sheets.
+* [📖 Report 1b](https://docs.google.com/document/d/1tXEtqk8j18KPt-WPc41QEiqVY_DnfzGErLmVBPtyCfU/edit)
+* [💻 Google Sheets 1b](https://docs.google.com/spreadsheets/d/1GrcYO3ADCYQopvPEnhcH7b7ZY2mX98Zw/edit#gid=1844643866)
+
 
 
 ## Contribution 🛠️
