@@ -8,9 +8,14 @@
 # Assignment 1a: Examination results
 
 ### Group Name: TheBoys
+Our Dashboard of this project is:
+![My Image](https://github.com/drshahizan/BDM/blob/main/assignment/submission/ass1/TheBoys/case_study1a/assignment1_data.png)
 
+Below are the links that can access to the our reports and the google sheets.
+* [📖 Report 1a](https://docs.google.com/document/d/1La_nEQdj6udP2gP0Xl0dF-LDOxMm1gqx0wlTNGJCHc4/edit)
+* [💻 Google Sheets 1a](https://docs.google.com/spreadsheets/d/1GrcYO3ADCYQopvPEnhcH7b7ZY2mX98Zw/edit#gid=1844643866)
 
-## Contribution 🛠️[link](https://docs.google.com/document/d/1La_nEQdj6udP2gP0Xl0dF-LDOxMm1gqx0wlTNGJCHc4/edit)
+## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
