@@ -7,8 +7,12 @@
 
 # Assignment 1b: Sales performance
 
-### Group Name: XXX
+### Group Name: Truth Archive 
+The final Dashboard of this project is:
 
+You can access the solution for Assignment 2 throughout this directory or following the links bellow:
+* [📖 Report 1b](https://docs.google.com/document/d/1UgNi2qhWp6yqfyoMIk0o-AL781AQVSpjKm5TXUeqnpk/edit?usp=sharing)
+* [💻 Google Sheets 1b](https://docs.google.com/spreadsheets/d/1dfkznYonNGCmJ_2o13RpF-xrlkYv3CMUmPUmKFjGkmg/edit#gid=2028240261)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
