@@ -13,10 +13,10 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| Hazem fenneer              |MCS231019||
-| Shivanesh            |MCS231014       |     |
-| Mustafa              |Mcs212012      |      |
-| Nur Shahirah             |MEC233005      |      |
+| Hazem fenneer              |MCS231019|Analysis|
+| Shivanesh            |MCS231014       |Prepocessing     |
+| Mustafa              |Mcs212012      | Documentation     |
+| Nur Shahirah             |MEC233005      |Data Visualisation      |
 
 ### 📂 Folder content:
 * [📖 Folder 1a](./case_study1a)
