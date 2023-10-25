@@ -9,6 +9,7 @@
 
 ### Group Name: Truth Archive 
 The final Dashboard of this project is:
+![My Image](https://github.com/drshahizan/BDM/blob/main/assignment/submission/ass1/Truth_Archive/Images/Ass1.png)
 
 You can access the solution for Assignment 1 throughout this directory or following the links bellow:
 * [📖 Report 1a](https://docs.google.com/document/d/1Z3e72RZDfcwJXZk6iib35TzDJAtl-J2wNGObcCKcCrU/edit?usp=sharing)
