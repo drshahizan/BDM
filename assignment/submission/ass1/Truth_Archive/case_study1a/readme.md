@@ -7,8 +7,12 @@
 
 # Assignment 1a: Examination results
 
-### Group Name: XXX
+### Group Name: Truth Archive 
+The final Dashboard of this project is:
 
+You can access the solution for Assignment 1 throughout this directory or following the links bellow:
+* [📖 Report 1a](https://docs.google.com/document/d/1Z3e72RZDfcwJXZk6iib35TzDJAtl-J2wNGObcCKcCrU/edit?usp=sharing)
+* [💻 Google Sheets 1a](https://docs.google.com/spreadsheets/d/1jeXgEOjzDMeVHrWhFVNAsm2rlQi8FLJ20hlXPJg8nig/edit#gid=2053662769)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
