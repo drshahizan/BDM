@@ -9,6 +9,10 @@
 
 ### Group Name: Truth Archive 
 The final Dashboard of this project is:
+from google sheet
+![My Image](https://github.com/drshahizan/BDM/blob/main/assignment/submission/ass1/Truth_Archive/Images/Ass2.png)
+Same file but from Excel 
+![My Image](https://github.com/drshahizan/BDM/blob/main/assignment/submission/ass1/Truth_Archive/Images/Ass2_2.png)
 
 You can access the solution for Assignment 2 throughout this directory or following the links bellow:
 * [📖 Report 1b](https://docs.google.com/document/d/1UgNi2qhWp6yqfyoMIk0o-AL781AQVSpjKm5TXUeqnpk/edit?usp=sharing)
