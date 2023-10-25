@@ -14,7 +14,7 @@
 * [📖 Report 1a](./case_study1a/readme.md)
 * [💻 Google Sheets 1a](https://docs.google.com/spreadsheets/d/1LTVbjTCUjeer77ZW6zkGCljrJ2bG9RcaNNCyGbaC9GA/edit?usp=sharing)
 * [📖 Report 1b]()
-* [💻 Google Sheets 1b](https://docs.google.com/spreadsheets/d/1vCNh9iKsHFhALL9LSwEzFgpXnEPUM1AKbBpxldAe18M/edit?usp=sharing)
+* [💻 Google Sheets 1b](https://docs.google.com/spreadsheets/d/1yaq6wAH_myuaQ0rRRk7ns_5a92qX5oZlT039e2Bagmg/edit?usp=sharing)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
