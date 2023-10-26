@@ -12,10 +12,10 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| LYE KAH HOOI            |MCS231010      |Case Study 1a      |
-| THONG YEE MOON              |MCS231001      |Case Study 1a       |
-| LEE SEOW MING THERESA              |MCS231013      |Case Study 1b      |
-| SITI NORAFIZAH BINTI AB AZIZ              |MCS231018      |Case Study 1b       |
+| THONG YEE MOON              |MCS231001      |Case Study 1a: Prepocessing, Analysis   |
+| LYE KAH HOOI            |MCS231010      |Case Study 1a : Documentation, Visualization    |
+| LEE SEOW MING THERESA              |MCS231013      |Case Study 1b : Analysis, Visualization      |
+| SITI NORAFIZAH BINTI AB AZIZ              |MCS231018      |Case Study 1b : Preprocessing, Documentation      |
 
 ### 📂 Folder content:
 * [📖 Report 1a](https://github.com/drshahizan/BDM/blob/87e54eb54b140252fb36ab9138660743dcc71600/assignment/submission/ass1/F4/case_study1a/Assignment%201_Dataset%201_Group%20F4.pdf)
@@ -23,6 +23,9 @@
 * [📖 Report 1b](./case_study1b/readme.md)
 * [💻 Google Sheets 1b](https://docs.google.com/spreadsheets/d/1zxApfNBUVIF6ZDOjCMvUq3xHe9ZCTsSiRGNjtQIoghA/edit?usp=sharing)
 
+* [📖 Report 1a Google Doc ](https://docs.google.com/document/d/1OgQdG9J7odcKkz6RBBZulF8HPypiwzP8S7vvpKdEDYg/edit?usp=sharing)
+* [📖 Report 1b Google Doc ](https://docs.google.com/document/d/1CCb4to2aiMsbWneM6ljIX10SNgh1PmEUbSoZkh4p3wA/edit?usp=sharing)
+* 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
 
