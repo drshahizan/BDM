@@ -12,10 +12,10 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| LYE KAH HOOI            |MCS231010      |DOCUMENTATION      |
-| LEE SEOW MING THERESA              |MCS231013      |PREPROCESSING      |
-| THONG YEE MOON              |MCS231001      |ANALYSIS      |
-| SITI NORAFIZAH BINTI AB AZIZ              |MCS231018      |DATA VISUALISATION      |
+| LYE KAH HOOI            |MCS231010      |Case Study 1a      |
+| THONG YEE MOON              |MCS231001      |Case Study 1a       |
+| LEE SEOW MING THERESA              |MCS231013      |Case Study 1b      |
+| SITI NORAFIZAH BINTI AB AZIZ              |MCS231018      |Case Study 1b       |
 
 ### 📂 Folder content:
 * [📖 Report 1a]([./case_study1a/readme.md](https://docs.google.com/document/d/1OgQdG9J7odcKkz6RBBZulF8HPypiwzP8S7vvpKdEDYg/edit))
