@@ -18,7 +18,7 @@
 | SITI NORAFIZAH BINTI AB AZIZ              |MCS231018      |Case Study 1b       |
 
 ### 📂 Folder content:
-* [📖 Report 1a]([https://github.com/drshahizan/BDM/blob/87e54eb54b140252fb36ab9138660743dcc71600/assignment/submission/ass1/F4/case_study1a/Assignment%201_Dataset%201_Group%20F4.pdf))
+* [📖 Report 1a](https://github.com/drshahizan/BDM/blob/87e54eb54b140252fb36ab9138660743dcc71600/assignment/submission/ass1/F4/case_study1a/Assignment%201_Dataset%201_Group%20F4.pdf)
 * [💻 Google Sheets 1a](https://docs.google.com/spreadsheets/d/1Q7r-D2WhQqnhvDgRV4nVRKcq7XDpDMPdXhDDy4rgm0s/edit?usp=sharing)
 * [📖 Report 1b](./case_study1b/readme.md)
 * [💻 Google Sheets 1b](https://docs.google.com/spreadsheets/d/1zxApfNBUVIF6ZDOjCMvUq3xHe9ZCTsSiRGNjtQIoghA/edit?usp=sharing)
