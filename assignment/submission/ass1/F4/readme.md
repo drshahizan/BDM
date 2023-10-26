@@ -12,7 +12,7 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| THONG YEE MOON              |MCS231001      |Case Study 1a: Prepocessing, Analysis   |
+| THONG YEE MOON              |MCS231001      |Case Study 1a : Prepocessing, Analysis   |
 | LYE KAH HOOI            |MCS231010      |Case Study 1a : Documentation, Visualization    |
 | LEE SEOW MING THERESA              |MCS231013      |Case Study 1b : Analysis, Visualization      |
 | SITI NORAFIZAH BINTI AB AZIZ              |MCS231018      |Case Study 1b : Preprocessing, Documentation      |
