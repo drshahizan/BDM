@@ -31,7 +31,7 @@ Google Sheets is a versatile and user-friendly tool for data analysis, enabling 
 | No | Group |  File |
 | -----: |  ------ | :-----: | 
 | 0. | Sample  |  <a href="submission/ass1/Sample/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
-| 1. |  F4 |  <a href="https://github.com/drshahizan/BDM/blob/002a1ec6297616358ac5d0452122e0e0442c6c5d/assignment/submission/ass1/F4/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 1. |  F4 |  <a href="submission/ass1/F4/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
 | 2. |  Truth Archive |  <a href="submission/ass1/Truth_Archive" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
 | 3. |  RAM |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
 | 4. |  Avengers |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
