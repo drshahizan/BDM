@@ -7,7 +7,12 @@
 
 # Assignment 1b: Sales performance
 
-### Group Name: XXX
+### Group Name: F4
+
+### 📂 Folder content:
+* [📖 Report 1b](https://github.com/drshahizan/BDM/blob/fd52d7f68b301e3ed74466bb60ed96ed4c9ac862/assignment/submission/ass1/F4/case_study1b/Assignment%201_Dataset%202_Group%20F4.pdf)
+* [💻 Google Sheets 1b](https://docs.google.com/spreadsheets/d/1zxApfNBUVIF6ZDOjCMvUq3xHe9ZCTsSiRGNjtQIoghA/edit?usp=sharing)
+* [📖 Report 1b Google Doc ](https://docs.google.com/document/d/1CCb4to2aiMsbWneM6ljIX10SNgh1PmEUbSoZkh4p3wA/edit?usp=sharing)
 
 
 ## Contribution 🛠️
