@@ -7,8 +7,12 @@
 
 # Assignment 1a: Examination results
 
-### Group Name: XXX
+### Group Name: F4
 
+### 📂 Folder content:
+* [📖 Report 1a](https://github.com/drshahizan/BDM/blob/87e54eb54b140252fb36ab9138660743dcc71600/assignment/submission/ass1/F4/case_study1a/Assignment%201_Dataset%201_Group%20F4.pdf)
+* [💻 Google Sheets 1a](https://docs.google.com/spreadsheets/d/1Q7r-D2WhQqnhvDgRV4nVRKcq7XDpDMPdXhDDy4rgm0s/edit?usp=sharing)
+* [📖 Report 1a Google Doc ](https://docs.google.com/document/d/1OgQdG9J7odcKkz6RBBZulF8HPypiwzP8S7vvpKdEDYg/edit?usp=sharing)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
