@@ -12,7 +12,7 @@
 ### 📂 Folder content:
 * [📖 Report 1a](https://docs.google.com/document/d/1gy3jWugTeFzuEFKB-oymJkGdrr6Bu2Bk/edit?usp=sharing&ouid=113948546691699717013&rtpof=true&sd=true)
 * [💻 Google Sheets 1a](https://docs.google.com/spreadsheets/d/1LTVbjTCUjeer77ZW6zkGCljrJ2bG9RcaNNCyGbaC9GA/edit?usp=sharing)
-* [📖 Report 1b]()
+* [📖 Report 1b](https://docs.google.com/document/d/1P4K5z2FiREAVd_5hmHsp_I0aEovG7ZVchPfqmoFBp6A/edit?usp=sharing)
 * [💻 Google Sheets 1b](https://docs.google.com/spreadsheets/d/1yaq6wAH_myuaQ0rRRk7ns_5a92qX5oZlT039e2Bagmg/edit?usp=sharing)
 
 ## Contribution 🛠️
