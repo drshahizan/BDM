@@ -18,9 +18,9 @@ Within Lab 1, you'll encounter a trio of study datasets, each holding a wealth o
 
 | No | Dataset | Instruction | Dataset |
 |:----:|---------|:-------------:|:------:|
-| 1.  | Chipotle Sales | <a href="../images/Ass1a.pdf" ><img src="../images/document.png" width="24px" height="24px"></a> | <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/GS/Dataset1.txt" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
-| 2.  | Occupation | <a href="../images/Ass1b.pdf" ><img src="../images/document.png" width="24px" height="24px"></a> | <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/GS/Dataset2.txt" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
-| 3.  | Open Food Facts | <a href="../images/Ass1b.pdf" ><img src="../images/document.png" width="24px" height="24px"></a> | <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/GS/Dataset2.txt" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
+| 1.  | Chipotle Sales | <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/GS/Dataset1.txt" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
+| 2.  | Occupation |  <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/GS/Dataset2.txt" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
+| 3.  | Open Food Facts | <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/GS/Dataset2.txt" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
 
 ### 2. Team Collaboration
 🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1WJWrzrGmfC0z5CmTYCGmlkKa7_byYOoxlU0MTg7pRrk/edit#gid=1112504187). Please update your group information:
