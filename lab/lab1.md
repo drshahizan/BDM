@@ -7,7 +7,7 @@
 
 🌟 Hit star button to save this repo in your profile
 
-# Lab 1: Data analysis using Google Sheets
+# Lab 1: Understanding Your Data
 
 <p align="left">
 <img src="https://www.filepicker.io/api/file/SDYwYDBgTeuZyALrCrCh"  height="300" />
