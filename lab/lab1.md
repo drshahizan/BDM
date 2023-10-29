@@ -9,11 +9,7 @@
 
 # Lab 1: Understanding Your Data
 
-<p align="left">
-<img src="https://www.filepicker.io/api/file/SDYwYDBgTeuZyALrCrCh"  height="300" />
-</p>
-
-Google Sheets is a versatile and user-friendly tool for data analysis, enabling you to input, cleanse, visualize, and glean insights from your data. It encompasses essential functionalities like data cleansing, chart generation, fundamental and advanced formulas, as well as data filtering and sorting, coupled with pivot tables and conditional formatting, rendering it exceptionally well-suited for a broad spectrum of analytical endeavors. With its real-time collaborative features, sharing capabilities, and the capacity to construct interactive dashboards, Google Sheets represents an outstanding choice for individuals and teams alike, aiming to undertake data analysis within a collaborative and easily accessible framework, especially when dealing with modest datasets and straightforward computations. This assignment necessitates performing data analysis using Google Sheets' tools. 
+In this lab, you'll harness the power of Google Colab, Python, and the versatile Pandas library to embark on a journey of data exploration. By delving into your dataset, you'll gain a profound understanding of its nuances, uncover hidden patterns, and extract valuable insights. This hands-on experience will empower you to unlock the full potential of your data, enabling informed decision-making and informed solutions through the art of data analysis and manipulation.
 
 ## 📚 Project Description
 
