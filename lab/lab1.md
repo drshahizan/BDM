@@ -7,7 +7,7 @@
 
 🌟 Hit star button to save this repo in your profile
 
-# Assignment 1: Data analysis using Google Sheets
+# Lab 1: Data analysis using Google Sheets
 
 <p align="left">
 <img src="https://www.filepicker.io/api/file/SDYwYDBgTeuZyALrCrCh"  height="300" />
