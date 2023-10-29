@@ -16,8 +16,8 @@ In this lab, you'll harness the power of Google Colab, Python, and the versatile
 ### 1. Introduction
 Within Lab 1, you'll encounter a trio of study datasets, each holding a wealth of information waiting to be deciphered. Your task is to delve deep into these datasets, unraveling their content, structure, and underlying insights. By gaining a comprehensive understanding of the data they contain, you'll lay the foundation for meaningful analysis and informed decision-making, enriching your data-driven journey. The dataset information is as follows:
 
-| No | Dataset | Instruction | Dataset |
-|:----:|---------|:-------------:|:------:|
+| No | Name  | Dataset |
+|:----:|---------|:------:|
 | 1.  | Chipotle Sales | <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/GS/Dataset1.txt" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
 | 2.  | Occupation |  <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/GS/Dataset2.txt" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
 | 3.  | Open Food Facts | <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/GS/Dataset2.txt" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
