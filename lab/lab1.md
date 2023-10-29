@@ -14,7 +14,7 @@ In this lab, you'll harness the power of Google Colab, Python, and the versatile
 ## 📚 Project Description
 
 ### 1. Introduction
-📊 Begin by thoroughly reading the provided case study and the following instructions to gain a clear understanding of the task at hand. The primary objective of this assignment is to process and visualize data using Google Sheets. You will work on two distinct case studies: one involving **Examination results** and the other concerning **Sales performance**. The case study information is as follows:
+Within Lab 1, you'll encounter a trio of study datasets, each holding a wealth of information waiting to be deciphered. Your task is to delve deep into these datasets, unraveling their content, structure, and underlying insights. By gaining a comprehensive understanding of the data they contain, you'll lay the foundation for meaningful analysis and informed decision-making, enriching your data-driven journey. The dataset information is as follows:
 
 | No | Case Study | Instruction | Dataset |
 |:----:|---------|:-------------:|:------:|
