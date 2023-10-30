@@ -6,10 +6,9 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| Student 1              |      |      |
-| Student 2              |      |      |
-| Student 3              |      |      |
-| Student 4              |      |      |
+| Mohammed Raza              |MCS231004      |      |
+| Ayaz Rahman Bhuiyan         |MCS231023      |      |
+| Musab Ibne Ahmad              |MCS231017      |      |
 
 
 
