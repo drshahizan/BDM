@@ -14,9 +14,9 @@
 
 ### 📂 Folder content:
 * [📖 Answer Lab 1a](lab1a.ipynb)
-* [📖 Answer Lab 1b]()
-* [📖 Answer Lab 1c]()
-* [📖 Answer Lab 1d]()
+* [📖 Answer Lab 1b](lab1b.ipynb)
+* [📖 Answer Lab 1c](lab1c.ipynb)
+* [📖 Answer Lab 1d](lab1d.ipynb)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
