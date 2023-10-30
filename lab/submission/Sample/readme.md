@@ -7,15 +7,9 @@
 
 # Lab 1: Understanding Your Data
 
-### Group Name: Ayam Rendang
-### Group Members
+g### Group Members
 
-| Name                                     | Matrix Number | Task |
-| :---------------------------------------- | :-------------: | ------------- |
-| Ranjeet              |   MCS231015   |      |
-| Thaneatharran              |   MCS232006   |       |
-| Linggesh              |   MCS232005   |      |
-| Nurul Wahieda             |   MCS231022   |       |
+
 
 
 ### 📂 Folder content:
