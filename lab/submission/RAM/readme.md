@@ -13,7 +13,7 @@
 
 
 ### 📂 Folder content:
-* [📖 Answer Lab 1a]()
+* [📖 Answer Lab 1a](<a href="lab1a.ipynb">)
 * [📖 Answer Lab 1b]()
 * [📖 Answer Lab 1c]()
 * [📖 Answer Lab 1d]()
