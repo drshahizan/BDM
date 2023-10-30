@@ -14,13 +14,17 @@ In this lab, you'll harness the power of Google Colab, Python, and the versatile
 ## 📚 Project Description
 
 ### 1. Introduction
-Within Lab 1, you'll encounter a trio of study datasets, each holding a wealth of information waiting to be deciphered. Your task is to delve deep into these datasets, unraveling their content, structure, and underlying insights. By gaining a comprehensive understanding of the data they contain, you'll lay the foundation for meaningful analysis and informed decision-making, enriching your data-driven journey. The dataset information is as follows:
+Welcome to Lab 1, where you'll work with three diverse datasets filled with valuable information waiting to be explored. Your mission is to dive deep into these datasets, uncovering their contents, structures, and the insights they hold. By developing a comprehensive understanding of the data they contain, you'll set the stage for meaningful analysis and well-informed decision-making, enhancing your data-driven journey.
 
+📊 **Dataset Information:**
 | No | Name  | Dataset |
 |:----:|---------|:------:|
 | 1.  | Chipotle Sales | <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/pandas/chipotle.tsv" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
 | 2.  | Occupation |  <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/pandas/u.user" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
 | 3.  | Open Food Facts | <a href="https://www.kaggle.com/datasets/openfoodfacts/world-food-facts/data" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
+
+🖥️ **Exercise Instructions:**
+You will need to complete this exercise using Google Colab. There are four provided templates for this exercise:
 
 | Lab | Dataset  | Instruction |
 |:----:|---------|:------:|
