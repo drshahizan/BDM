@@ -12,8 +12,8 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| THONG YEE MOON              |MCS231001      |Lab1a   |
-| LYE KAH HOOI            |MCS231010      |Lab1b   |
+| THONG YEE MOON              |MCS231001      |Lab1b   |
+| LYE KAH HOOI            |MCS231010      |Lab1a   |
 | LEE SEOW MING THERESA              |MCS231013      |Lab1c     |
 | SITI NORAFIZAH BINTI AB AZIZ              |MCS231018      |Lab1d     |
 
