@@ -12,10 +12,10 @@
 
 | Name                                     | Matrix Number | Task |
 | :----------------------------------------| :-------------: | ------------- |
-| NABILA HUSNA BINTI ROSLI         |   MCS231009   | 1c |
-| NUR AZIMAH BINTI MOHD SALLEH     |   MCS231011   | 1a |
-| MOHD NOR BIN MOHIDIN             |   MCS231008   | 1b |
-| ZUHAYR ARIF BIN ZAKARIA          |   MCS231002   | 1d |
+| NABILA HUSNA BINTI ROSLI         |   MCS231009   | Lab 1c |
+| NUR AZIMAH BINTI MOHD SALLEH     |   MCS231011   | Lab 1a |
+| MOHD NOR BIN MOHIDIN             |   MCS231008   | Lab 1b |
+| ZUHAYR ARIF BIN ZAKARIA          |   MCS231002   | Lab 1d |
 
 ### 📂 Folder content:
 * [💻 Lab 1a]()
