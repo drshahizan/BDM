@@ -5,9 +5,8 @@
 <a href="https://github.com/drshahizan/BDM/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/BDM?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Lab 1: Data analysis using Google Sheets
+# Lab 1: Understanding Your Data
 
-### Group Name: Sample
 ### Group Members
 
 | Name                                     | Matrix Number | Task |
@@ -18,10 +17,10 @@
 | Student 4              |      |      |
 
 ### 📂 Folder content:
-* [📖 Report 1a](./case_study1a/readme.md)
-* [💻 Google Sheets 1a]()
-* [📖 Report 1b](./case_study1b/readme.md)
-* [💻 Google Sheets 1b]()
+* [📖 Answer Lab 1a]()
+* [📖 Answer Lab 1b]()
+* [📖 Answer Lab 1c]()
+* [📖 Answer Lab 1d]()
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
