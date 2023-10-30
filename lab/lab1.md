@@ -56,10 +56,10 @@ You must place your file in the submission folder. Within the [`lab/submission`]
 lab/your_group/
 └── 📁 lab1/
     ├── 📄 readme.md
-    ├── 📄 lab1a.ipynb
-    ├── 📄 lab1b.ipynb
-    ├── 📄 lab1c.ipynb
-    └── 📄 lab1d.ipynb
+    ├── 📄 ans_lab1a.ipynb
+    ├── 📄 ans_lab1b.ipynb
+    ├── 📄 ans_lab1c.ipynb
+    └── 📄 ans_lab1d.ipynb
 ```
 
 ## Contribution 🛠️
