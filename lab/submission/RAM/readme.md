@@ -1,7 +1,7 @@
 
 # Lab 1: Understanding Your Data
 
-### Group Name: Ayam Rendang
+### Group Name: RAM
 ### Group Members
 
 | Name                                     | Matrix Number | Task |
