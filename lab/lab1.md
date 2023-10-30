@@ -22,6 +22,13 @@ Within Lab 1, you'll encounter a trio of study datasets, each holding a wealth o
 | 2.  | Occupation |  <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/pandas/u.user" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
 | 3.  | Open Food Facts | <a href="https://www.kaggle.com/datasets/openfoodfacts/world-food-facts/data" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
 
+| Lab | Dataset  | Instruction |
+|:----:|---------|:------:|
+| 1a.  | Chipotle Sales | <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/pandas/chipotle.tsv" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
+| 1b.  | Occupation |  <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/pandas/u.user" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
+| 1c.  | Open Food Facts | <a href="https://www.kaggle.com/datasets/openfoodfacts/world-food-facts/data" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
+| 1d.  | Chipotle Sales| <a href="https://www.kaggle.com/datasets/openfoodfacts/world-food-facts/data" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
+
 ### 2. Team Collaboration
 🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1WJWrzrGmfC0z5CmTYCGmlkKa7_byYOoxlU0MTg7pRrk/edit#gid=1112504187). Please update your group information:
 
