@@ -18,10 +18,10 @@
 | ZUHAYR ARIF BIN ZAKARIA          |   MCS231002   | 1d |
 
 ### 📂 Folder content:
-* [📖 Lab 1a]()
+* [💻 Lab 1a]()
 * [💻 Lab 1b]()
-* [📖 Lab 1c]()
-* [💻 Lab 1d]()
+* [💻 Lab 1c]()
+* [💻 Lab 1d](https://github.com/drshahizan/BDM/blob/main/lab/submission/KicapSambal/Lab_1d.ipynb)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
