@@ -50,17 +50,16 @@ The deadline for submission is **October 26, 2023, at 3:30 PM**. Late submission
 
 ## File and Folder Structure 
 
-You must place your file in the submission folder. Within the [`submission/ass1/`](./submission/ass1/) folder, create a folder called your group. Name the default file as `readme.md`. You can refer to the [documentation template here](./submission/ass1/Sample/readme.md). Suggested folder structure for this project:
+You must place your file in the submission folder. Within the [`lab`](lab) folder, create a folder called your group. Name the default file as `readme.md`. You can refer to the [documentation template here](./submission/ass1/Sample/readme.md). Suggested folder structure for this project:
 
 ```html
-assignment/your_group/
-├── 📁 case_study1a/
-│   ├── 📄 readme.md
-│   └── 📄 google_sheets
-└── 📁 case_study1b/
+lab/your_group/
+└── 📁 lab1/
     ├── 📄 readme.md
-    └── 📄 google_sheets
-
+    ├── 📄 lab1a.ipynb
+    ├── 📄 lab1b.ipynb
+    ├── 📄 lab1c.ipynb
+    └── 📄 lab1d.ipynb
 ```
 
 ## Contribution 🛠️
