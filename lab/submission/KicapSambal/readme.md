@@ -20,7 +20,7 @@
 ### 📂 Folder content:
 * [💻 Lab 1a]()
 * [💻 Lab 1b](https://github.com/drshahizan/BDM/blob/main/lab/submission/KicapSambal/lab1b.ipynb)
-* [💻 Lab 1c]()
+* [💻 Lab 1c](https://github.com/drshahizan/BDM/blob/main/lab/submission/KicapSambal/lab1/ans_lab1c.ipynb)
 * [💻 Lab 1d](https://github.com/drshahizan/BDM/blob/main/lab/submission/KicapSambal/Lab_1d.ipynb)
 
 ## Contribution 🛠️
