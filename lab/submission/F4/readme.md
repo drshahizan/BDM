@@ -19,7 +19,7 @@
 
 
 ### 📂 Folder content:
-* [📖 Answer Lab 1a](lab/submission/F4/lab1/F4_ans_lab1b.ipynb)
+* [📖 Answer Lab 1a](./lab1/F4_ans_lab1b.ipynb)
 * [📖 Answer Lab 1b]()
 * [📖 Answer Lab 1c]()
 * [📖 Answer Lab 1d]()
