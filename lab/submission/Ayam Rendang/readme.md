@@ -19,7 +19,7 @@
 
 ### 📂 Folder content:
 * [💻 Lab 1a]()
-* [💻 Lab 1b]()
+* [💻 Lab 1b](https://github.com/drshahizan/BDM/blob/main/lab/submission/Ayam%20Rendang/lab1/Lab_1b.ipynb)
 * [💻 Lab 1c]()
 * [💻 Lab 1d]()
 
