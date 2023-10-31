@@ -19,6 +19,13 @@
 
 
 ### 📂 Folder content:
+* [📖 Answer Lab 1a](lab/submission/F4/lab1/F4_ans_lab1b.ipynb)
+* [📖 Answer Lab 1b]()
+* [📖 Answer Lab 1c]()
+* [📖 Answer Lab 1d]()
+
+
+Google Colab
 * [📖 Answer Lab 1a](https://colab.research.google.com/drive/1PSgCYTbRknQ8ySK_e9tvKodJMDO5kZwr?usp=sharing)
 * [📖 Answer Lab 1b](https://colab.research.google.com/drive/1d3f8Hj-_5DTMqlaNdpXd-TScN32IDbrl?usp=sharing)
 * [📖 Answer Lab 1c](https://colab.research.google.com/drive/12-lXCTMvs104qG83XvW6CydRcXjfWfAe?usp=sharing)
