@@ -20,9 +20,9 @@
 
 ### 📂 Folder content:
 * [📖 Answer Lab 1a]()
-* [📖 Answer Lab 1b]()
-* [📖 Answer Lab 1c]()
-* [📖 Answer Lab 1d]()
+* [📖 Answer Lab 1b](https://colab.research.google.com/drive/1d3f8Hj-_5DTMqlaNdpXd-TScN32IDbrl?usp=sharing)
+* [📖 Answer Lab 1c](https://colab.research.google.com/drive/12-lXCTMvs104qG83XvW6CydRcXjfWfAe?usp=sharing)
+* [📖 Answer Lab 1d](https://colab.research.google.com/drive/1xOEAfL2-8xVlb1qGgsOcR9DXphbIJrKS?usp=sharing)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
