@@ -19,10 +19,10 @@
 
 
 ### 📂 Folder content:
-* [📖 Answer Lab 1a](./lab1/F4_ans_lab1b.ipynb)
-* [📖 Answer Lab 1b]()
-* [📖 Answer Lab 1c]()
-* [📖 Answer Lab 1d]()
+* [📖 Answer Lab 1a]
+* [📖 Answer Lab 1b](./lab1/F4_ans_lab1b.ipynb)
+* [📖 Answer Lab 1c]
+* [📖 Answer Lab 1d]
 
 
 ### Google Colab Link
