@@ -20,7 +20,7 @@
 ### 📂 Folder content:
 * [💻 Lab 1a]()
 * [💻 Lab 1b](https://github.com/drshahizan/BDM/blob/main/lab/submission/Ayam%20Rendang/lab1/Lab_1b.ipynb)
-* [💻 Lab 1c]()
+* [💻 Lab 1c](https://github.com/drshahizan/BDM/blob/main/lab/submission/Ayam%20Rendang/lab1/ans_lab1c.ipynb)
 * [💻 Lab 1d]()
 
 ## Contribution 🛠️
