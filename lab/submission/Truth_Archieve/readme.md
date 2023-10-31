@@ -14,12 +14,12 @@
 | :----------------------------------------| :-------------: | ------------- |
 |Hazem fenneer          |   MCS231019   |  [Lab 1A](https://github.com/drshahizan/BDM/blob/main/lab/submission/Truth_Archieve/lab1/lab1a_by_hazem.ipynb) |
 |Shivanesh      |   MCS231014   |  [Lab 1C](https://github.com/drshahizan/BDM/blob/main/lab/submission/Truth_Archieve/lab1/lab1c.ipynb) |
-|Mustafa              |   Mcs212012   | Lab 1B |
+|Mustafa              |   Mcs212012   | [Lab 1B](https://github.com/drshahizan/BDM/blob/main/lab/submission/Truth_Archieve/lab1/lab1b.ipynb) |
 |Nur Shahirah          |   MEC233005   |  [Lab 1D](https://github.com/drshahizan/BDM/blob/main/lab/submission/Truth_Archieve/lab1/lab1d_by_shahirah.ipynb) |
 
 ### 📂 Folder content:
 * [💻 Lab 1a](https://github.com/drshahizan/BDM/blob/main/lab/submission/Truth_Archieve/lab1/lab1a_by_hazem.ipynb)
-* [💻 Lab 1b]()
+* [💻 Lab 1b](https://github.com/drshahizan/BDM/blob/main/lab/submission/Truth_Archieve/lab1/lab1b.ipynb)
 * [💻 Lab 1c](https://github.com/drshahizan/BDM/blob/main/lab/submission/Truth_Archieve/lab1/lab1c.ipynb)
 * [💻 Lab 1d](https://github.com/drshahizan/BDM/blob/main/lab/submission/Truth_Archieve/lab1/lab1d_by_shahirah.ipynb)
 
