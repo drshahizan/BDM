@@ -45,6 +45,7 @@ You will need to complete this exercise using Google Colab. There are four provi
 | 4. | Ayam Rendang | <a href="submission/Ayam Rendang/" ><img src="../images/answer.png" width="24px" height="24px" ></a>
 | 5. | RAM | <a href="submission/RAM/" ><img src="../images/answer.png" width="24px" height="24px" ></a>
 | 6. | TheBoys | <a href="submission/TheBoys/" ><img src="../images/answer.png" width="24px" height="24px" ></a>
+| 7. | Avengers | <a href="submission/Avengers/" ><img src="../images/answer.png" width="24px" height="24px" ></a>
 
 ### 3. Academic Integrity
 🚫 Uphold the highest standards of academic integrity. Any candidate suspected of cheating in the assignment will face disciplinary action, which may include suspension or expulsion from the University. Moreover, any materials or devices found to be in violation of examination rules and regulations will be confiscated.
