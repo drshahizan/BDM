@@ -18,9 +18,9 @@
 |Nur Shahirah          |   MEC233005   | Lab 1D |
 
 ### 📂 Folder content:
-* [💻 Lab 1a]()
+* [💻 Lab 1a](https://github.com/drshahizan/BDM/blob/main/lab/submission/Truth_Archieve/lab1/lab1a_by_hazem.ipynb)
 * [💻 Lab 1b]()
-* [💻 Lab 1c]()
+* [💻 Lab 1c](https://github.com/drshahizan/BDM/blob/main/lab/submission/Truth_Archieve/lab1/lab1c.ipynb)
 * [💻 Lab 1d]()
 
 ## Contribution 🛠️
