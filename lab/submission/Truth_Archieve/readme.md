@@ -12,8 +12,8 @@
 
 | Name                                     | Matrix Number | Task |
 | :----------------------------------------| :-------------: | ------------- |
-|Hazem fenneer          |   MCS231019   | Lab 1A |
-|Shivanesh      |   MCS231014   | Lab 1C |
+|Hazem fenneer          |   MCS231019   | * [Lab 1A](https://github.com/drshahizan/BDM/blob/main/lab/submission/Truth_Archieve/lab1/lab1a_by_hazem.ipynb) |
+|Shivanesh      |   MCS231014   | * [Lab 1C](https://github.com/drshahizan/BDM/blob/main/lab/submission/Truth_Archieve/lab1/lab1c.ipynb) |
 |Mustafa              |   Mcs212012   | Lab 1B |
 |Nur Shahirah          |   MEC233005   | Lab 1D |
 
