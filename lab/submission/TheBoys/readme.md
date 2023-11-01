@@ -19,9 +19,9 @@
 
 ### 📂 Folder content:
 * [📖 Answer Lab 1a]()
-* [📖 Answer Lab 1b]
-* [📖 Answer Lab 1c]()
-* [📖 Answer Lab 1d]
+* [📖 Answer Lab 1b](https://github.com/drshahizan/BDM/blob/main/lab/submission/TheBoys/Lab1/ans_lab1b.ipynb)
+* [📖 Answer Lab 1c](https://github.com/drshahizan/BDM/blob/main/lab/submission/TheBoys/Lab1/ans_lab1c.ipynb)
+* [📖 Answer Lab 1d](https://github.com/drshahizan/BDM/blob/main/lab/submission/TheBoys/Lab1/ans_lab1d.ipynb)
 
 
 ### Google Colab Link
