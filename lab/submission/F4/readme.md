@@ -26,7 +26,7 @@
 
 
 ### Google Colab Link
-* [📖 Answer Lab 1a](https://colab.research.google.com/drive/1PSgCYTbRknQ8ySK_e9tvKodJMDO5kZwr?usp=sharing)
+* [📖 Answer Lab 1a](https://colab.research.google.com/drive/155tvxtmzbg5Cgg-PgNNbMuH5QPCj3TuT?usp=sharing)
 * [📖 Answer Lab 1b](https://colab.research.google.com/drive/1d3f8Hj-_5DTMqlaNdpXd-TScN32IDbrl?usp=sharing)
 * [📖 Answer Lab 1c](https://colab.research.google.com/drive/12-lXCTMvs104qG83XvW6CydRcXjfWfAe?usp=sharing)
 * [📖 Answer Lab 1d](https://colab.research.google.com/drive/1xOEAfL2-8xVlb1qGgsOcR9DXphbIJrKS?usp=sharing)
