@@ -18,10 +18,10 @@
 | Nurul Wahieda             |   MCS231022   | Lab 1a      |
 
 ### 📂 Folder content:
-* [💻 Lab 1a]()
+* [💻 Lab 1a](https://github.com/drshahizan/BDM/blob/main/lab/submission/Ayam%20Rendang/lab1/lab1a.ipynb)
 * [💻 Lab 1b](https://github.com/drshahizan/BDM/blob/main/lab/submission/Ayam%20Rendang/lab1/Lab_1b.ipynb)
 * [💻 Lab 1c](https://github.com/drshahizan/BDM/blob/main/lab/submission/Ayam%20Rendang/lab1/ans_lab1c.ipynb)
-* [💻 Lab 1d]()
+* [💻 Lab 1d](https://github.com/drshahizan/BDM/blob/main/lab/submission/Ayam%20Rendang/lab1/Lab_1d.ipynb)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
