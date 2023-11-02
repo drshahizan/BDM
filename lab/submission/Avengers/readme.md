@@ -13,9 +13,9 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| Ismail Maeen Fateh Allah Yaqot Alawami   |  MCS221028    |   lab1c.ipynb   |
-|LWANGA AKSAM              |  MCS231016    | lab1a.ipynb     |
-|BAKUNGA BRONSON             |   MCS232006   |   lab1b.ipynb, lab1d.ipynb   |
+| Ismail Maeen Fateh Allah Yaqot Alawami   |  MCS221028    | lab1d.ipynb   |
+|LWANGA AKSAM              |  MCS231016    | lab1a.ipynb, lab1c.ipynb  |
+|BAKUNGA BRONSON             |   MCS232006   |   lab1b.ipynb |
 
 
 ## File and Folder Structure 
