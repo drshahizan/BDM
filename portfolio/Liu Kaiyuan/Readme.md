@@ -1,30 +1,27 @@
 # Hello every one
 
 <p align="center">
-  <a href="https://github.com/drshahizan/BDM/blob/main/portfolio/WU%20JIAMING/WUJIAMING.jpg">
-    <img src="https://github.com/drshahizan/BDM/blob/main/portfolio/WU%20JIAMING/WUJIAMING.jpg" alt="Thong Yee Moon" width=230 height=275>
+  <a href="https://github.com/drshahizan/BDM/blob/main/portfolio/Liu Kaiyuan/photo.jpg">
+    <img src="https://github.com/drshahizan/BDM/blob/main/portfolio/Liu Kaiyuan/photo.jpg"  width=230 height=275>
   </a>
 
 <p align="center">
 
   ## About ME 💬 :
 
-### - I'm from Qingdao, a beautiful coastal city in China.
-
-  ## - Learning :
-- ✨ Data Science
+### - I come from the Ningxia Hui Autonomous Region in northwest China, where many people believe in Islam and live in harmony with ordinary people.
 
 ## - Hobbies : 
-- ✨ Basketball
-- ✨ Driving
+- ✨ Japanese animation
+- ✨ listen to music
 
 ## 🎓 Education
 
-- **Statistics**
-  - North Minzu University, Ningxia, China
+- **Computer Science**
+  - Harbin, the Ice City in Northeast China
   
 ## Contact me :speech_balloon:
 
-:e-mail: <a href="David_24@126.com">Send an e-mail</a>
+:e-mail: <a href="liukaiyuan@graduate.utm.my">Send an e-mail</a>
 
-☎️Phone number <a href="https://k9n.dev/blog">+60 17 789 7879</a>
+☎️Phone number <a href="https://k9n.dev/blog">+60 173239946</a>
