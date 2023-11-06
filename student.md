@@ -34,6 +34,7 @@
 | 21  | WU JIAMING                              | BUMBLEBEEWU   | [:octocat:](https://github.com/BUMBLEBEEWU)     | <a href="https://www.linkedin.com/in/%E5%98%89%E9%93%AD-%E5%90%B4-b186aa295"><img src="./images/linkedin.png" width="24px" height="24px"></a>|<a href="./portfolio/WU%20JIAMING"><img src="./images/portfolio.png" width="24px" height="24px"></a>
 | 22  | ZUHAYR ARIF BIN ZAKARIA                | zuhayraz     | [:octocat:](https://github.com/zuhayraz)        | <a href="https://www.linkedin.com/in/zuhayraz"><img src="./images/linkedin.png" width="24px" height="24px"></a>                          |<a href="./portfolio/zuhayraz"><img src="./images/portfolio.png" width="24px" height="24px"></a>
 | 23 | Mustafa Ghazi Talab          | MustafaGhaziTalab     | [:octocat:](https://github.com/MustafaGhaziTalab)        | <a href="https://www.linkedin.com/in/Mustafa Ghazi Talab Talab"><img src="./images/linkedin.png" width="24px" height="24px"></a>                          |<a href="./portfolio/MustafaGhaziTalab"><img src="./images/portfolio.png" width="24px" height="24px"></a>
+| 24 | Liu Kaiyuan          | lky970215     | [:octocat:](https://github.com/lky970215)        | <a href="https://www.linkedin.com/in/开元-刘-466a84297"><img src="./images/linkedin.png" width="24px" height="24px"></a>                          |<a href="./portfolio/Liu Kaiyuan"><img src="./images/portfolio.png" width="24px" height="24px"></a>
 
 
 ## Contribution 🛠️
