@@ -12,9 +12,9 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| Mohammed Raza              |MCS231004      |      |
-| Ayaz Rahman Bhuiyan         |MCS231023      |      |
-| Musab Ibne Ahmad              |MCS231017      |      |
+| Mohammed Raza              |MCS231004      |Data Processing & Data Visualization      |
+| Ayaz Rahman Bhuiyan         |MCS231023      |Data Processing & Documentation      |
+| Musab Ibne Ahmad              |MCS231017      |Data Processing & Documentation      |
 
 ### 📂 Folder content:
 * [📖 Report 1a](https://docs.google.com/document/d/19c4YVrppOzBipKuD5btdNbR0VFiMTDGJhHzhrrEj8Lk/edit?usp=sharing)
