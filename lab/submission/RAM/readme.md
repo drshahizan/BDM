@@ -6,9 +6,9 @@
 
 | Name                                     | Matrix Number | Task |
 | :---------------------------------------- | :-------------: | ------------- |
-| Mohammed Raza              |MCS231004      |      |
-| Ayaz Rahman Bhuiyan         |MCS231023      |      |
-| Musab Ibne Ahmad              |MCS231017      |      |
+| Mohammed Raza              |MCS231004      |[📖Lab 1a](lab1a.ipynb),[📖Lab 1b](lab1b.ipynb)|
+| Ayaz Rahman Bhuiyan         |MCS231023      |[📖Lab 1c](lab1c.ipynb)|
+| Musab Ibne Ahmad              |MCS231017      |[📖Lab 1d](lab1d.ipynb)|
 
 
 
