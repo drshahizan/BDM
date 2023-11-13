@@ -8,7 +8,15 @@
 # Assignment 1b: Sales performance
 
 ### Group Name: RAM
+| Name                                     | Matrix Number | Task |
+| :---------------------------------------- | :-------------: | ------------- |
+| Mohammed Raza              |MCS231004      |Data Processing & Data Visualization      |
+| Ayaz Rahman Bhuiyan         |MCS231023      |Data Processing & Documentation      |
+| Musab Ibne Ahmad              |MCS231017      |Data Processing & Documentation      |
 
+### 📂 Folder content:
+* [📖 Report 1b](https://docs.google.com/document/d/1TI7hP7p4yoV7PtJU7C2Nqg3JuGoY6kItTe2L6YjHn-4/edit?usp=sharing)
+* [💻 Google Sheets 1b](https://docs.google.com/spreadsheets/d/146j-KwcxPmruK-7CAq07Co7lw0Pmjr5TIDCJ0sKiCCc/edit?usp=sharing)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
