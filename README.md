@@ -27,6 +27,12 @@ This course provides a basic fundamental of big data architecture and management
 | 3. | Assignment 1 | Data analysis using Google Sheets | <a href="./assignment/ass1.md" ><img src="./images/google-sheets.png" width="24px" height="24px" ></a> | 
 | 4. | Lab 1 | Understanding Your Data | <a href="./lab/lab1.md" ><img src="./images/python.png" width="24px" height="24px" ></a> | 
 | 5. | Assignment 2 | Exploratory data analysis | <a href="https://github.com/drshahizan/Python_EDA/tree/main/assignment/bdm" ><img src="./images/python.png" width="24px" height="24px" ></a> | 
+| 6. | Lab 2 | EDA Big Data | <a href="https://github.com/drshahizan/Python_EDA/blob/main/lab/eda/bdm/readme.md" ><img src="./images/colab.png" width="24px" height="24px" ></a> | 
+| 7. | Assignment 3 | EDA Big Data | <a href="https://github.com/drshahizan/Python_EDA/tree/main/assignment/ass3/bdm" ><img src="./images/python.png" width="24px" height="24px" ></a> | 
+| 8. | Course | Feature Engineering | <a href="https://github.com/drshahizan/Python_EDA/blob/main/course/bdm/readme.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
+| 9. | Lab 3 | Feature Engineering | <a href="https://github.com/drshahizan/Python_EDA/blob/main/lab/fe/bdm/readme.md" ><img src="./images/colab.png" width="24px" height="24px" ></a> | 
+| 10. | Assignment 4 | Feature Engineering | <a href="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/bdm" ><img src="./images/python.png" width="24px" height="24px" ></a> | 
+| 11. | Assignment 5 | Automated Feature Engineering tools | <a href="https://github.com/drshahizan/Python_EDA/tree/main/assignment/ass5/bdm" ><img src="./images/python.png" width="24px" height="24px" ></a> | 
 
 ## 🔥 Important things
 1. [Essential Preparations for a Successful Start in BDM Class](./materials/essentials.md)
