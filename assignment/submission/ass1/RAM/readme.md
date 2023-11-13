@@ -20,7 +20,7 @@
 * [📖 Report 1a](https://docs.google.com/document/d/19c4YVrppOzBipKuD5btdNbR0VFiMTDGJhHzhrrEj8Lk/edit?usp=sharing)
 * [💻 Google Sheets 1a](https://docs.google.com/spreadsheets/d/1ZdqyhKzTnx7xqMtRE3x-faJNvn2yOqd1LCEUTDKg2RE/edit?usp=sharing)
 * [📖 Report 1b](https://docs.google.com/document/d/1TI7hP7p4yoV7PtJU7C2Nqg3JuGoY6kItTe2L6YjHn-4/edit?usp=sharing)
-* [💻 Google Sheets 1b](https://docs.google.com/spreadsheets/d/19ygtuSTefF-AMoIcUZYxrEzAw5cAgvnJJ1WvUZhWzTY/edit?usp=sharing)
+* [💻 Google Sheets 1b](https://docs.google.com/spreadsheets/d/146j-KwcxPmruK-7CAq07Co7lw0Pmjr5TIDCJ0sKiCCc/edit?usp=sharing)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
