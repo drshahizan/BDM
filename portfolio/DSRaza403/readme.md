@@ -4,7 +4,7 @@
 </p>
 
 
-# Mohammed Raza Chidimar - Data Analyst 👨‍💻
+# Mohammed Raza Chidimar - Data Scientist 👨‍💻
 
 **Location:** Johor Bahru, Johore, Malaysia 🌏
 
