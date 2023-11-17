@@ -30,7 +30,7 @@ Adaptive recent college graduate with a Computer Science background (8.15 CGPA).
 - **Address:** 503, Parag Appt, Above KGNWT, Gopipura 🏠
 - **Mobile:** 7016582875 📱
 - **Email:** [cs.m.raza@gmail.com](mailto:cs.m.raza@gmail.com) 📧
-- **LinkedIn Profile:** [LinkedIn](https://www.linkedin.com/in/mohammedraza-chidimar-8016831a9) 🔗
+- **LinkedIn Profile:** [LinkedIn](https://www.linkedin.com/in/mohammed-raza-chidimar-8016831a9/) 🔗
 
 ## Top Skills 🚀
 - Project Management 📊
