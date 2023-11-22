@@ -3,7 +3,7 @@
 
 </p>
 
-<h1 align="center">Hazem Fenneer</h1>
+<h1 align="center">ISMAIL MAEEN</h1>
 
 <h3 align="center">Data Scientist  | Web Developer</h3>
 
