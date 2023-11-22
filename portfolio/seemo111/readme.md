@@ -5,13 +5,13 @@
 
 <h1 align="center">Hazem Fenneer</h1>
 
-<h3 align="center">Data Science Enthusiast | Software Developer</h3>
+<h3 align="center">Data Scientist  | Web Developer</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hazem-fenneer-7aa8b3219" target="_blank" style="text-decoration: none; margin: 10px;">
+  <a href="https://www.linkedin.com/in/ismail-maeen-02b3a929b" target="_blank" style="text-decoration: none; margin: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2" alt="LinkedIn" width="150" height="30">
   </a>
-  <a href="https://github.com/HazemFenneer" target="_blank" style="text-decoration: none; margin: 10px;">
+  <a href="https://github.com/seemo111" target="_blank" style="text-decoration: none; margin: 10px;">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717" alt="GitHub" width="150" height="30">
   </a>
 </div>
@@ -19,7 +19,7 @@
 
 ## About Me
 
-I am a current graduate student passionate about data science and software development. I love solving real-world problems and creating software solutions. This portfolio showcases my journey and projects.
+I am a current graduate student passionate about data science and buikding models. I love solving real-world problems and creating software solutions. This portfolio showcases my journey and projects.
 
 ## 🚀 Projects
 
