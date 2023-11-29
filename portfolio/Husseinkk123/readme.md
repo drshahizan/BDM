@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="image.jpg" alt="Hussein Yuusuf Image">
+  <img src="https://github.com/drshahizan/BDM/blob/main/portfolio/Husseinkk123/WhatsApp%20Image%202023-11-22%20at%2021.20.41.jpeg" alt="Hussein Yuusuf Image" width="200" >
 </p>
 
 # Hussein Yuusuf - Technologist | Teacher | Programmer
