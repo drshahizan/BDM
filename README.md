@@ -34,7 +34,7 @@ This course provides a basic fundamental of big data architecture and management
 | 10. | Assignment 4 | Feature Engineering | <a href="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass4/bdm" ><img src="./images/python.png" width="24px" height="24px" ></a> | 
 | 11. | Assignment 5 | Automated Feature Engineering tools | <a href="https://github.com/drshahizan/Python_EDA/tree/main/assignment/ass5/bdm" ><img src="./images/python.png" width="24px" height="24px" ></a> | 
 | 12. | Assignment 6 | Mastering Big Data Handling | <a href="https://github.com/drshahizan/Python-big-data/tree/main/assignment/ass6/bdm" ><img src="./images/colab.png" width="24px" height="24px" ></a> | 
-| 13. | Assignment 7 | Mastering Big Data Handling | <a href="https://github.com/drshahizan/Python-big-data/tree/main/assignment/ass7/bdm" ><img src="./images/colab.png" width="24px" height="24px" ></a> | 
+| 13. | Assignment 7 | Comparison between libraries | <a href="https://github.com/drshahizan/Python-big-data/tree/main/assignment/ass7/bdm" ><img src="./images/colab.png" width="24px" height="24px" ></a> | 
 
 ## 🔥 Important things
 1. [Essential Preparations for a Successful Start in BDM Class](./materials/essentials.md)
