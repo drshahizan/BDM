@@ -9,7 +9,7 @@
 | Mohammed Raza              |MCS231004      |[📖Lab 1a](lab1a.ipynb)|
 | Ayaz Rahman Bhuiyan         |MCS231023      |[📖Lab 1c](lab1c.ipynb)|
 | Musab Ibne Ahmad              |MCS231017      |[📖Lab 1d](lab1d.ipynb)|
-| HHussein Yusuf         |MCS231024      |[📖Lab 1c](lab1b.ipynb)|
+| Hussein Yusuf         |MCS231024      |[📖Lab 1c](lab1b.ipynb)|
 
 
 
