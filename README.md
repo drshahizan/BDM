@@ -20,9 +20,9 @@ This course provides a basic fundamental of big data architecture and management
 3. Discuss current technology that support for sustainability of the big data platform ecosystem.
 
 ## Assignment
-| No. | Activity | Topic | File |
-| :-----: | ------ | ------ | :-----: | 
-| 1. | Task 1 | Portfolio Creation | <a href="./portfolio/readme.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
+| No. | Activity | Topic | File | Submission |
+| :-----: | ------ | ------ | :-----: | :-----: | 
+| 1. | Task 1 | Portfolio Creation | <a href="./portfolio/readme.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | <a href="./portfolio/readme.md" ><img src="./images/answer.png" width="24px" height="24px" ></a> | 
 | 2. | Task 2 | AWS Certification | <a href="./materials/aws.md" ><img src="./images/aws.svg" width="24px" height="24px" ></a> | 
 | 3. | Assignment 1 | Data analysis using Google Sheets | <a href="./assignment/ass1.md" ><img src="./images/google-sheets.png" width="24px" height="24px" ></a> | 
 | 4. | Lab 1 | Understanding Your Data | <a href="./lab/lab1.md" ><img src="./images/python.png" width="24px" height="24px" ></a> | 
@@ -45,7 +45,7 @@ This course provides a basic fundamental of big data architecture and management
 
 ### 1. Data
 
-| No. | Content                                             | File |
+| No. | Content                                             | File | 
 |----: |----------------------------------------------------|------|
 | 1.   | Charting Your Path in Data and Machine Learning     | <a href="./materials/de_ds.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 | 2.   | Navigating the Data Science Landscape               | <a href="./materials/ds_landscape.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
