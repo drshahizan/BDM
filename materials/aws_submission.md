@@ -30,7 +30,7 @@ AWS Academy is a global program that offers educational institutions a comprehen
 | 3   | HAZEM TAHER OMRAN FENNEER              |
 | 4   | HUSSEIN YUSUF SHEIKH MOHAMED           |
 | 5   | ISMAIL MAEEN                           |
-| 6   | LEE SEOW MING THERESA                  |
+| 6   | LEE SEOW MING THERESA                  | <a href="https://www.credly.com/badges/6e1662da-e593-4e9d-9c34-8ed6392383d5/public_url"><img src="../images/badge1.png" width="24px" height="24px"></a> | <a href="https://www.credly.com/badges/ca29d6f8-7e6e-4d61-82a8-ceed0bbb60e9/public_url"><img src="../images/badge2.png" width="24px" height="24px"></a> | <a href="https://www.credly.com/badges/e7531144-119e-4684-b715-05e3ad943193/public_url"><img src="../images/badge3.png" width="24px" height="24px"></a>| <a href="https://www.credly.com/badges/25db0c84-70bc-493e-9342-7a2de49a6835/public_url"><img src="../images/nlp.png" width="24px" height="24px"></a>
 | 7   | LIU KAIYUAN                            |
 | 8   | LYE KAH HOOI                            |
 | 9   | LWANGA AKSAM                           |
