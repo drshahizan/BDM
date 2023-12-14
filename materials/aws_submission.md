@@ -34,26 +34,9 @@ AWS Academy Data Engineering is designed to help students learn about and get ha
 ### Machine Learning for Natural Language Processing
 AWS Academy Machine Learning for Natural Language Processing (NLP) is a follow-up course to AWS Academy Machine Learning Foundations. The course is at an intermediate technical level (similar to the AWS Academy Architecting, Operations, and Developing courses) and is appropriate for students who are pursuing careers that require machine learning (ML) knowledge.
 
-## New Free Training Courses & Free Badges!
-
-Now there are 10 training courses with badge assessments. Here's how to enroll:
-
-💡 The best investment you can make is an investment in yourself. I've prepared a list of free cloud courses that come with free assessments and digital badges.
-
-There is not a single page that summarizes how to enroll in different AWS badges, so here you go (all up-to-date) including the latest addition, Cloud Essentials:
-
-| No  | Training Course                     |                                                  Link                                                  |
-| --- | ----------------------------------- | :----------------------------------------------------------------------------------------------------: |
-| 1   | Cloud Essentials                    | <a href="https://bit.ly/awscloudess" ><img src="../images/aws.svg" width="24px" height="24px" ></a> |
-| 2   | Media & Entertainment               | <a href="https://bit.ly/awsmebadge" ><img src="../images/aws.svg" width="24px" height="24px" ></a>  |
-| 3   | Architecting                        | <a href="https://bit.ly/architect23" ><img src="../images/aws.svg" width="24px" height="24px" ></a> |
-| 4   | AWS for Games                       |   <a href="https://go.aws/3l6fYf7" ><img src="../images/aws.svg" width="24px" height="24px" ></a>   |
-| 5   | Serverless                          |   <a href="https://go.aws/3UZpFs0" ><img src="../images/aws.svg" width="24px" height="24px" ></a>   |
-| 6   | Object Storage                      |   <a href="https://go.aws/3JVneTS" ><img src="../images/aws.svg" width="24px" height="24px" ></a>   |
-| 7   | Block Storage                       |   <a href="https://go.aws/3JVneTS" ><img src="../images/aws.svg" width="24px" height="24px" ></a>   |
-| 8   | File Storage                        |   <a href="https://go.aws/3JVneTS" ><img src="../images/aws.svg" width="24px" height="24px" ></a>   |
-| 9   | Storage Data Migration              |   <a href="https://go.aws/3JVneTS" ><img src="../images/aws.svg" width="24px" height="24px" ></a>   |
-| 10  | Data Protection & Disaster Recovery |   <a href="https://go.aws/3JVneTS" ><img src="../images/aws.svg" width="24px" height="24px" ></a>   |
+| No  | Name  | Cloud Foundations | Cloud Architecting | Data Engineering | 
+| ---: | ------------- | :-------------: | :-------------: | :-------------: | 
+| 0   | ADAM WAFII BIN AZUAR                      | <a href="https://www.credly.com/badges/4bc350fe-4dac-48eb-8ffa-123835bacef4/public_url"><img src="../images/badge1.png" width="24px" height="24px"></a> | <a href="https://www.credly.com/badges/f0cceb63-764c-49a5-8358-45a1921fe550/public_url"><img src="../images/badge2.png" width="24px" height="24px"></a> | <a href="https://www.credly.com/badges/8dfc05e1-c725-4c91-9bbc-8b74e4655b9b/public_url"><img src="../images/badge3.png" width="24px" height="24px"></a>|
 
 
 ## Contribution 🛠️
