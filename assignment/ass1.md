@@ -26,18 +26,7 @@ Google Sheets is a versatile and user-friendly tool for data analysis, enabling 
 | 2.  | Sales performance | <a href="../images/Ass1b.pdf" ><img src="../images/document.png" width="24px" height="24px"></a> | <a href="https://raw.githubusercontent.com/drshahizan/dataset/main/GS/Dataset2.txt" ><img src="../images/dataset.png" width="24px" height="24px"></a> |
 
 ### 2. Team Collaboration
-🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1WJWrzrGmfC0z5CmTYCGmlkKa7_byYOoxlU0MTg7pRrk/edit#gid=1112504187). Please update your group information:
-
-| No | Group |  File |
-| -----: |  ------ | :-----: | 
-| 0. | Sample  |  <a href="submission/ass1/Sample/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
-| 1. |  F4 |  <a href="submission/ass1/F4/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
-| 2. |  Truth Archive |  <a href="submission/ass1/Truth_Archive" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
-| 3. |  RAM |  <a href="submission/ass1/RAM" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
-| 4. |  Avengers |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
-| 5. |  Ayam Rendang |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
-| 6. | KicapSambal | <a href="submission/ass1/KicapSambal/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a>
-| 7. | Theboys | <a href="submission/ass1/TheBoys/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a>
+🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1WJWrzrGmfC0z5CmTYCGmlkKa7_byYOoxlU0MTg7pRrk/edit#gid=1112504187). 
 
 
 ### 3. Academic Integrity
@@ -62,6 +51,19 @@ assignment/your_group/
     └── 📄 google_sheets
 
 ```
+
+## Submission
+
+| No | Group |  File |
+| -----: |  ------ | :-----: | 
+| 0. | Sample  |  <a href="submission/ass1/Sample/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 1. |  F4 |  <a href="submission/ass1/F4/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 2. |  Truth Archive |  <a href="submission/ass1/Truth_Archive" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 3. |  RAM |  <a href="submission/ass1/RAM" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 4. |  Avengers |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 5. |  Ayam Rendang |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 6. | KicapSambal | <a href="submission/ass1/KicapSambal/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a>
+| 7. | Theboys | <a href="submission/ass1/TheBoys/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a>
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
