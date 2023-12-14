@@ -25,6 +25,33 @@ AWS Academy is a global program that offers educational institutions a comprehen
 | No  | Name  | Cloud Foundations | Cloud Architecting | Data Engineering | 
 | ---: | ------------- | :-------------: | :-------------: | :-------------: | 
 | 0   | ADAM WAFII BIN AZUAR                      | <a href="https://www.credly.com/badges/4bc350fe-4dac-48eb-8ffa-123835bacef4/public_url"><img src="../images/badge1.png" width="24px" height="24px"></a> | <a href="https://www.credly.com/badges/f0cceb63-764c-49a5-8358-45a1921fe550/public_url"><img src="../images/badge2.png" width="24px" height="24px"></a> | <a href="https://www.credly.com/badges/8dfc05e1-c725-4c91-9bbc-8b74e4655b9b/public_url"><img src="../images/badge3.png" width="24px" height="24px"></a>|
+| 1   | AYAZ RAHMAN BHUIYAN                    |
+| 2   | BAKUNGA BRONSON                        |
+| 3   | HAZEM TAHER OMRAN FENNEER              |
+| 4   | HUSSEIN YUSUF SHEIKH MOHAMED           |
+| 5   | ISMAIL MAEEN                           |
+| 6   | LEE SEOW MING THERESA                  |
+| 7   | LIU KAIYUAN                            |
+| 8   | LYE KAH HOOI                            |
+| 9   | LWANGA AKSAM                           |
+| 10  | MOHAMMED RAZA ASFAK CHIDIMAR           |
+| 11  | MOHD NOR BIN MOHIDIN                   |
+| 12  | MUSAB IBNE AHMAD                        |
+| 13  | MUSTAFA GHAZI TALAB                    |
+| 14  | MUHAMMAD ABUBAKAR SADIQ                |
+| 15  | NABILA HUSNA BINTI ROSLI               |
+| 16  | NIAN CONG                               |
+| 17  | NUR AZIMAH BINTI MOHD SALLEH           |
+| 18  | NUR SHAHIRAH BINTI JAILANI             |
+| 19  | NURUL WAHIEDA BINTI MUHAMMAD FARID SELLEKUMAR  |
+| 20  | PANG CHERN HONG                        |
+| 21  | RANJEET A/L THIAGARAJAN                |
+| 22  | SHIVANESH A/L SIVAKUMAR                |
+| 23  | SITI NORAFIZAH BINTI AB AZIZ           |
+| 24  | THANEATHARRAN A/L SANTHARASEKARAN      |
+| 25  | THONG YEE MOON                         |
+| 26  | WU JIAMING                             |
+| 27  | ZUHAYR ARIF BIN ZAKARIA                |
 
 
 ## Contribution 🛠️
