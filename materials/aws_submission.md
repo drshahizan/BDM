@@ -25,7 +25,7 @@ AWS Academy is a global program that offers educational institutions a comprehen
 | No  | Name  | Cloud Foundations | Cloud Architecting | Data Engineering | ML for NLP |
 | ---: | ------------- | :-------------: | :-------------: | :-------------: | :-------------: | 
 | 0   | ADAM WAFII BIN AZUAR                      | <a href="https://www.credly.com/badges/4bc350fe-4dac-48eb-8ffa-123835bacef4/public_url"><img src="../images/badge1.png" width="24px" height="24px"></a> | <a href="https://www.credly.com/badges/f0cceb63-764c-49a5-8358-45a1921fe550/public_url"><img src="../images/badge2.png" width="24px" height="24px"></a> | <a href="https://www.credly.com/badges/8dfc05e1-c725-4c91-9bbc-8b74e4655b9b/public_url"><img src="../images/badge3.png" width="24px" height="24px"></a>| <a href="https://www.credly.com/badges/8dfc05e1-c725-4c91-9bbc-8b74e4655b9b/public_url"><img src="../images/nlp.png" width="24px" height="24px"></a>|
-| 1   | AYAZ RAHMAN BHUIYAN                    |
+| 1   | AYAZ RAHMAN BHUIYAN                    |  <a href="https://www.credly.com/badges/8d41c522-494b-4861-b224-853fb8ba962b/public_url"><img src="../images/badge1.png" width="24px" height="24px"></a>
 | 2   | BAKUNGA BRONSON                        |
 | 3   | HAZEM TAHER OMRAN FENNEER              |
 | 4   | HUSSEIN YUSUF SHEIKH MOHAMED           |
