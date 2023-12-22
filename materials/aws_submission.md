@@ -49,7 +49,7 @@ AWS Academy is a global program that offers educational institutions a comprehen
 | 22  | SHIVANESH A/L SIVAKUMAR                |
 | 23  | SITI NORAFIZAH BINTI AB AZIZ           |
 | 24  | THANEATHARRAN A/L SANTHARASEKARAN      |
-| 25  | THONG YEE MOON                         |<a href="https://www.credly.com/badges/7536ce85-94d5-43eb-a022-7e2fff945c13/public_url"><img src="../images/badge1.png" width="24px" height="24px"></a> |
+| 25  | THONG YEE MOON                         |<a href="https://www.credly.com/badges/7536ce85-94d5-43eb-a022-7e2fff945c13/public_url"><img src="../images/badge1.png" width="24px" height="24px"></a> |<a href="https://www.credly.com/badges/52f71211-2451-4224-a006-e57fc05e46fa/public_url"><img src="../images/badge2.png" width="24px" height="24px"></a>
 | 26  | WU JIAMING                             |
 | 27  | ZUHAYR ARIF BIN ZAKARIA                |
 
