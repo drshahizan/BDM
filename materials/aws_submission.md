@@ -39,7 +39,7 @@ AWS Academy is a global program that offers educational institutions a comprehen
 | 12  | MUSAB IBNE AHMAD                        |
 | 13  | MUSTAFA GHAZI TALAB                    |<a href="https://awsacademy.instructure.com/courses/60317" ><img src="../images/aws.svg" width="24px" height="24px" ></a> |
 | 14  | MUHAMMAD ABUBAKAR SADIQ                |
-| 15  | NABILA HUSNA BINTI ROSLI               |
+| 15  | NABILA HUSNA BINTI ROSLI               |<a href="https://www.credly.com/badges/5b1ab9ba-d8e2-4b9a-9f1e-2a9a7229b13c/public_url"><img src="../images/badge1.png" width="24px" height="24px"></a> | <a href="https://www.credly.com/badges/d6fcb886-41da-40d0-a9b9-ecfb17303c08/public_url"><img src="../images/badge2.png" width="24px" height="24px"></a> | <a href="https://www.credly.com/badges/6439ee26-ff8a-41f9-9f8c-923a80518874/public_url"><img src="../images/badge3.png" width="24px" height="24px"></a>| <a href="https://www.credly.com/badges/6571ee44-19a4-481c-9bbd-c76175e68933/public_url"><img src="../images/nlp.png" width="24px" height="24px"></a>|
 | 16  | NIAN CONG                               |
 | 17  | NUR AZIMAH BINTI MOHD SALLEH           |
 | 18  | NUR SHAHIRAH BINTI JAILANI             |
