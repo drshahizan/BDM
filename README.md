@@ -55,6 +55,7 @@ This course provides a basic fundamental of big data architecture and management
 | 1.   | Charting Your Path in Data and Machine Learning     | <a href="./materials/de_ds.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 | 2.   | Navigating the Data Science Landscape               | <a href="./materials/ds_landscape.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 | 3.   | Database Types                                      | <a href="./materials/db_type.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 3a.  | [NoSQL Database](https://github.com/drshahizan/special-topic-data-engineering/tree/main/materials/mongodb)|<a href="https://github.com/drshahizan/special-topic-data-engineering/blob/main/materials/notes/mod3.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a>| 
 | 4.   | Navigating the Database Landscape | <a href="./materials/choose_db.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 | 5.   | Data Management              | <a href="./materials/data_mng.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 | 6.   | The Data Journey: From Raw to Refined               | <a href="./materials/data_journey.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
