@@ -34,7 +34,7 @@ AWS Academy is a global program that offers educational institutions a comprehen
 | 7   | LIU KAIYUAN                            |
 | 8   | LYE KAH HOOI                            |
 | 9   | LWANGA AKSAM                           |
-| 10  | MOHAMMED RAZA ASFAK CHIDIMAR           |
+| 10  | MOHAMMED RAZA ASFAK CHIDIMAR           |<a href="https://www.credly.com/badges/2fe18dc7-c99e-4ab5-8ac0-2d047c1a1165/public_url"><img src="../images/badge1.png" width="24px" height="24px"></a> | <a href="https://www.credly.com/badges/ca29d6f8-7e6e-4d61-82a8-ceed0bbb60e9/public_url"><img src="../images/badge2.png" width="24px" height="24px"></a> | <a href="https://www.credly.com/badges/e7531144-119e-4684-b715-05e3ad943193/public_url"><img src="../images/badge3.png" width="24px" height="24px"></a>| <a href="https://www.credly.com/badges/25db0c84-70bc-493e-9342-7a2de49a6835/public_url"><img src="../images/nlp.png" width="24px" height="24px"></a>
 | 11  | MOHD NOR BIN MOHIDIN                   |
 | 12  | MUSAB IBNE AHMAD                        |
 | 13  | MUSTAFA GHAZI TALAB                    |<a href="https://awsacademy.instructure.com/courses/60317" ><img src="../images/aws.svg" width="24px" height="24px" ></a> |
