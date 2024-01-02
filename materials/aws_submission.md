@@ -49,7 +49,7 @@ AWS Academy is a global program that offers educational institutions a comprehen
 | 22  | SHIVANESH A/L SIVAKUMAR                |
 | 23  | SITI NORAFIZAH BINTI AB AZIZ           |
 | 24  | THANEATHARRAN A/L SANTHARASEKARAN      |<a href="https://www.credly.com/earner/earned/badge/18c9d65f-53cc-4e96-9553-13f6030d6267"><img src="../images/badge1.png" width="24px" height="24px"></a> |
-| 25  | THONG YEE MOON                         |<a href="https://www.credly.com/badges/7536ce85-94d5-43eb-a022-7e2fff945c13/public_url"><img src="../images/badge1.png" width="24px" height="24px"></a> |<a href="https://www.credly.com/badges/52f71211-2451-4224-a006-e57fc05e46fa/public_url"><img src="../images/badge2.png" width="24px" height="24px"></a> | <a href="https://www.credly.com/badges/b1680c97-bc4a-435a-90d7-259d5fd783c8/public_url"><img src="../images/badge3.png" width="24px" height="24px"></a>| <a href=""><img src="../images/nlp.png" width="24px" height="24px"></a>|
+| 25  | THONG YEE MOON                         |<a href="https://www.credly.com/badges/7536ce85-94d5-43eb-a022-7e2fff945c13/public_url"><img src="../images/badge1.png" width="24px" height="24px"></a> |<a href="https://www.credly.com/badges/52f71211-2451-4224-a006-e57fc05e46fa/public_url"><img src="../images/badge2.png" width="24px" height="24px"></a> | <a href="https://www.credly.com/badges/b1680c97-bc4a-435a-90d7-259d5fd783c8/public_url"><img src="../images/badge3.png" width="24px" height="24px"></a>| <a href="https://www.credly.com/badges/ebb1cb34-1772-4622-9da1-5afdd0c51eb1/public_url"><img src="../images/nlp.png" width="24px" height="24px"></a>|
 | 26  | WU JIAMING                             |
 | 27  | ZUHAYR ARIF BIN ZAKARIA                |
 
