@@ -13,6 +13,7 @@
 | Mohammed Raza              |MCS231004      |Data Processing & Data Visualization      |
 | Ayaz Rahman Bhuiyan         |MCS231023      |Data Processing & Documentation      |
 | Musab Ibne Ahmad              |MCS231017      |Data Processing & Documentation      |
+| Hussein Yusuf Sheikh Mohamed              |MCS231024      |Data Processing & Data Visualization      |
 
 ### 📂 Folder content:
 * [📖 Report 1b](https://docs.google.com/document/d/1TI7hP7p4yoV7PtJU7C2Nqg3JuGoY6kItTe2L6YjHn-4/edit?usp=sharing)
