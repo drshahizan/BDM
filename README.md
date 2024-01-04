@@ -42,9 +42,10 @@ This course provides a basic fundamental of big data architecture and management
 | 3. | Lab 3 | Feature Engineering | <a href="https://github.com/drshahizan/Python_EDA/blob/main/lab/fe/bdm/readme.md" ><img src="./images/colab.png" width="24px" height="24px" ></a> | 
 
 ## 🔥 Important things
-1. [Essential Preparations for a Successful Start in BDM Class](./materials/essentials.md)
-2. [Student Information](student.md)
-3. [Course Information](./images/L1_BigDataManagement.pdf)
+1. [How to Become a Data Engineer in 2024]()
+2. [Essential Preparations for a Successful Start in BDM Class](./materials/essentials.md)
+3. [Student Information](student.md)
+4. [Course Information](./images/L1_BigDataManagement.pdf)
 
 ## Notes
 
