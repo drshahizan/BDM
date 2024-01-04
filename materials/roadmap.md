@@ -9,6 +9,10 @@
 
 # How to Become a Data Engineer in 2024
 
+<p align="center">
+<img src="../images/roadmap_de.gif"  height="700" />
+</p>
+
 ## Step 1: Learn a programming language
 
 Data engineers need to know how to code in at least one programming language, such as Python, Java, or Scala. These languages are used to create and maintain data pipelines, build data models, and do other data engineering tasks. You can learn these languages through online courses, books, or tutorials.
