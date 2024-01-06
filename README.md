@@ -21,7 +21,7 @@ This course provides a basic fundamental of big data architecture and management
 
 ## Assignment
 
-[📄👍**Turnitin Report**](./materials/plagiarism.md)
+📄👍 [**Turnitin Report**](./materials/plagiarism.md)
 
 | No. | Activity | Topic | File | Submission |
 | :-----: | ------ | ------ | :-----: | :-----: | 
