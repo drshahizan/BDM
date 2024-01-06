@@ -31,12 +31,11 @@ To submit your project report in Turnitin, you need to follow these steps:
 </p>
    
 4. Select the **Assignment** you want to submit from the drop-down menu. Make sure you choose the correct one according to your project topic and group number. 
-5. Click on the **Submit** button and upload your project report file. Use your **group name** as the file name, such as `Ass1_F4.pdf`.
-6. Wait for the confirmation message and the digital receipt. You can also view your Similarity Report and AI plagiarism percentage by clicking on the **View** button.
+5. Click on the **Submit** button and upload your project report file. Use your **group name** as the file name, such as `Ass1_KicapSambal.pdf`. You only need to send the report. There is no need to submit source code *.ipynb.
+6. Wait for the confirmation message and the digital receipt. You can also view your Similarity Report percentage by clicking on the **View** button.
+7. You are allowed to resubmit your project report up to three times and get immediate feedback from Turnitin. After the third attempt, you will have to wait 24 hours before you can resubmit and get a new Similarity Report. ⏳
 
 I hope this clarifies the submission process for your project. If you have any other questions, please let me know. 😊
-
-You are allowed to resubmit your project report up to three times and get immediate feedback from Turnitin. After the third attempt, you will have to wait 24 hours before you can resubmit and get a new Similarity Report. ⏳
 
 # Tips for Writing a Good Project Report ✍️👏
 
