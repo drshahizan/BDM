@@ -11,6 +11,8 @@
 
 Plagiarism is the act of copying or using someone else's work or ideas without proper citation or acknowledgment. Plagiarism is considered a serious academic offense and can result in penalties such as failing grades, suspension, or even expulsion. 😱
 
+The plagiarism percentage for the report must be less than **20%**, while the AI plagiarism percentage must be **0%**.
+
 To avoid plagiarism, you must give credit to the original sources of information, ideas, or words that you use in your project report. You can do this by using quotation marks, paraphrasing, summarizing, or citing the sources using a standard format such as APA, MLA, or Chicago. 📚
 
 # Turnitin Report 📄👍
