@@ -20,6 +20,9 @@ This course provides a basic fundamental of big data architecture and management
 3. Discuss current technology that support for sustainability of the big data platform ecosystem.
 
 ## Assignment
+
+[📄👍Turnitin Report ](https://github.com/drshahizan/BDM/blob/main/materials/plagiarism.md)
+
 | No. | Activity | Topic | File | Submission |
 | :-----: | ------ | ------ | :-----: | :-----: | 
 | 1. | Task 1 | Portfolio Creation | <a href="./portfolio/readme.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | <a href="https://github.com/drshahizan/BDM/blob/main/student.md" ><img src="./images/answer.png" width="24px" height="24px" ></a> | <a href="https://github.com/drshahizan/HPDP/blob/main/materials/aws_submission.md" ><img src="./images/badge3.png" width="24px" height="24px" ></a> |
