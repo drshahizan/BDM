@@ -56,14 +56,14 @@ assignment/your_group/
 
 | No | Group |  File | AI |
 | -----: |  ------ | :-----: | -----: | 
-| 0. | Sample  |  <a href="submission/ass1/Sample/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 100 |
+| 0. | Sample  |  <a href="submission/ass1/Sample/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 0 |
 | 1. |  F4 |  <a href="submission/ass1/F4/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
 | 2. |  Truth Archive |  <a href="submission/ass1/Truth_Archive" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 12 |
 | 3. |  RAM |  <a href="submission/ass1/RAM" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
-| 4. |  Avengers |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 4. |  Avengers |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 37 |
 | 5. |  Ayam Rendang |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 0 |
 | 6. | KicapSambal | <a href="submission/ass1/KicapSambal/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a>
-| 7. | Theboys | <a href="submission/ass1/TheBoys/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a>
+| 7. | Theboys | <a href="submission/ass1/TheBoys/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a>| 0 |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
