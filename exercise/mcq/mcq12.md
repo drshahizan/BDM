@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Cloud Technology
+# Comparison between libraries (big data applications)	
 
 ## Instructions
 - Please use the [MCQ template](temp_mcq.md).
