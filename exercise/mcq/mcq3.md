@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Big Data Processing and Technology
+# Relational Database (RDBMS)
 
 ## Instructions
 - Please use the [MCQ template](temp_mcq.md).
