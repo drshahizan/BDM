@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Cloud Technology
+# Data analysis using Google Sheets	
 
 ## Instructions
 - Please use the [MCQ template](temp_mcq.md).
