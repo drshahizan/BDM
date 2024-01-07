@@ -13,7 +13,7 @@ Don't forget to hit the :star: if you like this repo.
 ## Multiple-choice questions
 | Set | Topic  | File | Answer |
 | :-----: |  ------ | :-----: | :-----: |
-| 1 | Introduction to Big Data and Big Data Analytics  | <a href="./uml/mcq/mcq1.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="./uml/submission/sec01/drshahizan/mcq1.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 1 | Introduction to Big Data and Big Data Analytics  | <a href="./mcq/mcq1.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
 
 ## Structured question
 | Set | Topic |  Title |File | Answer |
