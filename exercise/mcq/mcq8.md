@@ -27,7 +27,6 @@ Don't forget to hit the :star: if you like this repo.
 ```
 
 ## Multiple Choice Questions																																					
-Certainly! Here are the 25 multiple-choice questions related to exploratory data analysis (EDA) with Python code, without the answers:
 
 1. What is the main challenge of EDA for big data?
    - A) Data quality and consistency
