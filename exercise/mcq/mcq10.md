@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Cloud Technology
+# Automated Feature Engineering tools
 
 ## Instructions
 - Please use the [MCQ template](temp_mcq.md).
