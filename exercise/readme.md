@@ -18,6 +18,13 @@ Don't forget to hit the :star: if you like this repo.
 | 3 | Relational Database (RDBMS)  | <a href="./mcq/mcq3.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
 | 4 | No SQL Database  | <a href="./mcq/mcq4.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
 | 5 | Cloud Technology  | <a href="./mcq/mcq5.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 6 | Data analysis using Google Sheets	  | <a href="./mcq/mcq6.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 7 | Exploratory data analysis	  | <a href="./mcq/mcq7.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 8 | EDA Big Data	  | <a href="./mcq/mcq8.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 9 | Feature Engineering	  | <a href="./mcq/mcq9.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 10 | Automated Feature Engineering tools | <a href="./mcq/mcq10.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 11 | Mastering Big Data Handling | <a href="./mcq/mcq11.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 12 | Comparison between libraries (big data applications) | <a href="./mcq/mcq12.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
 
 ## Structured question
 | Set | Topic |  Title |File | Answer |
@@ -25,7 +32,6 @@ Don't forget to hit the :star: if you like this repo.
 | 1 | Use case | Hospital Management System | <a href="./uml/uc/uc1.md" ><img src="../images/ucase.png" width="24px" height="24px" ></a> |
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
