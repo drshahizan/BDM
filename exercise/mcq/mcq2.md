@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Introduction to Big Data and Big Data Analytics
+# Big Data Processing and Technology
 
 ## Instructions
 - Please use the [MCQ template](temp_mcq.md).
