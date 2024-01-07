@@ -7,11 +7,11 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Big Data Processing and Technology
+# Cloud Technology
 
 ## Instructions
 - Please use the [MCQ template](temp_mcq.md).
-- Please answer the following Multiple Choice Questions. You are required to submit your answer file in the submission folder. Within the [`submission`](../submission/) folder, create a folder with your GitHub ID. Name the file as `mcq3.md`.
+- Please answer the following Multiple Choice Questions. You are required to submit your answer file in the submission folder. Within the [`submission`](../submission/) folder, create a folder with your GitHub ID. Name the file as `mcq5.md`.
 - [Answer](https://github.com/drshahizan/)
 
 ### Folder structure
