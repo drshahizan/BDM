@@ -27,11 +27,7 @@ Don't forget to hit the :star: if you like this repo.
 ```
 
 
-## Multiple Choice Questions																																										
-Certainly! Here are the multiple-choice questions formatted in Markdown with "-" in front of each option and without the **Answer: **:
-
-```markdown
-# Multiple Choice Questions
+## Multiple Choice Questions																																					
 
 1. What are the five V’s that characterize big data?
    - A) Volume, velocity, variety, variability, and value
