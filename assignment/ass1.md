@@ -57,7 +57,7 @@ assignment/your_group/
 | No | Group |  File | AI |
 | -----: |  ------ | :-----: | -----: | 
 | 0. | Sample  |  <a href="submission/ass1/Sample/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 0 |
-| 1. |  F4 |  <a href="submission/ass1/F4/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 1. |  F4 |  <a href="submission/ass1/F4/readme.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 0 |
 | 2. |  Truth Archive |  <a href="submission/ass1/Truth_Archive" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 12 |
 | 3. |  RAM |  <a href="submission/ass1/RAM" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
 | 4. |  Avengers |  <a href="submission/ass1/" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 37 |
