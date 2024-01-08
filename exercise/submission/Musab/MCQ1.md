@@ -10,9 +10,9 @@ Don't forget to hit the :star: if you like this repo.
 
 ## MCQ Set:
 
-**Name:**
+**Name: Musab Ibne Ahmad**
 
-**Matrix No:**
+**Matrix No: MCS231017**
 
 ## Answer
 1. B
