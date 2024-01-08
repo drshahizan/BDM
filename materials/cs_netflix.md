@@ -60,13 +60,6 @@ Ever wondered about the tech wizardry that powers your binge-watching adventures
 - Spinnaker: A CD tool that enables automation and orchestration of software delivery processes, such as deployment, rollback, and canary.
 - Atlas: A monitoring tool that enables collection and visualization of metrics, such as performance, availability, and utilization..
 
-Source: Conversation with Bing, 08/01/2024
-(1) Netflix’s Tech Stack Secrets: A Closer Look - gaper.io. https://gaper.io/netflix-tech-stack-secrets/.
-(2) Netflix - Netflix Tech Stack - StackShare. https://stackshare.io/netflix/netflix.
-(3) Netflix Tech Stack: Unraveling Netflix’s Cutting-Edge Tech Stack. https://blogopost.com/netflix-tech-stack/.
-(4) NETFLIX — TECHSTACK. Netflix is the world’s leading ... - Medium. https://medium.com/@divyag3016/netflix-techstack-72462d2fd72b.
-(5) Netflix - Tech Stack, Apps, Patents & Trademarks - Crunchbase. https://www.crunchbase.com/organization/netflix/technology.
-
 credit: @chandreshdesai
 
 ## Contribution 🛠️
