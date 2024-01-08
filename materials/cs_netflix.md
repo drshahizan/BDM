@@ -13,23 +13,59 @@
 <img src="../images/netflix.gif"  height="800" />
 </p>
 
-Ever wondered about the tech wizardry that powers your binge-watching adventures on Netflix? 🚀 Here's a sneak peek into the cutting-edge tech stack that ensures a seamless streaming experience for millions around the globe!
+Ever wondered about the tech wizardry that powers your binge-watching adventures on Netflix? 🚀 Netflix is the world's leading streaming service, with over 247 million paid subscribers in more than 190 countries¹. To deliver seamless and personalized entertainment experiences to millions of users, Netflix relies on a cutting-edge tech stack that covers various aspects of computing, storage, networking, databases, analytics, application development, security, and more. Here's a sneak peek into the core technologies and frameworks that underpin Netflix's digital empire, and how they work together to create a captivating and reliable streaming service.
 
-📱 **Mobile & Web:** Swift and Kotlin weave the magic for native mobile apps, while the versatile React framework creates a captivating web experience.
+📱 **Mobile & Web:** Netflix offers native mobile apps for iOS and Android devices, as well as a unified web experience for desktop and laptop users. The mobile apps are developed using Swift for iOS and Kotlin for Android, two modern and expressive programming languages that offer high performance and readability. The web app is built using React, a versatile and popular JavaScript framework that enables fast and interactive user interfaces.
 
-🌐 **Frontend/Server Communication:** Netflix relies on GraphQL to enhance communication efficiency between frontend and servers, resulting in a smoother user journey.
+🌐 **Frontend/Server Communication:** Netflix uses GraphQL, a query language and runtime for APIs, to enhance communication efficiency between frontend and servers. GraphQL allows the frontend to specify the exact data it needs from the server, reducing bandwidth and improving loading times. GraphQL also enables the frontend to fetch data from multiple sources with a single request, simplifying the data fetching logic.
 
-🔨 **Backend Services:** ZUUL, Eureka, and the Spring Boot framework form the robust backbone of Netflix's backend, ensuring reliability and scalability.
+🔨 **Backend Services:** Netflix adopts a microservices architecture, breaking its functionalities into independent and loosely coupled services, each with its own responsibility and domain. This architecture allows Netflix to develop, test, and deploy services rapidly and independently, while improving system resiliency and scalability. Some of the key technologies and frameworks that Netflix uses for its backend services are:
 
-💾 **Databases:** Netflix's data storage prowess includes EV cache, Cassandra, CockroachDB, and more, ensuring data accessibility and resilience.
+- ZUUL: A gateway service that provides dynamic routing, monitoring, resiliency, and security for the incoming requests.
+- Eureka: A service discovery tool that helps the services find and communicate with each other.
+- Spring Boot: A framework that simplifies the creation and configuration of Java-based applications.
 
-📨 **Messaging/Streaming:** Real-time messaging and streaming are powered by Apache Kafka and Fink, ensuring seamless content delivery.
+💾 **Databases:** Netflix uses a variety of data storage solutions to manage enormous databases that contain user profiles, content libraries, and other information. Depending on the data type and use case, Netflix chooses the most suitable database for each service. Some of the databases that Netflix uses are:
 
-🎥 **Video Storage:** S3 and Open Connect work behind the scenes to store and deliver Netflix's vast library of video content to your screens.
+- EVCache: A distributed in-memory cache that provides fast and consistent access to frequently used data, such as user preferences and recommendations.
+- Cassandra: A distributed NoSQL database that provides high availability and scalability for large volumes of structured and semi-structured data, such as user profiles and viewing histories.
+- CockroachDB: A distributed SQL database that provides strong consistency and resilience for transactional data, such as billing and subscriptions.
+- S3: A cloud object storage service that provides durability and availability for unstructured data, such as images and videos.
 
-📊 **Data Processing:** The magic of data processing unfolds through Flink and Spark, with Tableau for visualization, while Redshift processes structured data warehouse information.
+📨 **Messaging/Streaming:** Netflix relies on real-time messaging and streaming technologies to deliver content to users and communicate between services. Some of the technologies that Netflix uses for messaging and streaming are:
 
-🛠️ **CI/CD:** Netflix's CI/CD pipeline is a well-oiled machine, thanks to tools like JIRA, Confluence, PagerDuty, Jenkins, Gradle, Chaos Monkey, Spinnaker, Altas, and more.
+- Apache Kafka: A distributed streaming platform that enables high-throughput and low-latency data processing and delivery, such as video streaming and event sourcing.
+- Apache Flink: A distributed stream processing framework that enables stateful and complex computations on streaming data, such as personalization and analytics.
+
+🎥 **Video Storage:** Netflix has a vast library of video content, ranging from movies and TV shows to documentaries and originals. To store and deliver this content to users, Netflix uses two main technologies:
+
+- S3: A cloud object storage service that provides durability and availability for unstructured data, such as images and videos. Netflix uses S3 to store the original and encoded versions of its video content, as well as the metadata and subtitles.
+- Open Connect: A content delivery network (CDN) that consists of thousands of servers located in internet exchange points (IXPs) around the world. Netflix uses Open Connect to cache and serve its video content to users, reducing latency and bandwidth costs.
+
+📊 **Data Processing:** Netflix generates and collects a massive amount of data from its users and services, such as viewing habits, ratings, feedback, errors, and performance metrics. To process and analyze this data, Netflix uses various technologies and frameworks, such as:
+
+- Flink: A distributed stream processing framework that enables stateful and complex computations on streaming data, such as personalization and analytics.
+- Spark: A distributed data processing framework that enables batch and stream processing on large-scale data, such as machine learning and ETL.
+- Tableau: A data visualization tool that enables interactive and graphical representation of data, such as dashboards and reports.
+- Redshift: A cloud data warehouse that enables fast and scalable analysis of structured and semi-structured data, such as business intelligence and reporting.
+
+🛠️ **CI/CD:** Netflix follows a continuous integration and continuous delivery (CI/CD) approach, which enables frequent and reliable delivery of software updates to users. To support this approach, Netflix uses various tools and practices, such as:
+
+- JIRA: A project management tool that enables tracking and collaboration of software development tasks, such as issues, bugs, and features.
+- Confluence: A documentation tool that enables sharing and organization of information, such as requirements, designs, and best practices.
+- PagerDuty: An incident response tool that enables alerting and escalation of critical issues, such as outages, errors, and failures.
+- Jenkins: A CI tool that enables automation and orchestration of software development processes, such as building, testing, and deploying.
+- Gradle: A build tool that enables configuration and execution of software builds, such as dependencies, tasks, and plugins.
+- Chaos Monkey: A resiliency tool that randomly terminates instances in production, simulating failures and testing the system's ability to recover.
+- Spinnaker: A CD tool that enables automation and orchestration of software delivery processes, such as deployment, rollback, and canary.
+- Atlas: A monitoring tool that enables collection and visualization of metrics, such as performance, availability, and utilization..
+
+Source: Conversation with Bing, 08/01/2024
+(1) Netflix’s Tech Stack Secrets: A Closer Look - gaper.io. https://gaper.io/netflix-tech-stack-secrets/.
+(2) Netflix - Netflix Tech Stack - StackShare. https://stackshare.io/netflix/netflix.
+(3) Netflix Tech Stack: Unraveling Netflix’s Cutting-Edge Tech Stack. https://blogopost.com/netflix-tech-stack/.
+(4) NETFLIX — TECHSTACK. Netflix is the world’s leading ... - Medium. https://medium.com/@divyag3016/netflix-techstack-72462d2fd72b.
+(5) Netflix - Tech Stack, Apps, Patents & Trademarks - Crunchbase. https://www.crunchbase.com/organization/netflix/technology.
 
 credit: @chandreshdesai
 
@@ -40,6 +76,3 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
-
-
