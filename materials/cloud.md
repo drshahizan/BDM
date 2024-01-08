@@ -7,9 +7,8 @@
 
 🌟 Hit star button to save this repo in your profile
 
-Sure, I can help you revise and add more description to your cloud services comparison cheatsheet. Here is my improved version:
 
-# Cloud Services Comparison Cheatsheet: ☁️
+# Cloud Services Comparison Cheatsheet ☁️
 
 <p align="center">
 <img src="/images/cloud.gif"  height="800" />
