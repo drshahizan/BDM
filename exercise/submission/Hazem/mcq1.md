@@ -16,7 +16,7 @@ Don't forget to hit the :star: if you like this repo.
 **Matrix No:** MCS231019
 
 ## Answer
-1. A
+1. B
 2. A
 3. A
 4. A
