@@ -29,7 +29,7 @@ Don't forget to hit the :star: if you like this repo.
 ## Structured question
 | Set | Topic   |File | 
 | :-----: |  ------  | :-----: | 
-| 1 | Exploratory data analysis  | <a href="./uml/uc/uc1.md" ><img src="../images/ucase.png" width="24px" height="24px" ></a> |
+| 1 | Exploratory data analysis  | <a href="./mcq/mcq1.md" ><img src="../images/question.svg" width="24px" height="24px" ></a>  |
 
 ## Contribution 🛠️
 
