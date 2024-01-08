@@ -8,11 +8,11 @@
 🌟 Hit star button to save this repo in your profile
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set:
+## MCQ Set: Set 1
 
-**Name:**
+**Name:** Shivanesh A/L Sivakumar
 
-**Matrix No:**
+**Matrix No:** MCS231014
 
 ## Answer
 1.
