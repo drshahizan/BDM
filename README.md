@@ -9,7 +9,10 @@
 
 # Big Data Management
 
-![BDM](./images/BDM.jpg)
+
+<p align="center">
+<img src="/images/BDM.jpg"  height="400" />
+</p>
 
 ## Course Synopsis
 This course provides a basic fundamental of big data architecture and management.  Students will learn the big data processes and the current big data technologies that are available. Further, students will be exposed to the big data platform ecosystem for big data manipulation. The big data management will be explored for the best practice in managing and manipulating large amount of data. At the end of the course, students should be able to understand the architecture and management of big data and also can develop simple application of big data handling using particular platform in assignment.
