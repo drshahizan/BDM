@@ -15,21 +15,21 @@ Don't forget to hit the :star: if you like this repo.
 **Matrix No: MCS231011**
 
 ## Answer
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
+1. B
+2. A
+3. A
+4. A
+5. A
+6. A
+7. D
+8. 
+9. A
+10. B
+11. A
+12. B
+13. C
+14. D
+15. 
 16.
 17.
 18.
