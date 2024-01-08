@@ -10,7 +10,7 @@
 # Cloud Services Comparison Cheatsheet: ☁️
 
 <p align="center">
-<img src="/images/cloud.gif"  height="600" />
+<img src="/images/cloud.gif"  height="800" />
 </p>
 
 
