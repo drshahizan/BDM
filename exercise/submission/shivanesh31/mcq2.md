@@ -8,7 +8,7 @@
 🌟 Hit star button to save this repo in your profile
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set: Set 1
+## MCQ Set: Set 2
 
 **Name:** Shivanesh A/L Sivakumar
 
