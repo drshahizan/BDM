@@ -22,156 +22,156 @@
 
 ## Multiple Choice Questions
 
-[1. What is the term used to describe the tools and software utilities designed for analyzing, processing, and extracting information from large sets of extremely complex structures and extensive data sets, which traditional systems find challenging to manage?
+1. What is the acronym for Relational Database Management System?
+   - A) RDBMS ✅ Correct Answer
+   - B) RDMS
+   - C) RDBS
+   - D) RBMS
 
-A) Big data technology ✅ Correct Answer 
-B) Big data analytics
-C) Big data science
-D) Big data engineering
-2. What are the two key approaches for big data processing?
+2. What is the basic unit of data storage in a relational database?
+   - A) Table
+   - B) Row
+   - C) Column
+   - D) Cell ✅ Correct Answer
 
-A) Batch processing and stream processing
-B) Online processing and offline processing
-C) Parallel processing and distributed processing
-D) In-memory processing and disk-based processing ✅ Correct Answer
-3. What is the name of the open-source framework that allows distributed processing of large datasets across clusters of computers using simple programming models?
+3. What is the term used to describe a column that uniquely identifies each row in a table?
+   - A) Primary key ✅ Correct Answer
+   - B) Foreign key
+   - C) Candidate key
+   - D) Composite key
 
-A) Hadoop ✅ Correct Answer
-B) Spark
-C) Hive
-D) Pig
-4. What is the name of the programming language that is widely used for data analysis and data science, especially for working with big data?
+4. What is the term used to describe a column that references the primary key of another table?
+   - A) Primary key
+   - B) Foreign key ✅ Correct Answer
+   - C) Candidate key
+   - D) Composite key
 
-A) SQL
-B) Python ✅ Correct Answer
-C) R
-D) SAS
-What is the name of the technique that involves creating graphical representations of data to help users understand and communicate data insights?
+5. What is the term used to describe a logical connection between two tables based on a common attribute?
+   - A) Relationship ✅ Correct Answer
+   - B) Join
+   - C) Link
+   - D) Association
 
-A) Data visualization ✅ Correct Answer
-B) Data mining
-C) Data modeling
-D) Data storytelling
-What is the name of the technique that involves finding hidden patterns and associations in large datasets to help users discover new insights and make predictions?
+6. What is the name of the standard language used to manipulate data and query a relational database?
+   - A) SQL ✅ Correct Answer
+   - B) Python
+   - C) Java
+   - D) C++
 
-A) Data visualization ✅ Correct Answer
-B) Data mining
-C) Data modeling
-D) Data storytelling
-What is the name of the technique that involves using statistical methods and algorithms to analyze data and make predictions based on historical data and trends?
+7. What is the name of the SQL command used to create a new table in a relational database?
+   - A) CREATE TABLE✅ Correct Answer
+   - B) INSERT TABLE
+   - C) DEFINE TABLE
+   - D) DECLARE TABLE
 
-A) Descriptive analytics ✅ Correct Answer
-B) Diagnostic analytics
-C) Predictive analytics
-D) Prescriptive analytics
-What is the name of the technique that involves using optimization and simulation methods to suggest the best course of action for a given situation based on data analysis?
+8. What is the name of the SQL command used to add a new row of data to an existing table in a relational database?
+   - A) CREATE ROW
+   - B) INSERT ROW ✅ Correct Answer
+   - C) ADD ROW
+   - D) APPEND ROW
 
-A) Descriptive analytics
-B) Diagnostic analytics ✅ Correct Answer
-C) Predictive analytics
-D) Prescriptive analytics
-What is the name of the technique that involves using natural language processing and machine learning to generate natural language summaries of data insights and findings?
+9. What is the name of the SQL command used to retrieve data from one or more tables in a relational database?
+   - A) SELECT ✅ Correct Answer
+   - B) FETCH
+   - C) GET
+   - D) READ
 
-A) Data visualization ✅ Correct Answer
-B) Data mining
-C) Data modeling
-D) Data storytelling
-What is the name of the technique that involves using mathematical models and equations to represent the relationships and dependencies among data variables?
+10. What is the name of the SQL command used to modify the data in an existing row of a table in a relational database?
+    - A) UPDATE ✅ Correct Answer
+    - B) CHANGE
+    - C) EDIT
+    - D) ALTER
 
-A) Data visualization ✅ Correct Answer
-B) Data mining
-C) Data modeling
-D) Data storytelling
-What is the name of the technique that involves using question answering systems and chatbots to provide natural language responses to user queries based on data analysis?
+11. What is the name of the SQL command used to delete a row of data from a table in a relational database?
+    - A) DELETE
+    - B) REMOVE
+    - C) DROP
+    - D) ERASE
 
-A) Data visualization ✅ Correct Answer
-B) Data mining
-C) Data modeling
-D) Data conversational
-What is the name of the technique that involves using machine learning and artificial intelligence to analyze large and complex datasets that are beyond the capabilities of traditional data analysis methods?
+12. What is the name of the SQL command used to delete an entire table from a relational database?
+    - A) DELETE TABLE
+    - B) REMOVE TABLE
+    - C) DROP TABLE ✅ Correct Answer
+    - D) ERASE TABLE
 
-A) Data visualization
-B) Data mining
-C) Data modeling ✅ Correct Answer
-D) Data science
-What is the name of the technique that involves using statistical methods and tests to draw conclusions and infer causal relationships from data?
+13. What is the name of the SQL command used to apply a condition or filter to the data retrieved from a table in a relational database?
+    - A) WHERE ✅ Correct Answer
+    - B) IF
+    - C) WHEN
+    - D) CASE
 
-A) Descriptive analytics ✅ Correct Answer
-B) Diagnostic analytics
-C) Inferential analytics
-D) Causal analytics
-What is the name of the technique that involves using experimental methods and randomized controlled trials to establish causal relationships and measure the impact of interventions on data outcomes?
+14. What is the name of the SQL command used to sort the data retrieved from a table in a relational database in ascending or descending order?
+    - A) SORT
+    - B) ORDER BY ✅ Correct Answer
+    - C) ARRANGE
+    - D) GROUP BY
 
-A) Descriptive analytics
-B) Diagnostic analytics ✅ Correct Answer
-C) Inferential analytics
-D) Causal analytics
-What are the five V's that characterize big data?
+15. What is the name of the SQL command used to combine the data from two or more tables in a relational database based on a common attribute?
+    - A) RELATE
+    - B) JOIN ✅ Correct Answer
+    - C) LINK
+    - D) MERGE
 
-A) Volume, velocity, variety, variability, and value
-B) Volume, velocity, variety, veracity, and value ✅ Correct Answer
-C) Volume, velocity, variety, veracity, and validity
-D) Volume, velocity, variety, variability, and validity
-What is the difference between big data and data analytics?
+16. What is the name of the SQL command used to calculate the number of rows in a table or a subset of rows that match a condition in a relational database?
+    - A) COUNT ✅ Correct Answer
+    - B) SUM
+    - C) AVG
+    - D) MAX
 
-A) Big data involves collecting, storing, and processing large amounts of data from a variety of sources, while data analytics focuses on examining, interpreting, and making sense of data to extract insights and facilitate decision making. ✅ Correct Answer
-B) Big data involves examining, interpreting, and making sense of data to extract insights and facilitate decision making, while data analytics focuses on collecting, storing, and processing large amounts of data from a variety of sources.
-C) Big data and data analytics are synonymous terms that refer to the same process of using data to make informed decisions.
-D) Big data and data analytics are different terms that refer to different aspects of data, such as volume, velocity, and variety.
-What are the four data analysis methods used in big data analytics to uncover meaningful insights and derive solutions?
+17. What is the name of the SQL command used to calculate the total value of a numeric column in a table or a subset of rows that match a condition in a relational database?
+    - A) COUNT
+    - B) SUM ✅ Correct Answer
+    - C) AVG
+    - D) MAX
 
-A) Descriptive, diagnostic, predictive, and prescriptive
-B) Descriptive, diagnostic, inferential, and causal ✅ Correct Answer
-C) Descriptive, exploratory, confirmatory, and causal
-D) Descriptive, exploratory, predictive, and prescriptive
-What is the term used to describe large and diverse datasets that are huge in volume and also rapidly grow in size over time?
+18. What is the name of the SQL command used to calculate the average value of a numeric column in a table or a subset of rows that match a condition in a relational database?
+    - A) COUNT
+    - B) SUM
+    - C) AVG ✅ Correct Answer
+    - D) MAX
 
-A) Big data
-B) Data lake
-C) Data warehouse ✅ Correct Answer
-D) Data mart
-What are some of the benefits of big data analytics for businesses?
+19. What is the name of the SQL command used to find the maximum value of a numeric column in a table or a subset of rows that match a condition in a relational database?
+    - A) COUNT
+    - B) SUM
+    - C) AVG
+    - D) MAX ✅ Correct Answer
 
-A) It can help improve customer satisfaction, increase operational efficiency, reduce costs, and gain a competitive edge.
-B) It can help generate new ideas, increase creativity, foster collaboration, and enhance communication.
-C) It can help protect data privacy, ensure data security, comply with regulations, and prevent data breaches.
-D) All of the above ✅ Correct Answer
-What are some of the challenges of big data analytics?
+20. What is the name of the SQL command used to find the minimum value of a numeric column in a table or a subset of rows that match a condition in a relational database?
+    - A) COUNT
+    - B) SUM
+    - C) AVG
+    - D) MIN ✅ Correct Answer
 
-A) Data quality, data integration, data storage, and data security
-B) Data collection, data cleaning, data analysis, and data visualization
-C) Data governance, data ethics, data literacy, and data culture
-D) All of the above ✅ Correct Answer
-What are some of the common tools and technologies used to perform big data analytics?
+21. What is the name of the SQL command used to create a new database in a relational database management system?
+    - A) CREATE DATABASE ✅ Correct Answer
+    - B) INSERT DATABASE
+    - C) DEFINE DATABASE
+    - D) DECLARE DATABASE
 
-A) Hadoop, Spark, Hive, and Pig ✅ Correct Answer
-B) SQL, Python, R, and SAS
-C) Tableau, Power BI, Qlik, and Excel
-D) All of the above
-What is the name of the distributed data processing engine that can run on top of Hadoop and provides fast and scalable data analysis?
+22. What is the name of the SQL command used to delete an entire database from a relational database management system?
+    - A) DELETE DATABASE
+    - B) REMOVE DATABASE
+    - C) DROP DATABASE ✅ Correct Answer
+    - D) ERASE DATABASE
 
-A) Hadoop
-B) Spark
-C) Hive ✅ Correct Answer
-D) Pig
-What is the name of the data warehouse software that runs on top of Hadoop and provides a SQL-like interface for querying and analyzing large datasets?
+23. What is the name of the SQL command used to select a specific database to work with in a relational database management system?
+    - A) SELECT DATABASE
+    - B) USE DATABASE ✅ Correct Answer
+    - C) CHOOSE DATABASE
+    - D) OPEN DATABASE
 
-A) Hadoop
-B) Spark ✅ Correct Answer
-C) Hive
-D) Pig
-What is the name of the data flow language and execution framework that runs on top of Hadoop and provides a scripting platform for data analysis and transformation?
+24. What is the name of the SQL command used to create a new user account and grant permissions to access a database in a relational database management system?
+    - A) CREATE USER
+    - B) INSERT USER ✅ Correct Answer
+    - C) DEFINE USER
+    - D) DECLARE USER
 
-A) Hadoop
-B) Spark ✅ Correct Answer
-C) Hive
-D) Pig
-What are the two popular architecture options for big data processing that involve different data flows and technology stacks?
+25. What is the name of the SQL command used to revoke permissions from a user account and delete it from a database in a relational database management system?
+    - A) DELETE USER ✅ Correct Answer
+    - B) REMOVE USER
+    - C) DROP USER
+    - D) ERASE USER
 
-A) Lambda and Kappa ✅ Correct Answer
-B) Alpha and Beta
-C) Gamma and Delta
-D) Omega and Sigma]
 
 ## How to Contribute
 
