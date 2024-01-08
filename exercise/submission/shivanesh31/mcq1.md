@@ -15,26 +15,26 @@ Don't forget to hit the :star: if you like this repo.
 **Matrix No:** MCS231014
 
 ## Answer
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
+1. B
+2. A 
+3. A
+4. A
+5. A
+6. A 
+7. D
+8. A
+9. A
+10. B
+11. A
+12. B
+13. C
+14. D
+15. C
+16. C
+17. D
+18. D
+19. C
+20. D
 21.
 22.
 23.
@@ -65,6 +65,11 @@ Don't forget to hit the :star: if you like this repo.
 48.
 49.
 50.
+51.
+52.
+53.
+54.
+55.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
