@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<img src="/images/BDM.jpg"  height="400" />
+<img src="/images/BDM.jpg"  height="300" />
 </p>
 
 ## Course Synopsis
