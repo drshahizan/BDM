@@ -11,9 +11,9 @@ Don't forget to hit the :star: if you like this repo.
 
 ## MCQ Set: 1
 
-**Name:** Thaneatharran 
+**Name:** Thaneatharran A/L Santharasekaran
 
-**Matrix No:**
+**Matrix No:** MSC232006
 
 ## Answer
 1.
