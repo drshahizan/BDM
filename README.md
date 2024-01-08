@@ -111,7 +111,7 @@ This course provides a basic fundamental of big data architecture and management
 | 9   | **Relational Database (RDBMS)** <br> - SQL programming (Subqueries, Join Tables, Aggregate)  |
 | 10  | **No SQL Database** <br>- Introduction to No SQL database <br>- Semi-structured data Modelling (Key Value, Column Family, Document, and Graph) |
 | 11-12| **No SQL database (Document-based Database)** <br>- Document-based data modelling <br>- MongoDB query language |
-| 13-14| **[Cloud Technology](../materials/cloud.md)** <br>- Introduction to Cloud <br>- AWS Cloud (via AWS Learning Management System) |
+| 13-14| **[Cloud Technology](./materials/cloud.md)** <br>- Introduction to Cloud <br>- AWS Cloud (via AWS Learning Management System) |
 | 15  | Project Presentation |
 
 ## Contribution 🛠️
