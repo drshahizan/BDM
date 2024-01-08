@@ -28,19 +28,19 @@ A) Big data technology ✅ Correct Answer
 B) Big data analytics
 C) Big data science
 D) Big data engineering
-What are the two key approaches for big data processing?
+2. What are the two key approaches for big data processing?
 
 A) Batch processing and stream processing
 B) Online processing and offline processing
 C) Parallel processing and distributed processing
 D) In-memory processing and disk-based processing ✅ Correct Answer
-What is the name of the open-source framework that allows distributed processing of large datasets across clusters of computers using simple programming models?
+3. What is the name of the open-source framework that allows distributed processing of large datasets across clusters of computers using simple programming models?
 
 A) Hadoop ✅ Correct Answer
 B) Spark
 C) Hive
 D) Pig
-What is the name of the programming language that is widely used for data analysis and data science, especially for working with big data?
+4. What is the name of the programming language that is widely used for data analysis and data science, especially for working with big data?
 
 A) SQL
 B) Python ✅ Correct Answer
