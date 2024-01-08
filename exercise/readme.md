@@ -27,9 +27,9 @@ Don't forget to hit the :star: if you like this repo.
 | 12 | Comparison between libraries (big data applications) | <a href="./mcq/mcq12.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
 
 ## Structured question
-| Set | Topic |  |File | 
+| Set | Topic   |File | 
 | :-----: |  ------  | :-----: | 
-| 1 | Use case | Hospital Management System | <a href="./uml/uc/uc1.md" ><img src="../images/ucase.png" width="24px" height="24px" ></a> |
+| 1 | Exploratory data analysis  | <a href="./uml/uc/uc1.md" ><img src="../images/ucase.png" width="24px" height="24px" ></a> |
 
 ## Contribution 🛠️
 
