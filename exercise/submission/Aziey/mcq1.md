@@ -8,7 +8,7 @@
 🌟 Hit star button to save this repo in your profile
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set:
+## MCQ Set: 1
 
 **Name: Nur Azimah Binti Mohd Salleh**
 
