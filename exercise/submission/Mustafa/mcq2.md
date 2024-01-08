@@ -1,4 +1,4 @@
-(B) Big data analytics
+#(B) Big data analytics
 (A) Batch processing and stream processing
 (A) Hadoop
 (B) Python
