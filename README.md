@@ -24,7 +24,7 @@ This course provides a basic fundamental of big data architecture and management
 2. [Essential Preparations for a Successful Start in BDM Class](./materials/essentials.md)
 3. [Student Information](student.md)
 4. [Course Information](./images/L1_BigDataManagement.pdf)
-5. [Exercise](h./exercise)
+5. [Exercise](./exercise)
    
 ## Assignment
 
