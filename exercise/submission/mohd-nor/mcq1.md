@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## MCQ Set: 1
 
-**Name:**Mohd Nor bin Mohidin
+**Name:** Mohd Nor bin Mohidin
 
 **Matrix No:** MCS231008
 
