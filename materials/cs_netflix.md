@@ -15,6 +15,10 @@
 
 Ever wondered about the tech wizardry that powers your binge-watching adventures on Netflix? 🚀 Netflix is the world's leading streaming service, with over 247 million paid subscribers in more than 190 countries¹. To deliver seamless and personalized entertainment experiences to millions of users, Netflix relies on a cutting-edge tech stack that covers various aspects of computing, storage, networking, databases, analytics, application development, security, and more. Here's a sneak peek into the core technologies and frameworks that underpin Netflix's digital empire, and how they work together to create a captivating and reliable streaming service.
 
+<p align="center">
+<img src="../images/netflix2.gif"  height="800" />
+</p>
+
 📱 **Mobile & Web:** Netflix offers native mobile apps for iOS and Android devices, as well as a unified web experience for desktop and laptop users. The mobile apps are developed using Swift for iOS and Kotlin for Android, two modern and expressive programming languages that offer high performance and readability. The web app is built using React, a versatile and popular JavaScript framework that enables fast and interactive user interfaces.
 
 🌐 **Frontend/Server Communication:** Netflix uses GraphQL, a query language and runtime for APIs, to enhance communication efficiency between frontend and servers. GraphQL allows the frontend to specify the exact data it needs from the server, reducing bandwidth and improving loading times. GraphQL also enables the frontend to fetch data from multiple sources with a single request, simplifying the data fetching logic.
