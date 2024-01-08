@@ -7,9 +7,27 @@
 
 🌟 Hit star button to save this repo in your profile
 
-# Case study:Unveiling Instagram's Engagement Magic through Machine Learning 🤖
+# Case study: Exploring the Technological Marvel Behind Netflix!
 
+Ever wondered about the tech wizardry that powers your binge-watching adventures on Netflix? 🚀 Here's a sneak peek into the cutting-edge tech stack that ensures a seamless streaming experience for millions around the globe!
 
+📱 **Mobile & Web:** Swift and Kotlin weave the magic for native mobile apps, while the versatile React framework creates a captivating web experience.
+
+🌐 **Frontend/Server Communication:** Netflix relies on GraphQL to enhance communication efficiency between frontend and servers, resulting in a smoother user journey.
+
+🔨 **Backend Services:** ZUUL, Eureka, and the Spring Boot framework form the robust backbone of Netflix's backend, ensuring reliability and scalability.
+
+💾 **Databases:** Netflix's data storage prowess includes EV cache, Cassandra, CockroachDB, and more, ensuring data accessibility and resilience.
+
+📨 **Messaging/Streaming:** Real-time messaging and streaming are powered by Apache Kafka and Fink, ensuring seamless content delivery.
+
+🎥 **Video Storage:** S3 and Open Connect work behind the scenes to store and deliver Netflix's vast library of video content to your screens.
+
+📊 **Data Processing:** The magic of data processing unfolds through Flink and Spark, with Tableau for visualization, while Redshift processes structured data warehouse information.
+
+🛠️ **CI/CD:** Netflix's CI/CD pipeline is a well-oiled machine, thanks to tools like JIRA, Confluence, PagerDuty, Jenkins, Gradle, Chaos Monkey, Spinnaker, Altas, and more.
+
+credit: @chandreshdesai
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
