@@ -16,26 +16,26 @@ Don't forget to hit the :star: if you like this repo.
 **Matrix No:** MSC232006
 
 ## Answer
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
+1. B
+2. A
+3.A
+4.A
+5.A
+6.A
+7.B
+8.A
+9.C
+10.B
+11.A
+12.C
+13.C
+14.D
+15.D
+16.B
+17.A
+18.B
+19.A
+20.C
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
