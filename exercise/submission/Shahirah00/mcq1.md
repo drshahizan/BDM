@@ -31,10 +31,10 @@ Don't forget to hit the :star: if you like this repo.
 14. D
 15. D
 16. C
-17.
-18.
+17. D
+18. D
 19. C
-20. A
+20. D
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
