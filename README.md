@@ -19,6 +19,13 @@ This course provides a basic fundamental of big data architecture and management
 2. Design big data platform demonstrating the implementation of big data applications.
 3. Discuss current technology that support for sustainability of the big data platform ecosystem.
 
+## 🔥 Important things
+1. [How to Become a Data Engineer in 2024](./materials/roadmap.md)
+2. [Essential Preparations for a Successful Start in BDM Class](./materials/essentials.md)
+3. [Student Information](student.md)
+4. [Course Information](./images/L1_BigDataManagement.pdf)
+5. [Exercise](h./exercise)
+   
 ## Assignment
 
 📄👍 [**Turnitin Report**](./materials/plagiarism.md)
@@ -43,12 +50,6 @@ This course provides a basic fundamental of big data architecture and management
 | 1. | Lab 1 | Understanding Your Data | <a href="./lab/lab1.md" ><img src="./images/python.png" width="24px" height="24px" ></a> | 
 | 2. | Lab 2 | EDA Big Data | <a href="https://github.com/drshahizan/Python_EDA/blob/main/lab/eda/bdm/readme.md" ><img src="./images/colab.png" width="24px" height="24px" ></a> | 
 | 3. | Lab 3 | Feature Engineering | <a href="https://github.com/drshahizan/Python_EDA/blob/main/lab/fe/bdm/readme.md" ><img src="./images/colab.png" width="24px" height="24px" ></a> | 
-
-## 🔥 Important things
-1. [How to Become a Data Engineer in 2024](./materials/roadmap.md)
-2. [Essential Preparations for a Successful Start in BDM Class](./materials/essentials.md)
-3. [Student Information](student.md)
-4. [Course Information](./images/L1_BigDataManagement.pdf)
 
 ## Notes
 
