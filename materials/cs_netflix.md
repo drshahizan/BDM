@@ -9,6 +9,10 @@
 
 # Case study: Exploring the Technological Marvel Behind Netflix!
 
+<p align="center">
+<img src="../images/cs_insta.gif"  height="800" />
+</p>
+
 Ever wondered about the tech wizardry that powers your binge-watching adventures on Netflix? 🚀 Here's a sneak peek into the cutting-edge tech stack that ensures a seamless streaming experience for millions around the globe!
 
 📱 **Mobile & Web:** Swift and Kotlin weave the magic for native mobile apps, while the versatile React framework creates a captivating web experience.
