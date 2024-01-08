@@ -22,19 +22,19 @@ Don't forget to hit the :star: if you like this repo.
 5. A
 6. A
 7. D
-8. 
+8. D
 9. A
 10. B
 11. A
 12. B
 13. C
 14. D
-15. 
-16.
-17.
-18.
-19.
-20.
+15. D
+16. C
+17. D
+18. B
+19. C
+20. D
 21.
 22.
 23.
