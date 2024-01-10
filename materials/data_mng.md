@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-🌟 Hit star button to save this repo in your profile
+
 
 # Data Management
 In today's landscape, data management stands as the foundational pillar of successful business operations. With data at the heart of every decision and innovation, its effective handling, from ensuring its quality and security to establishing comprehensive governance and architecture, has become paramount. As data volumes surge and data-driven insights drive enterprises forward, a holistic and adaptive approach to data management is essential for maintaining accuracy, security, and the agility needed to navigate the complexities of the modern data-driven era.
