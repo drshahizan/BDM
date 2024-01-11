@@ -161,8 +161,8 @@
     - D) OPEN DATABASE
 
 24. What is the name of the SQL command used to create a new user account and grant permissions to access a database in a relational database management system?
-    - A) CREATE USER
-    - B) INSERT USER ✅ Correct Answer
+    - A) CREATE USER  ✅ Correct Answer
+    - B) INSERT USER 
     - C) DEFINE USER
     - D) DECLARE USER
 
