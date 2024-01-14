@@ -5,10 +5,10 @@
 <a href="https://github.com/drshahizan/BDM/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/BDM?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-
+🌟 Hit star button to save this repo in your profile
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set: 1 - Introduction to Big Data and Big Data Analytics
+## MCQ Set: 4 - No SQL Database
 
 **Name: Nabila Husna binti Rosli**
 
@@ -16,26 +16,30 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Answer
 1. B
-2. A
+2. C
 3. A
 4. A
-5. C
-6. A
-7. B
-8. D
+5. A
+6. B
+7. D
+8. A
 9. A
-10. A
+10. B
 11. A
-12. B
-13. C
-14. D
-15. C
+12. D
+13. D
+14. A
+15. B
 16. C
 17. D
-18. D
-19. C
-20. D
-
+18. A
+19. B
+20. A
+21. A
+22. D
+23. D
+24. D
+25. D
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
@@ -44,6 +48,3 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
-
-

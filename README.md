@@ -79,7 +79,9 @@ This course provides a basic fundamental of big data architecture and management
 | 1.  | Unveiling Instagram's Engagement Magic through Machine Learning | <a href="./materials/cs_insta.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 | 2.  | Unlocking Spotify's Musical Enchantment with Machine Learning | <a href="./materials/cs_spotify.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 | 3.  | Netflix | <a href="./materials/cs_netflix.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
-
+| 4.  | Big data in healthcare: management, analysis and future prospects | <a href="https://github.com/drshahizan/BDM/blob/main/images/art_bdata.pdf" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 5.  | Introduction to Big Data Computing for Geospatial Applications | <a href="https://www.mdpi.com/2220-9964/9/8/487" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 6.  | 40 Stats and Real-Life Examples of How Companies Use Big Data | <a href="https://www.scnsoft.com/blog/big-data-use-cases-stats-and-examples" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 
 ### 3. Big Data Management
 
