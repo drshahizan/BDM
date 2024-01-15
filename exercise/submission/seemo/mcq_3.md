@@ -1,4 +1,3 @@
-
 <a href="https://github.com/drshahizan/BDM/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/BDM" alt="Stars Badge"/></a>
 <a href="https://github.com/drshahizan/BDM/network/members"><img src="https://img.shields.io/github/forks/drshahizan/BDM" alt="Forks Badge"/></a>
 <a href="https://github.com/drshahizan/BDM/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/BDM" alt="Pull Requests Badge"/></a>
@@ -11,31 +10,36 @@ Don't forget to hit the :star: if you like this repo.
 
 ## MCQ Set:
 
-**Name:** Ismail Maeen
+**Name:**
 
-**Matrix No:** MCS221028
+**Matrix No:**
 
 ## Answer
-1. B
+1. A
 2. A
 3. A
-4. A
-5. A
+4. B
+5. B
 6. A
 7. A
-8. D
+8. B
 9. A
-10. B
+10. A
 11. A
-12. B
-13. C
-14. D
-15. D
-16. C
-17. D
-18. D
-19. C
+12. C
+13. A
+14. B
+15. B
+16. A
+17. B
+18. C
+19. D
 20. D
+21. A
+22. C
+23. B
+24. A
+25. A
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
@@ -44,5 +48,3 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
-
