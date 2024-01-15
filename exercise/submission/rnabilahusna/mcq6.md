@@ -15,31 +15,31 @@ Don't forget to hit the :star: if you like this repo.
 **Matrix No: MCS231009**
 
 ## Answer
-1.D
-2.B
-3.C
-4.A
-5.B
-6.C
-7.D
-8.A
-9.B
-10.C
-11.D
-12.A
-13.A
-14.C
-15.A
-16.A
-17.C
-18.A
-19.A
-20.B
-21.C
-22.A
-23.A
-24.D
-25.A
+1. D
+2. B
+3. C
+4. A
+5. B
+6. C
+7. D
+8. A
+9. B
+10. C
+11. D
+12. A
+13. A
+14. C
+15. A
+16. A
+17. C
+18. A
+19. A
+20. B
+21. C
+22. A
+23. A
+24. D
+25. A
 
 
 ## Contribution 🛠️
