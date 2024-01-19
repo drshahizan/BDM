@@ -29,15 +29,6 @@ This course provides a basic fundamental of big data architecture and management
 5. [Assignment](./assignment)
 6. [Exercise](./exercise)
    
-
-## Lab
-
-| No. | Activity | Topic | File | 
-| :-----: | ------ | ------ | :-----: | 
-| 1. | Lab 1 | Understanding Your Data | <a href="./lab/lab1.md" ><img src="./images/python.png" width="24px" height="24px" ></a> | 
-| 2. | Lab 2 | EDA Big Data | <a href="https://github.com/drshahizan/Python_EDA/blob/main/lab/eda/bdm/readme.md" ><img src="./images/colab.png" width="24px" height="24px" ></a> | 
-| 3. | Lab 3 | Feature Engineering | <a href="https://github.com/drshahizan/Python_EDA/blob/main/lab/fe/bdm/readme.md" ><img src="./images/colab.png" width="24px" height="24px" ></a> | 
-
 ## Notes
 
 ### 1. Data
