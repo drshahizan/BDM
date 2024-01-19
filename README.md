@@ -9,7 +9,6 @@
 
 # Big Data Management
 
-
 <p align="center">
 <img src="/images/BDM.jpg"  height="300" />
 </p>
@@ -27,7 +26,8 @@ This course provides a basic fundamental of big data architecture and management
 2. [Essential Preparations for a Successful Start in BDM Class](./materials/essentials.md)
 3. [Student Information](student.md)
 4. [Course Information](./images/L1_BigDataManagement.pdf)
-5. [Exercise](./exercise)
+5. [Assignment](./assignment)
+6. [Exercise](./exercise)
    
 ## Assignment
 
