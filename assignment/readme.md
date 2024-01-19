@@ -7,7 +7,7 @@
 
 ## Assignment
 
-📄👍 [**Turnitin Report**](./materials/plagiarism.md)
+📄👍 [**Turnitin Report**](../materials/plagiarism.md)
 
 | No. | Activity | Topic | File | Submission |
 | :-----: | ------ | ------ | :-----: | :-----: | 
