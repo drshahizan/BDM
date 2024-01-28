@@ -78,8 +78,8 @@ The workflow for data processing and EDA on the COVID-19 data using GCP and the 
 - Data Output: We will write and run Spark applications on the GCD cluster, using Colab notebooks and the PySpark API, to output the results of the data processing and EDA to GCS buckets, in CSV or other formats, for further use or sharing. \
   
 ### Question:
-- What are the main advantages of using Google Cloud Platform (GCP) for high performance data processing and EDA?
-- What are the main challenges of using Google Cloud Platform (GCP) for high performance data processing and EDA?
+- What are the main advantages of using Google Cloud Platform (GCP) for big data management and EDA?
+- What are the main challenges of using Google Cloud Platform (GCP) for big data management and EDA?
 - How does Google Cloud Storage (GCS) provide scalable and durable object storage for the COVID-19 data?
 - How does Google Cloud Dataproc (GCD) provide managed clusters of virtual machines (VMs) that can run Apache Spark and Apache Hadoop applications?
 - How does Google Colaboratory (Colab) provide a cloud-based notebook environment that allows users to write and execute Python code, as well as interact with the data and results?
