@@ -33,6 +33,7 @@ Don't forget to hit the :star: if you like this repo.
 | 3 | Case study 3: COVID-19 Data Analysis  | <a href="./case/cs3.md" ><img src="../images/question.svg" width="24px" height="24px" ></a>  |
 | 4 | Case study 4: Airline Flight Data Analysis  | <a href="./case/cs3.md" ><img src="../images/question.svg" width="24px" height="24px" ></a>  |
 | 5 | Case study 5: How Walmart Uses Big Data to Optimize Its Pricing Strategy  | <a href="./case/cs5.md" ><img src="../images/question.svg" width="24px" height="24px" ></a>  |
+| 6 | Case study 6: How Spotify Uses Big Data and NoSQL to Provide Personalized Music Streaming Services | <a href="./case/cs6.md" ><img src="../images/question.svg" width="24px" height="24px" ></a>  |
 
 ## Contribution 🛠️
 
