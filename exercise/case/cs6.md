@@ -71,21 +71,26 @@ The workflow for data processing and NoSQL on the data using GCP and the tools a
     - Comparing and contrasting the variables and features across different groups and categories, such as users, tracks, albums, artists, genres, etc.
    
 
-Source: 
-(1) Real-World NoSQL Database Use Cases: Examples and Use Cases ... - DataStax. https://www.datastax.com/guides/nosql-use-cases.
-(2) NoSQL: A Real Use Case | SpringerLink. https://link.springer.com/chapter/10.1007/978-3-030-87687-6_23.
-(3) NOSQL ANALYSIS AND A CASE STUDY OF MONGODB. https://core.ac.uk/download/pdf/84798041.pdf.
-(4) (PDF) Big Data with Column Oriented NOSQL Database to Overcome the .... https://www.academia.edu/43328635/Big_Data_with_Column_Oriented_NOSQL_Database_to_Overcome_the_Drawbacks_of_Relational_Databases.
-(5) Case Study: How a bank turned challenges into opportunities to serve .... https://blogs.oracle.com/nosql/post/case-study-how-a-bank-turned-challenges-into-opportunities-to-serve-its-customers-using-nosql-database.
+**Source:**
+- (1) [Real-World NoSQL Database Use Cases: Examples and Use Cases ... - DataStax](https://www.datastax.com/guides/nosql-use-cases)
+- (2) [NoSQL: A Real Use Case | SpringerLink.](https://link.springer.com/chapter/10.1007/978-3-030-87687-6_23)
+- (3) [NOSQL ANALYSIS AND A CASE STUDY OF MONGODB](https://core.ac.uk/download/pdf/84798041.pdf)
+- (4) (PDF) [Big Data with Column Oriented NOSQL Database to Overcome the ....](https://www.academia.edu/43328635/Big_Data_with_Column_Oriented_NOSQL_Database_to_Overcome_the_Drawbacks_of_Relational_Databases)
+- (5) [Case Study: How a bank turned challenges into opportunities to serve ....](https://blogs.oracle.com/nosql/post/case-study-how-a-bank-turned-challenges-into-opportunities-to-serve-its-customers-using-nosql-database)
 
 ### Questions
-- What are the benefits and challenges of using Walmart's online channel as a data source for pricing optimization?
-- How does Azure Blob Storage (ABS) provide scalable and durable object storage for the data set in CSV format?
-- How does Azure Databricks (ADB) provide a unified platform for data engineering, data science, and machine learning?
-- How does PySpark enable distributed and parallel processing of large-scale data, using various libraries and modules for data ingestion, transformation, analysis, and output?
-- How does pandas provide high-performance data structures and operations for manipulating and analyzing tabular data?
-- How does machine learning and artificial intelligence enhance data processing and EDA, such as feature engineering, dimensionality reduction, anomaly detection, etc.?
-- How does big data in retail raise ethical and social implications, such as privacy, security, bias, fairness, etc.?
+I can help you generate some questions related to big data management and cloud computing based on the case study you provided. Here are 10 possible questions:
+
+- What are the benefits and challenges of using Google Cloud Platform (GCP) for data processing and NoSQL?
+- How does Spotify use Google Cloud Storage (GCS) to store the raw and processed data in various formats, such as CSV, JSON, Parquet, etc.?
+- How does Spotify use Google Cloud Dataflow (GCD) to write and run code for data processing and NoSQL on the data, using various libraries and frameworks, such as Apache Beam, Apache Kafka, Apache Spark, etc.?
+- How does Spotify use Google Cloud Bigtable (GCB) to store and query the data, using various APIs and clients, such as HBase, Java, Python, etc.?
+- How does Spotify use Google Cloud Data Studio (GDS) to create and share dashboards and reports for data analysis and NoSQL, using various widgets and features, such as charts, tables, filters, etc.?
+- How does Spotify use Apache Beam to provide a unified model for data processing, supporting both batch and stream processing?
+- How does Spotify use Apache Kafka to provide a distributed messaging system for data streaming?
+- How does Spotify use Apache Spark to provide a distributed computing engine for data processing and analysis, supporting various libraries and modules for data ingestion, transformation, analysis, and output?
+- How does Spotify use machine learning and artificial intelligence to enhance data processing and EDA, such as music similarity, user affinity, music popularity, etc.?
+- How does Spotify use big data and NoSQL to provide personalized and engaging music streaming services to its users?
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/HPDP/issues) for any improvements, suggestions or errors in the content.
