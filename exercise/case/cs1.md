@@ -51,19 +51,19 @@ He pointed out that many people were questioning why the site was facing issues,
 “After several times, the website has failed to meet the standards and make it easier for people to register for the vaccine,” he said, adding that the public had also discovered that the site was run using a free version of Cloudflare.
 
 ## Questions
-The article you shared is about the frustration and anger of Malaysians over the inefficient booking system for the AstraZeneca COVID-19 vaccine. The system was reportedly slow, crashed frequently, and had security issues. Many people were unable to secure a slot for the vaccine, while some claimed that the slots were taken by bots or hackers.
+The article you shared is about the frustration and anger of Malaysians over the inefficient booking system for the AstraZeneca COVID-19 vaccine. The system was reportedly slow, crashed frequently, and had security issues. Many people were unable to secure a slot for the vaccine, while some claimed that the slots were taken by bots or hackers. Questions related to big data management based on the case study are:
 
-Questions about high performance data processing based on this article are:
+- What are the benefits and challenges of using big data to manage the vaccine registration process?
+- What are the common tools and frameworks for developing and deploying a user-friendly and reliable website for vaccine registration, such as web servers, databases, cloud services, etc.?
+- How can big data integration and data quality be ensured when collecting and storing the vaccine registration data from various sources, such as online forms, mobile apps, etc.?
+- How can big data analytics and visualization be used to monitor and evaluate the vaccine registration process, such as the number of slots, the distribution of vaccines, the feedback from users, etc.?
+- How can big data security and privacy be protected when handling the vaccine registration data, such as encrypting, anonymizing, and complying with data policies and regulations?
+- How can big data scalability and performance be improved when dealing with the high volume and velocity of the vaccine registration data, such as using parallel and distributed computing, load balancing, caching, etc.?
+- How can big data testing and debugging be conducted to identify and resolve the errors and glitches in the vaccine registration website, such as using automated testing tools, logging and tracing, etc.?
+- How can big data governance and management be established to oversee and coordinate the vaccine registration process, such as defining roles and responsibilities, setting standards and guidelines, etc.?
+- How can big data collaboration and communication be facilitated among the stakeholders involved in the vaccine registration process, such as the government, the vaccine providers, the developers, the users, etc.?
+- How can big data innovation and learning be fostered to enhance and optimize the vaccine registration process, such as using machine learning, artificial intelligence, etc.?.
 
-- How can high performance data processing improve the speed and reliability of the booking system?
-- What are the challenges and risks of using high performance data processing for sensitive data such as personal information and health records?
-- How can high performance data processing help detect and prevent malicious activities such as bots or hackers from exploiting the booking system?
-- What are the best practices and standards for designing and implementing a high performance data processing system for a large-scale vaccination program?
-- How can high performance data processing enable real-time monitoring and analysis of the vaccination progress and outcomes?
-- How can high performance data processing support the scalability and flexibility of the booking system to accommodate changing demand and supply of the vaccine?
-- How can high performance data processing optimize the resource allocation and utilization of the booking system to reduce costs and energy consumption?
-- How can high performance data processing ensure the quality and accuracy of the data collected and processed by the booking system?
-- How can high performance data processing facilitate the communication and collaboration among the stakeholders involved in the booking system, such as the government, the health authorities, the vaccine providers, and the public?
 
 #### Source: 
 (1) [Frustration and anger as AZ slots are all snapped up.](https://www.freemalaysiatoday.com/category/nation/2021/05/26/frustration-and-anger-as-az-slots-are-all-snapped-up/)
