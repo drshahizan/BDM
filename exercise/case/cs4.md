@@ -98,8 +98,8 @@ The workflow for data processing and EDA on the airline flight data using AWS an
     - Comparing and contrasting the variables and features across different groups and categories, such as months, days, hours,
 
 ### Question:
-- What are the main advantages of using Amazon Web Services (AWS) for high performance data processing and EDA?
-- What are the main challenges of using Amazon Web Services (AWS) for high performance data processing and EDA?
+- What are the main advantages of using Amazon Web Services (AWS) for big data management and EDA?
+- What are the main challenges of using Amazon Web Services (AWS) for big data management and EDA?
 - How does Amazon Simple Storage Service (S3) provide scalable and durable object storage for the airline flight data?
 - How does Amazon Elastic MapReduce (EMR) provide managed clusters of virtual machines (VMs) that can run Apache Spark and Apache Hadoop applications?
 - How does Amazon SageMaker (SM) provide a fully managed platform for machine learning and data science?
