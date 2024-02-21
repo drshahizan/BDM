@@ -7,7 +7,7 @@
 
 ## Assignment
 
-📄 [**Carry marks**](../materials/plagiarism.md)
+📄 [**Carry marks**](https://github.com/drshahizan/BDM/blob/main/images/BDMcarry%20marks.pdf)
 
 | No. | Activity | Topic | File | Submission |
 | :-----: | ------ | ------ | :-----: | :-----: | 
