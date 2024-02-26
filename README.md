@@ -10,7 +10,7 @@
 # Big Data Management
 
 <p align="center">
-<img src="/images/BDM.jpg"  height="300" />
+<img src="/images/120_AI_tools.gif"  height="300" />
 </p>
 
 ## Course Synopsis
