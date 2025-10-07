@@ -7,7 +7,7 @@
 
 
 
-# Case study: Exploring the Technological Marvel Behind Netflix!
+# Case study: Exploring the Technological Marvel Behind Netflix
 
 <p align="center">
 <img src="../images/netflix.gif"  height="800" />
